@@ -1,0 +1,2001 @@
+﻿Order ID,Order Date,Customer Name,City,State,Category,Amount,Profit
+SALE0,2024-07-07,Sarah Smith,Kathleenport,Wyoming,Sports,198.42,-47.56
+SALE1,2023-12-25,Michael Foley,Oneillfurt,Vermont,Electronics,228.79,-982.34
+SALE2,2024-06-03,Christopher Sutton,Deborahberg,Pennsylvania,Beauty,"2,742.15","2,568.99"
+SALE3,2023-11-29,John Jordan,Port Crystalberg,Tennessee,Electronics,774.07,381.18
+SALE4,2024-01-06,Amanda Powell,South William,Alabama,Beauty,"1,833.44","1,781.51"
+SALE5,2024-07-26,Anthony Phillips,North Davidport,Rhode Island,Electronics,357.23,"-1,038.79"
+SALE6,2025-07-12,John Scott,South Christopher,Pennsylvania,Home,"1,335.03",412.09
+SALE7,2023-11-18,Patrick Roberts,Jaredville,Missouri,Home,"1,054.56",502.36
+SALE8,2025-05-04,Dr. Suzanne Bullock,Lake Blaketon,Alabama,Home,"1,250.62",847.80
+SALE9,2025-07-31,David Pierce,Grayland,Washington,Home,"1,344.68",985.14
+SALE10,2024-02-13,Michael Thomas,Woodmouth,Nevada,Sports,259.13,93.07
+SALE11,2025-05-24,Jessica Gonzalez,South Darrenland,Iowa,Electronics,952.57,-351.67
+SALE12,2024-08-24,Wesley Short,Susanstad,Montana,Sports,"2,552.54","2,027.58"
+SALE13,2025-08-06,Adam Castro,New Donnabury,Texas,Electronics,443.66,-394.90
+SALE14,2025-06-21,Sherry Cabrera,Shannonview,Pennsylvania,Sports,"1,145.85",481.61
+SALE15,2024-12-10,Lindsay Beasley,Wesleyhaven,Idaho,Clothing,"2,509.46","2,062.60"
+SALE16,2025-09-13,Arthur Warren,Ericshire,Nevada,Sports,677.97,196.71
+SALE17,2024-12-11,Molly Gardner,Nicoleborough,Arkansas,Home,774.14,426.10
+SALE18,2024-08-13,David Patterson,New Amyport,Nevada,Electronics,838.85,186.73
+SALE19,2024-03-18,Maria Hill,Zamoraborough,Nevada,Beauty,"1,782.45",-148.55
+SALE20,2025-07-05,Justin Cross,North Anthonychester,Nevada,Sports,"2,159.43",726.60
+SALE21,2024-06-04,Alexander Byrd,Parkerview,New York,Electronics,459.86,206.53
+SALE22,2024-04-12,Elizabeth Foster,Anthonymouth,Oklahoma,Clothing,"2,850.11","2,195.45"
+SALE23,2024-06-23,Miranda King,West Mathew,New York,Beauty,661.74,545.92
+SALE24,2025-09-08,Jennifer Pruitt,East Justin,Missouri,Electronics,216.50,-831.01
+SALE25,2024-09-17,Erika Padilla,Andrewsland,Alabama,Clothing,"2,933.32","1,889.32"
+SALE26,2024-01-03,Stuart Johnson,West Markport,North Dakota,Electronics,599.65,"-1,127.03"
+SALE27,2025-02-22,Anna Perez,South Jerry,Maine,Electronics,"2,030.57",587.87
+SALE28,2025-09-23,Theresa Campbell,New Brian,Wisconsin,Electronics,132.09,-352.37
+SALE29,2024-01-11,Sherry Cabrera,Shannonview,Pennsylvania,Home,"1,535.68","1,132.86"
+SALE30,2023-10-18,Joshua Ryan,New David,New Jersey,Clothing,373.56,112.56
+SALE31,2024-10-28,Shane Brown,East Andrea,Michigan,Clothing,288.98,-484.14
+SALE32,2024-11-01,Jennifer Johnson,Cheyenneborough,New Hampshire,Clothing,"1,154.89",522.33
+SALE33,2024-11-24,April Phillips,Lake Carolyn,Hawaii,Beauty,"1,219.43",987.79
+SALE34,2023-10-16,Evelyn Brown,West Victoriaborough,New Mexico,Home,"2,148.12","1,691.06"
+SALE35,2025-08-09,Julia Jackson,Edwardland,California,Beauty,354.33,-995.35
+SALE36,2024-12-09,Tammy Miller Md,Austinfurt,Mississippi,Clothing,"1,409.99",626.99
+SALE37,2024-02-07,Darrell Miller,Port Carol,Florida,Home,266.65,-629.93
+SALE38,2024-03-27,Daniel Austin,Lake Howardberg,Kentucky,Home,"2,764.80","2,045.72"
+SALE39,2023-12-04,John Smith,South Andrewport,California,Beauty,"1,105.34",388.40
+SALE40,2024-07-13,Tonya Burch,Olsonhaven,Iowa,Electronics,"1,625.38",980.56
+SALE41,2023-11-11,Edward Cole,Lake Charlotte,Arizona,Clothing,945.22,574.84
+SALE42,2024-12-23,Jennifer Woods,West Brendamouth,North Carolina,Home,"1,537.45","1,100.49"
+SALE43,2025-01-20,Christy Hoffman,Garyberg,Indiana,Home,"1,864.32","1,504.78"
+SALE44,2024-09-03,Sarah Brady,Johnsonland,Iowa,Electronics,322.35,-184.31
+SALE45,2024-11-10,Manuel Fisher,Kanebury,New Hampshire,Beauty,"1,050.50",981.26
+SALE46,2024-10-05,Eric Singh,Port Lisa,New Mexico,Home,393.57,68.31
+SALE47,2024-06-23,Melissa Howard,Maynardton,New Hampshire,Home,116.77,97.25
+SALE48,2023-10-19,Sarah Brady,Johnsonland,Iowa,Sports,372.33,205.21
+SALE49,2024-11-11,Dr. Tamara White Md,New Benjamin,North Carolina,Home,707.77,460.85
+SALE50,2023-12-31,Eric Singh,Port Lisa,New Mexico,Sports,190.84,-445.94
+SALE51,2025-02-01,Maria Ramirez,West Brandon,Montana,Clothing,169.99,-484.67
+SALE52,2025-08-25,Theresa Campbell,New Brian,Wisconsin,Beauty,486.06,-63.06
+SALE53,2025-01-20,Alex Mann Ii,South Zacharychester,Oklahoma,Sports,783.30,651.79
+SALE54,2025-02-18,Amy Fowler,West Bobbyshire,New York,Electronics,"1,592.49","1,438.41"
+SALE55,2024-10-24,Jennifer Myers,Marthaborough,Wisconsin,Beauty,783.59,697.01
+SALE56,2023-12-22,Jennifer Garcia,New Sean,New Mexico,Electronics,"1,567.36",728.80
+SALE57,2024-06-19,Michael Foley,Oneillfurt,Vermont,Beauty,979.43,341.61
+SALE58,2024-12-07,David Ross,South Angela,Arkansas,Electronics,"2,552.30",690.94
+SALE59,2023-11-27,Melinda Johnson,Kaufmanfurt,Ohio,Beauty,767.17,584.13
+SALE60,2025-07-16,Isabel Foster,Port Joshuaville,New Jersey,Sports,180.94,-23.45
+SALE61,2025-02-28,Maria Hill,Zamoraborough,Nevada,Sports,307.43,286.09
+SALE62,2024-08-11,David Pierce,Grayland,Washington,Electronics,412.67,35.15
+SALE63,2025-09-27,James Wolfe,Benjaminton,Arizona,Beauty,230.60,-135.48
+SALE64,2025-09-14,Damon Perez,Jasonton,Ohio,Clothing,198.42,-961.26
+SALE65,2023-12-30,Mariah Brown,Palmerbury,Tennessee,Home,"1,301.99",899.17
+SALE66,2023-10-14,Tyrone Olson,Emilytown,California,Electronics,"2,670.74",747.14
+SALE67,2023-11-25,Sarah Smith,East Rodney,Nevada,Beauty,791.34,675.52
+SALE68,2023-12-10,Jacqueline Anthony,Vincentside,Ohio,Sports,204.93,"-1,705.51"
+SALE69,2025-08-28,Rebecca Baker,New Katherine,Kansas,Electronics,"1,706.17",737.25
+SALE70,2025-07-11,Cheryl Copeland,Snowmouth,Maryland,Beauty,"1,335.03",-113.22
+SALE71,2025-08-20,Daniel Contreras,Robertview,Florida,Sports,"1,243.04",287.82
+SALE72,2024-08-29,Sarah Smith,Kathleenport,Wyoming,Sports,503.98,368.37
+SALE73,2024-11-30,Christopher Carter,Brendastad,South Dakota,Sports,968.19,330.37
+SALE74,2025-10-12,Samantha Robinson,North Roy,Mississippi,Sports,166.48,34.97
+SALE75,2024-07-27,Rachel Myers,Robertberg,North Dakota,Sports,"2,156.55","1,172.63"
+SALE76,2023-12-25,Michael Torres,Gonzalezfort,New Jersey,Electronics,"1,029.47",243.69
+SALE77,2025-05-23,Daniel Boyd,West Pamelafurt,West Virginia,Electronics,502.11,152.94
+SALE78,2024-11-13,Lisa Young,Maybury,Georgia,Beauty,"1,512.92",941.84
+SALE79,2023-12-08,Tyler Conrad,North Curtischester,North Dakota,Home,289.99,166.53
+SALE80,2025-08-16,John Bradford,Anabury,Vermont,Sports,415.73,203.47
+SALE81,2024-11-20,Dr. Ashley Yates Md,New Maria,Wisconsin,Beauty,272.80,58.48
+SALE82,2024-08-14,Frank Stewart,Fischerborough,Delaware,Clothing,"1,010.23",133.73
+SALE83,2024-05-15,Justin Ingram,Lake Lisaland,Louisiana,Sports,133.43,-444.69
+SALE84,2023-12-08,Rebecca Baker,New Katherine,Kansas,Clothing,"2,159.43","1,992.09"
+SALE85,2023-12-22,Katherine Dorsey,Christopherland,Oklahoma,Sports,386.38,-138.58
+SALE86,2024-09-10,John Sloan,East Johntown,Delaware,Sports,"1,943.09","1,548.56"
+SALE87,2025-04-08,Reginald Willis,Kellybury,New York,Clothing,"2,777.44","1,749.76"
+SALE88,2024-10-23,Mario Jacobs,Port James,New York,Sports,374.67,103.45
+SALE89,2025-07-10,Carlos Skinner,Dwaynemouth,Alabama,Sports,705.79,127.67
+SALE90,2024-10-12,Dominic Page,Port Michaelburgh,Pennsylvania,Home,616.21,256.67
+SALE91,2024-01-21,David Lozano,North Michaelfurt,Wisconsin,Beauty,339.27,"-1,010.41"
+SALE92,2024-02-28,Daniel Boyd,West Pamelafurt,West Virginia,Home,578.12,402.05
+SALE93,2024-12-31,Michael Thomas,Woodmouth,Nevada,Sports,556.78,514.10
+SALE94,2024-08-26,Tracy Stephens,New Joshuatown,Maine,Sports,373.56,-118.40
+SALE95,2024-09-21,Darren Burton,Lake Alice,Tennessee,Home,117.46,-285.36
+SALE96,2024-08-19,Nancy Page,West Julia,Utah,Sports,792.33,602.04
+SALE97,2024-10-22,Cynthia Roberts,Millerfort,Vermont,Clothing,"1,669.31",575.30
+SALE98,2024-10-15,Joseph Richards,Wigginsville,Alabama,Home,"1,581.25",-264.63
+SALE99,2024-07-06,Andrew Smith,East Matthew,Wisconsin,Sports,"1,235.74",-68.78
+SALE100,2025-01-20,Gregory Allen,West Bruce,Vermont,Home,658.46,298.92
+SALE101,2024-06-10,Christy Hoffman,Garyberg,Indiana,Clothing,895.30,373.24
+SALE102,2024-09-17,David Cobb,Lake Thomas,South Dakota,Home,717.26,430.40
+SALE103,2025-09-07,Melissa Hamilton,Hutchinsonville,Oklahoma,Electronics,"2,997.62","1,320.50"
+SALE104,2024-02-08,David Arnold,East Jennifer,California,Home,"1,636.11","1,283.97"
+SALE105,2023-10-15,Dr. Benjamin Price,Kylebury,Alabama,Home,602.25,145.19
+SALE106,2025-08-22,Tyrone Olson,Emilytown,California,Sports,"1,605.51","1,541.49"
+SALE107,2024-02-01,Jasmine Snyder,Hudsonfort,Connecticut,Home,"2,060.39","1,356.11"
+SALE108,2025-05-08,James Gibbs,Mooneyshire,Alaska,Sports,"2,372.52",918.66
+SALE109,2025-03-22,Eric Todd,Danielstad,Montana,Clothing,"1,027.74",-287.01
+SALE110,2025-07-13,Daniel Boyd,West Pamelafurt,West Virginia,Electronics,882.57,-920.27
+SALE111,2025-05-21,Michael Jones,North Edwardton,Tennessee,Electronics,"1,674.51",994.23
+SALE112,2025-02-17,Melissa Duffy Md,East Jenna,South Carolina,Electronics,"2,020.71",842.04
+SALE113,2024-05-01,Michael Foley,Oneillfurt,Vermont,Home,225.58,51.56
+SALE114,2024-07-09,Patrick Roberts,Jaredville,Missouri,Clothing,"1,388.92",512.42
+SALE115,2025-09-25,Christopher David,Karenmouth,Massachusetts,Clothing,"3,239.36","2,761.08"
+SALE116,2024-05-08,Monica Miller,Lake David,Mississippi,Clothing,"2,404.80",946.12
+SALE117,2024-09-19,Amber Mcclain,Brendaburgh,Florida,Clothing,"1,007.22",505.20
+SALE118,2024-04-23,Lance Baker,Port Victoria,Florida,Electronics,115.50,-210.56
+SALE119,2024-07-30,Sean Powell,South Kevin,Vermont,Sports,215.14,172.46
+SALE120,2023-12-14,Timothy Juarez,Grahamstad,South Carolina,Sports,"1,239.56",830.78
+SALE121,2024-09-23,Matthew Payne,Grahamfurt,Wyoming,Sports,"1,245.31",-208.55
+SALE122,2025-08-17,Jasmine Snyder,Hudsonfort,Connecticut,Sports,379.70,-0.88
+SALE123,2025-01-17,Elizabeth Foster,Anthonymouth,Oklahoma,Electronics,893.38,777.82
+SALE124,2025-04-30,Melissa Duffy Md,East Jenna,South Carolina,Home,70.96,-25.06
+SALE125,2024-11-02,Traci Gonzalez,Snyderfurt,New Mexico,Electronics,803.99,364.92
+SALE126,2025-08-15,Joseph Richards,Wigginsville,Alabama,Home,926.73,544.51
+SALE127,2025-09-16,Jeffrey Gomez,Lake Nicole,Colorado,Electronics,"2,762.14","1,629.58"
+SALE128,2024-02-25,Charles Norman Phd,East Jennifer,Kansas,Beauty,"1,304.95",588.01
+SALE129,2025-03-07,William Rodriguez,Port Chad,Massachusetts,Clothing,548.28,205.72
+SALE130,2024-07-22,Ryan Moore,Cartershire,Virginia,Sports,782.18,637.65
+SALE131,2024-06-01,Christopher Ford,North Seanfurt,Ohio,Electronics,850.30,584.83
+SALE132,2025-01-05,Daniel Rivas,Dominiquefort,Georgia,Electronics,"3,306.14","2,594.22"
+SALE133,2025-09-10,Victor Mcintosh,Tiffanyshire,Minnesota,Sports,496.97,435.73
+SALE134,2025-06-19,Mary Boyd,New Logan,Michigan,Home,273.09,"-1,212.43"
+SALE135,2024-09-09,Jose Stewart,South Robert,Maine,Clothing,"1,349.06",189.38
+SALE136,2025-04-04,Heather Valenzuela,New Angiefurt,Alaska,Beauty,"2,471.64","1,828.68"
+SALE137,2024-04-10,Laura Mathews,Chambersfurt,Wisconsin,Sports,201.60,11.31
+SALE138,2024-10-24,Michelle Myers,West Daniel,South Carolina,Sports,641.74,-96.20
+SALE139,2025-04-09,Carol Lewis,Ryanport,North Carolina,Beauty,"2,147.55","1,290.27"
+SALE140,2023-11-25,Amy Wilson,Morrisburgh,Indiana,Electronics,948.12,267.84
+SALE141,2025-03-02,Edward Hall,New William,New Mexico,Beauty,372.92,54.01
+SALE142,2024-10-08,John Donaldson,New Edward,Maine,Beauty,"1,443.71",762.93
+SALE143,2025-08-15,Terry Moses,Leahmouth,Nevada,Electronics,"1,278.34",-398.78
+SALE144,2024-06-05,Lindsay Beasley,Wesleyhaven,Idaho,Clothing,540.91,-129.38
+SALE145,2024-08-18,John Perez,Brandontown,South Carolina,Sports,977.05,107.37
+SALE146,2024-11-30,Adam Castro,New Donnabury,Texas,Clothing,"1,753.23","1,082.94"
+SALE147,2024-11-21,Lisa Chandler,Port Richard,Montana,Sports,562.33,409.41
+SALE148,2025-08-09,Amanda Powell,South William,Alabama,Home,475.98,104.60
+SALE149,2024-07-29,Christy Vasquez,Port Travisstad,South Carolina,Clothing,"1,432.27",649.27
+SALE150,2024-05-21,Mr. Mark Beasley,West Johnchester,Indiana,Sports,"1,194.95",345.91
+SALE151,2024-10-29,Paul Fox,Michaelton,Hawaii,Electronics,"1,584.78",615.86
+SALE152,2025-05-21,Brian Hammond,North Nicholas,Texas,Clothing,193.56,-242.88
+SALE153,2024-10-14,Elizabeth Johnson,Anitaland,Washington,Electronics,"1,491.79",143.59
+SALE154,2024-11-17,Eric Wolfe,Garciaview,Louisiana,Electronics,300.20,122.22
+SALE155,2025-03-29,Brandy Thompson,West Patriciaview,Alabama,Electronics,"3,077.60","1,567.52"
+SALE156,2024-07-21,Casey Simpson,West Mathewside,Mississippi,Beauty,"1,843.04","1,756.46"
+SALE157,2025-08-14,David Cobb,Lake Thomas,South Dakota,Home,79.78,-1.97
+SALE158,2024-11-05,Gregory Allen,West Bruce,Vermont,Sports,93.91,16.39
+SALE159,2024-06-11,Alejandro Evans,Cannonberg,Connecticut,Beauty,193.12,-172.96
+SALE160,2025-09-18,Bridget Allen,Lake Shaneburgh,Delaware,Home,"1,084.68",808.58
+SALE161,2025-03-13,Cheryl Copeland,Snowmouth,Maryland,Home,455.60,317.55
+SALE162,2023-12-16,Tracy Stephens,New Joshuatown,Maine,Sports,952.85,631.67
+SALE163,2025-07-13,Nathan Campbell,Rodrigueztown,Oklahoma,Beauty,473.66,189.83
+SALE164,2024-05-06,Arthur Warren,Ericshire,Nevada,Sports,485.56,"-1,253.80"
+SALE165,2024-08-04,Christopher Brown,Sandrastad,West Virginia,Home,"1,741.56",844.98
+SALE166,2023-12-09,Crystal Waters,North Michelleport,Kansas,Clothing,"2,343.46","1,470.58"
+SALE167,2025-07-28,Tyler Cook,Kramerview,Alaska,Home,"1,620.83",706.71
+SALE168,2024-06-19,Travis Holland,Webstermouth,New Hampshire,Home,798.55,779.03
+SALE169,2024-01-22,James Orozco,Simpsonfort,Maine,Sports,604.42,-350.80
+SALE170,2024-04-08,Kristen Fischer,Lake Christopher,Arkansas,Electronics,109.56,-309.72
+SALE171,2025-05-18,Michelle Rogers,East Jessicaborough,Hawaii,Beauty,240.56,197.27
+SALE172,2023-12-07,Evelyn Brown,West Victoriaborough,New Mexico,Beauty,"1,241.88",875.80
+SALE173,2024-01-23,Sara Ingram,East Dillonview,Virginia,Electronics,"1,068.25",423.43
+SALE174,2023-12-07,Gloria Taylor,North Daniel,Louisiana,Sports,"2,873.86","2,347.82"
+SALE175,2024-12-15,Charles Conley,Nathanshire,Maine,Home,"1,217.16",322.30
+SALE176,2024-03-20,Susan Mcdonald,East Ellen,Arkansas,Clothing,617.29,443.27
+SALE177,2025-01-13,Philip Pennington,East Valerieview,Oregon,Home,75.84,-5.91
+SALE178,2025-08-16,Cody Diaz,South Aaronside,New Hampshire,Beauty,"2,555.64","1,121.76"
+SALE179,2025-06-04,Krystal Ford,South David,Arizona,Sports,762.37,124.55
+SALE180,2023-11-05,Earl Smith Dds,West Sarah,South Dakota,Electronics,"2,089.90","1,111.72"
+SALE181,2025-02-22,Beth Martin,Burkefurt,West Virginia,Home,137.50,-401.81
+SALE182,2025-04-06,Alexander Byrd,Parkerview,New York,Electronics,"2,908.17","1,231.05"
+SALE183,2024-10-29,Robert Jones Dds,Tristanton,Oklahoma,Clothing,541.62,374.28
+SALE184,2025-01-29,Melinda Thomas,Lake Elizabethside,Indiana,Beauty,678.84,495.80
+SALE185,2024-03-03,Samuel Mullins,Hartmouth,Louisiana,Beauty,"1,301.61",501.03
+SALE186,2024-11-04,April Phillips,Lake Carolyn,Hawaii,Home,968.18,511.12
+SALE187,2024-09-03,Adam Rowland,Welchview,California,Sports,"1,087.67",516.59
+SALE188,2024-04-29,Martha Brown,Novakstad,California,Clothing,"1,786.23",866.85
+SALE189,2024-04-29,Donna Gregory,South Amandahaven,Arizona,Clothing,522.68,355.34
+SALE190,2025-04-28,Mr. Christopher Sims,Donaldsontown,Connecticut,Beauty,"1,146.94",503.98
+SALE191,2024-06-16,Sean Roth,Lake Michael,Virginia,Clothing,780.75,613.41
+SALE192,2024-11-21,Edwin Barnes,Lake Alexandra,North Carolina,Home,922.21,-420.08
+SALE193,2025-04-16,Mariah Brown,Palmerbury,Tennessee,Home,263.61,44.75
+SALE194,2024-11-22,Kristy Dunlap,Whiteport,North Carolina,Beauty,"2,184.58","2,054.71"
+SALE195,2023-12-30,Jose Stewart,South Robert,Maine,Beauty,862.51,379.76
+SALE196,2025-09-04,David Pierce,Grayland,Washington,Sports,"2,620.75","2,498.27"
+SALE197,2023-10-28,Matthew Hanna,Gonzalezbury,Michigan,Sports,525.00,357.88
+SALE198,2024-11-04,Eric Holmes,Smithville,Wyoming,Sports,381.96,96.42
+SALE199,2024-12-20,Deanna Simpson,Brownport,North Dakota,Beauty,588.49,-92.29
+SALE200,2025-03-09,Christopher Garcia Dds,New Joseph,Missouri,Beauty,"1,661.80",805.18
+SALE201,2025-03-26,Justin Cross,North Anthonychester,Nevada,Home,752.86,573.09
+SALE202,2025-04-03,Travis Holland,Webstermouth,New Hampshire,Electronics,"1,175.24",829.56
+SALE203,2024-02-05,Philip Mendoza,Tylermouth,Massachusetts,Electronics,859.78,21.22
+SALE204,2024-06-22,Paul Fox,Michaelton,Hawaii,Electronics,"1,909.96",862.45
+SALE205,2025-08-14,Melinda Rivera,East Davidmouth,New Hampshire,Sports,374.35,243.11
+SALE206,2024-06-02,Brian Hammond,North Nicholas,Texas,Electronics,"1,146.48",-530.64
+SALE207,2024-12-14,Brent Rivas,North Kellyberg,New Jersey,Home,125.84,-102.69
+SALE208,2024-04-29,Leonard Cochran,Port Sherryview,North Dakota,Electronics,"3,576.04","1,898.92"
+SALE209,2023-10-25,Michael Garner,Port Crystal,New Hampshire,Electronics,595.98,246.81
+SALE210,2024-07-24,David Patterson,New Amyport,Nevada,Sports,600.98,410.69
+SALE211,2025-05-30,Kenneth Lambert,North Kathryn,Kansas,Home,"1,491.41",969.35
+SALE212,2025-10-12,Kelli Smith,North Maryfort,Oregon,Home,417.01,"-1,428.87"
+SALE213,2024-01-23,Brandy Thompson,West Patriciaview,Alabama,Home,558.39,233.13
+SALE214,2025-10-13,Carmen Price,North Briannamouth,Tennessee,Electronics,574.12,396.14
+SALE215,2024-03-05,Adam Castro,New Donnabury,Texas,Home,907.53,763.50
+SALE216,2025-07-16,Joseph Faulkner,New Leahfurt,North Dakota,Sports,390.82,"-1,042.01"
+SALE217,2023-10-20,Cynthia Payne,South Gina,Kentucky,Electronics,286.23,-179.11
+SALE218,2024-06-04,Mary Russell,South Regina,Arkansas,Sports,"2,281.85",371.41
+SALE219,2023-10-26,Sarah Brady,Johnsonland,Iowa,Electronics,295.45,"-1,065.11"
+SALE220,2025-04-07,Rhonda Morales,Lake Barryfurt,California,Beauty,"1,199.36",187.10
+SALE221,2025-03-13,Sheila Wilson,South Dustin,Tennessee,Electronics,"2,217.75",928.11
+SALE222,2024-07-07,Tyrone Olson,Emilytown,California,Electronics,529.89,-648.78
+SALE223,2024-03-10,James Berger,Bryanmouth,Delaware,Sports,"1,495.74","1,081.94"
+SALE224,2025-09-15,Samantha Walker,Timothyburgh,Louisiana,Sports,"1,447.22",725.33
+SALE225,2024-11-11,Roy Cole,North Cynthiatown,New Jersey,Sports,"2,532.35","2,211.17"
+SALE226,2025-01-09,Cynthia Payne,South Gina,Kentucky,Sports,"1,825.32","1,411.52"
+SALE227,2024-04-24,Philip Pennington,East Valerieview,Oregon,Electronics,"1,819.80","1,167.68"
+SALE228,2023-12-24,Erica Carney,North Justin,North Dakota,Clothing,"1,630.04","1,313.76"
+SALE229,2024-02-26,Maria Ramirez,West Brandon,Montana,Beauty,"2,123.99",675.74
+SALE230,2025-01-19,Timothy Weaver,New Amy,Ohio,Electronics,"1,214.68",680.74
+SALE231,2025-07-25,Shannon Miller,North Austinport,Kentucky,Clothing,"1,519.61",646.73
+SALE232,2024-04-27,Theresa Campbell,New Brian,Wisconsin,Clothing,"2,416.71","1,961.39"
+SALE233,2025-08-11,Dominic Page,Port Michaelburgh,Pennsylvania,Home,940.15,711.62
+SALE234,2025-03-15,Jennifer Woods,West Brendamouth,North Carolina,Sports,348.78,-86.06
+SALE235,2025-01-14,Melissa Howard,Maynardton,New Hampshire,Beauty,672.30,313.83
+SALE236,2025-06-01,Steve Mclaughlin,Josephmouth,New Hampshire,Sports,"1,521.76",943.64
+SALE237,2024-09-24,Justin Lopez,Port Cheryl,Texas,Sports,"1,026.05",871.01
+SALE238,2023-11-23,Matthew Hanna,Gonzalezbury,Michigan,Electronics,469.61,4.27
+SALE239,2025-07-23,Kathryn Garcia,Morrismouth,California,Home,253.09,-275.12
+SALE240,2025-09-17,Sarah Vance,Johnsonville,Oregon,Electronics,"2,157.27","1,898.01"
+SALE241,2025-04-07,Elizabeth Foster,Anthonymouth,Oklahoma,Beauty,655.17,317.75
+SALE242,2024-01-21,Andrew Smith,East Matthew,Wisconsin,Electronics,358.86,-80.21
+SALE243,2024-07-07,Chloe Aguilar,Lake Johnside,Arizona,Sports,"1,365.66",884.40
+SALE244,2025-05-03,Anna Perez,South Jerry,Maine,Home,"1,303.69","1,111.65"
+SALE245,2024-02-27,Samantha Lee,Port Anthony,Connecticut,Electronics,641.41,-236.73
+SALE246,2025-07-08,Evelyn Brown,West Victoriaborough,New Mexico,Electronics,200.94,-606.48
+SALE247,2025-03-13,Lindsay Beasley,Wesleyhaven,Idaho,Beauty,736.60,378.13
+SALE248,2025-04-21,Thomas Robinson,Nicholastown,Georgia,Sports,"1,422.49",465.76
+SALE249,2024-11-10,Jonathan Steele,Molinabury,Oregon,Home,"1,341.87",854.47
+SALE250,2024-08-09,Joseph Richards,Wigginsville,Alabama,Clothing,"2,290.42","1,657.86"
+SALE251,2024-03-05,Sara Ingram,East Dillonview,Virginia,Sports,"3,143.84","1,890.80"
+SALE252,2025-09-25,William Cortez,Port Hannahport,Ohio,Electronics,494.57,62.90
+SALE253,2025-08-07,William Hull,Heathfort,Michigan,Home,403.07,-491.79
+SALE254,2024-02-16,George Rosario,Leburgh,Florida,Home,"1,562.93",668.07
+SALE255,2025-03-30,Denise Williams,Christianstad,Hawaii,Clothing,"1,329.11",301.43
+SALE256,2025-02-18,Debra Mccullough,Mcdanielfurt,Montana,Sports,111.96,-177.10
+SALE257,2025-03-01,Nathan Hernandez,New Becky,Montana,Sports,"1,060.58",728.46
+SALE258,2024-01-09,Patrick Coleman,New Jeffrey,Nebraska,Home,180.58,-201.64
+SALE259,2025-04-26,Nicholas Webb,Lake Timothy,Nevada,Home,589.80,-174.64
+SALE260,2024-07-24,Steven Stein,West Lauren,Connecticut,Beauty,"2,176.23","1,444.07"
+SALE261,2025-03-26,Teresa Johnson,Johnsonbury,Georgia,Electronics,"3,159.06","2,709.38"
+SALE262,2025-02-25,Joan Johnson,Lake Josephport,Maine,Electronics,"1,194.74",-157.39
+SALE263,2025-06-18,Kristi Lopez,Spencermouth,New Jersey,Clothing,"1,481.05",604.55
+SALE264,2024-12-22,Earl Smith Dds,West Sarah,South Dakota,Beauty,"2,407.26","1,057.58"
+SALE265,2025-06-28,Cristian Wright,Port Denise,California,Home,388.50,265.04
+SALE266,2024-05-25,Thomas Moore,Williamsberg,New York,Beauty,"2,337.75","1,141.31"
+SALE267,2025-05-30,Earl Allen,New Jenniferburgh,Nebraska,Beauty,692.27,121.19
+SALE268,2024-09-20,David Lozano,North Michaelfurt,Wisconsin,Electronics,315.25,-705.17
+SALE269,2025-05-26,Jordan Wells,Phillipschester   ,New Jersey,Clothing,"2,599.59","1,185.71"
+SALE270,2025-03-19,Colleen Maynard,Singletonmouth,Utah,Beauty,"1,330.07",597.91
+SALE271,2025-04-03,Morgan Bowen,Parksfort,Washington,Home,197.68,-78.42
+SALE272,2025-02-05,Robert Jones Dds,Tristanton,Oklahoma,Clothing,"1,519.50","1,149.12"
+SALE273,2025-01-10,Jason Mullins,Brianchester,Delaware,Electronics,811.07,407.36
+SALE274,2024-01-25,Thomas Moore,Williamsberg,New York,Home,394.59,95.73
+SALE275,2025-10-02,Jacqueline Anthony,Vincentside,Ohio,Sports,581.77,146.93
+SALE276,2024-07-10,Heather Valenzuela,New Angiefurt,Alaska,Sports,"1,212.90",634.78
+SALE277,2025-01-04,Jessica Castro,West Markton,Massachusetts,Electronics,"1,741.52",-182.08
+SALE278,2025-05-21,Robert House,Lake James,Maryland,Clothing,937.49,241.41
+SALE279,2025-07-30,Robert King,Cindyton,Rhode Island,Clothing,"2,687.53","1,627.12"
+SALE280,2025-04-10,Michael Jones,North Edwardton,Tennessee,Electronics,299.67,213.25
+SALE281,2024-07-02,Scott Harris,North Nataliemouth,Maryland,Beauty,177.19,-779.54
+SALE282,2025-06-21,Katherine Cowan,New Ana,Montana,Electronics,"1,568.54",220.34
+SALE283,2024-12-13,Paul Fox,Michaelton,Hawaii,Sports,346.49,"-1,140.67"
+SALE284,2024-08-14,Russell Lamb,North Jonathon,Arizona,Home,442.79,54.33
+SALE285,2025-03-05,Elizabeth Stanley,Bethanyton,Utah,Sports,553.19,510.51
+SALE286,2024-01-17,Cynthia Parrish,Espinozaberg,Minnesota,Electronics,"2,181.47","1,647.53"
+SALE287,2025-08-20,Jennifer Woods,West Brendamouth,North Carolina,Sports,"2,175.53","1,633.09"
+SALE288,2024-04-04,Melissa Hamilton,Hutchinsonville,Oklahoma,Sports,"1,504.48","1,412.62"
+SALE289,2024-05-26,Crystal Davis,Sallymouth,Louisiana,Sports,154.74,-85.89
+SALE290,2025-07-18,Karen King,Kimburgh,North Carolina,Sports,"1,501.15",517.23
+SALE291,2024-07-12,Adam Cruz,Brandonville,Georgia,Sports,480.41,167.15
+SALE292,2024-09-10,Michael Jones,North Edwardton,Tennessee,Electronics,491.77,88.06
+SALE293,2025-06-18,Anthony Morgan,New Anthonyfurt,Missouri,Electronics,425.42,-878.82
+SALE294,2024-12-28,Jeffrey Gomez,Lake Nicole,Colorado,Sports,378.59,335.91
+SALE295,2024-09-21,Rodney Huffman,Garzafort,Delaware,Clothing,"1,879.05","1,400.77"
+SALE296,2024-05-22,George Rosario,Leburgh,Florida,Sports,356.04,-897.00
+SALE297,2025-08-02,Todd Poole,Johnsonshire,Ohio,Sports,"1,372.24",794.12
+SALE298,2024-10-18,Michael Thomas,Woodmouth,Nevada,Electronics,208.25,"-1,152.31"
+SALE299,2024-02-26,Kathryn Garcia,Morrismouth,California,Sports,"1,536.66",567.42
+SALE300,2023-12-08,Wanda Snyder,Frostmouth,Vermont,Beauty,"2,703.99","2,240.71"
+SALE301,2024-10-31,Joshua Ryan,New David,New Jersey,Electronics,"1,953.14",742.01
+SALE302,2024-11-28,Gregory Curtis,Bergermouth,Vermont,Clothing,"1,384.22","1,067.94"
+SALE303,2025-06-05,David Cobb,Lake Thomas,South Dakota,Sports,"1,283.09",874.31
+SALE304,2024-11-19,William Martin,Ryanburgh,Connecticut,Electronics,"2,062.87","1,797.40"
+SALE305,2024-05-19,Rodney Huffman,Garzafort,Delaware,Sports,"2,156.70","1,614.26"
+SALE306,2025-01-22,Bryan Tran,Kelseybury,Georgia,Electronics,"1,625.25","1,452.41"
+SALE307,2025-07-04,Ashley Roberts,Josephmouth,New Mexico,Electronics,326.26,-694.16
+SALE308,2025-05-19,Dylan Gutierrez,New Jamesview,West Virginia,Electronics,"1,475.09",-139.75
+SALE309,2023-12-04,George Davis,    lake lisa,Massachusetts,Home,"1,127.02",690.06
+SALE310,2024-07-31,Gina Knight,Lake Roberthaven,Nevada,Beauty,271.28,-326.94
+SALE311,2025-01-22,James Wolfe,Benjaminton,Arizona,Home,"2,699.10","2,125.38"
+SALE312,2024-11-15,Jonathan Steele,Molinabury,Oregon,Home,954.02,667.16
+SALE313,2024-04-07,Miss Alexandria Li Dvm,Port Jenniferton,Kansas,Sports,72.03,-118.26
+SALE314,2024-02-17,Earl Allen,New Jenniferburgh,Nebraska,Sports,269.22,165.77
+SALE315,2024-05-21,Anthony Phillips,North Davidport,Rhode Island,Electronics,844.38,-117.42
+SALE316,2024-05-23,Katherine Cowan,New Ana,Montana,Sports,"2,874.00","1,569.48"
+SALE317,2025-06-15,John Jordan,Port Crystalberg,Tennessee,Sports,330.78,163.66
+SALE318,2025-01-06,Timothy Wright,Ashleystad,Arkansas,Clothing,199.57,-25.27
+SALE319,2025-08-10,Ashley Anderson,West Johnmouth,Mississippi,Home,218.49,136.74
+SALE320,2025-07-02,Dr. Lindsay Hanna,New Paulstad,Hawaii,Beauty,"1,552.98",701.49
+SALE321,2024-03-29,Jennifer Carr,Lake Brett,Missouri,Clothing,547.18,328.96
+SALE322,2025-01-15,Amy Fowler,West Bobbyshire,New York,Home,423.63,280.20
+SALE323,2024-07-24,Monica Flynn,Amberburgh,Tennessee,Beauty,831.93,565.07
+SALE324,2024-04-25,Nathaniel Hill,Lake Mark,Kansas,Electronics,"2,084.07",357.39
+SALE325,2025-04-17,Nathan Hernandez,New Becky,Montana,Clothing,"1,018.33",-42.08
+SALE326,2025-09-24,Dr. Suzanne Bullock,Lake Blaketon,Alabama,Electronics,"1,098.67",614.21
+SALE327,2023-11-10,Mr. Christopher Sims,Donaldsontown,Connecticut,Electronics,190.54,102.05
+SALE328,2024-02-27,Monica Flynn,Amberburgh,Tennessee,Electronics,"1,444.21",1.51
+SALE329,2025-04-09,Samuel Arias,North Nicole,Wyoming,Beauty,71.19,"-1,180.01"
+SALE330,2024-07-05,Tyler Garner,Port Coreyfort,Alabama,Sports,750.20,-736.96
+SALE331,2025-08-21,Christopher David,Karenmouth,Massachusetts,Home,65.16,-178.55
+SALE332,2025-06-07,Hayley Pope,West Stephenville,Florida,Clothing,"1,174.29",504.00
+SALE333,2025-08-22,Richard Delgado,West Theodorechester,Pennsylvania,Sports,"1,353.79",740.62
+SALE334,2024-11-13,Heather Valenzuela,New Angiefurt,Alaska,Sports,"1,042.49",661.91
+SALE335,2024-01-18,Kelly Garrett,Port Taylorberg,Pennsylvania,Clothing,"2,799.07","2,349.39"
+SALE336,2024-08-15,Christopher Olson,West Richard,Maryland,Sports,"2,495.47","2,379.19"
+SALE337,2025-09-21,Melissa Duffy Md,East Jenna,South Carolina,Electronics,96.25,-342.82
+SALE338,2024-06-22,Susan Mcdonald,East Ellen,Arkansas,Home,346.38,-251.34
+SALE339,2024-01-12,Alejandro Doyle,East Crystalton,New Mexico,Clothing,"1,032.36",363.00
+SALE340,2023-10-19,Gina Knight,Lake Roberthaven,Nevada,Sports,"2,724.40","2,290.81"
+SALE341,2025-03-11,Stephanie Conway,Port Frankmouth,Mississippi,Electronics,339.38,"-1,008.82"
+SALE342,2024-09-22,Lisa Young,Maybury,Georgia,Home,"1,205.33",717.93
+SALE343,2024-11-27,Leslie Johnson,Mollyshire,Utah,Sports,"2,312.26","1,814.08"
+SALE344,2023-10-25,Ashley Cohen,Lake Kristamouth,Nebraska,Electronics,817.16,494.75
+SALE345,2025-10-10,Cynthia Roberts,Millerfort,Vermont,Sports,"1,083.73",703.15
+SALE346,2025-09-15,Kristin Stein,Jennifermouth,Missouri,Electronics,"1,321.96","1,056.49"
+SALE347,2024-09-06,Katherine Dorsey,Christopherland,Oklahoma,Electronics,437.38,-493.30
+SALE348,2024-07-16,Jacqueline Anthony,Vincentside,Ohio,Sports,148.30,-232.28
+SALE349,2025-04-01,Jason Mullins,Brianchester,Delaware,Home,833.68,485.64
+SALE350,2024-01-18,Robert Jones Dds,Tristanton,Oklahoma,Home,"1,589.40","1,302.54"
+SALE351,2024-11-25,Eric Todd,Danielstad,Montana,Beauty,"2,317.15","1,969.69"
+SALE352,2024-11-07,Christopher David,Karenmouth,Massachusetts,Sports,"1,446.14","1,323.66"
+SALE353,2024-07-28,Christopher Lester,South Jenniferville,Georgia,Clothing,612.17,-83.91
+SALE354,2024-04-16,Nicholas Webb,Lake Timothy,Nevada,Home,868.98,-616.54
+SALE355,2024-01-13,Mr. William Horton,Dawsonchester,Virginia,Electronics,"1,492.79",562.11
+SALE356,2024-01-08,Michael Thomas,Woodmouth,Nevada,Clothing,615.33,277.91
+SALE357,2024-09-29,Jason Wheeler,Carolview,Illinois,Home,414.26,-107.80
+SALE358,2024-05-01,Antonio Jones,Matthewborough,Georgia,Beauty,"2,019.68",88.68
+SALE359,2024-07-07,Karen King,Kimburgh,North Carolina,Sports,"2,199.35","1,259.57"
+SALE360,2024-11-14,Travis Holland,Webstermouth,New Hampshire,Sports,"2,329.74","1,804.78"
+SALE361,2025-04-16,Sarah Schneider,Port Joshuachester,Pennsylvania,Electronics,477.66,45.99
+SALE362,2025-07-18,Denise Tate,Andersonside,Arkansas,Sports,"1,307.60","1,093.48"
+SALE363,2025-02-24,Mr. Christopher Sims,Donaldsontown,Connecticut,Clothing,535.62,368.28
+SALE364,2025-03-07,Kathryn Garcia,Morrismouth,California,Home,153.86,-228.36
+SALE365,2025-02-18,Katherine Young,North Valeriemouth,Vermont,Home,158.56,-88.36
+SALE366,2024-06-26,James Holloway Jr.,Millston,Indiana,Clothing,610.11,256.64
+SALE367,2025-02-23,Richard Delgado,West Theodorechester,Pennsylvania,Home,"2,097.10",931.72
+SALE368,2025-06-15,Debra Mccullough,Mcdanielfurt,Montana,Electronics,228.80,-526.24
+SALE369,2023-10-18,Eric Holmes,Smithville,Wyoming,Sports,"1,002.50",39.98
+SALE370,2025-03-17,Sheila Wilson,South Dustin,Tennessee,Sports,583.25,98.63
+SALE371,2024-08-16,Timothy Juarez,Grahamstad,South Carolina,Electronics,594.44,254.30
+SALE372,2024-03-22,Christopher Carter,Brendastad,South Dakota,Beauty,331.26,-385.68
+SALE373,2025-01-31,Cynthia Morris,Hessmouth,Arizona,Sports,"1,331.91",839.95
+SALE374,2023-12-16,James Foster,East Audrey,Utah,Sports,456.49,137.58
+SALE375,2025-04-09,Denise Williams,Christianstad,Hawaii,Sports,303.30,-192.42
+SALE376,2024-01-18,Jacob Hopkins,lake tylerfort,Pennsylvania,Sports,"2,634.01","2,205.77"
+SALE377,2025-03-28,Tyler Weber,East Yvette,Illinois,Beauty,776.51,490.97
+SALE378,2024-08-31,Keith Miller,West Jameston,Maine,Home,685.35,-190.09
+SALE379,2023-11-10,Maria Hill,Zamoraborough,Nevada,Home,"1,793.60",817.82
+SALE380,2023-12-15,Samantha Walker,Timothyburgh,Louisiana,Clothing,"2,051.25",825.41
+SALE381,2024-05-15,Rhonda Morales,Lake Barryfurt,California,Beauty,959.13,410.01
+SALE382,2024-01-31,John Perez,Kathrynview,Louisiana,Electronics,104.71,-733.85
+SALE383,2023-12-06,Mr. Christopher Sims,Donaldsontown,Connecticut,Electronics,127.61,-265.28
+SALE384,2024-01-11,Sarah Smith,East Rodney,Nevada,Sports,"1,193.27",-789.61
+SALE385,2025-09-07,Rodney Huffman,Garzafort,Delaware,Sports,"3,265.29","2,722.85"
+SALE386,2024-05-21,Dr. Tamara White Md,New Benjamin,North Carolina,Clothing,"2,389.13","1,734.47"
+SALE387,2025-08-23,Cody Diaz,South Aaronside,New Hampshire,Home,"2,847.62","2,273.90"
+SALE388,2025-05-03,Sheena Bonilla,Donaldton,North Carolina,Beauty,598.24,331.38
+SALE389,2023-11-03,Justin Mason Dds,Peggystad,Connecticut,Clothing,"1,793.26",379.38
+SALE390,2025-03-26,Jamie Yoder,New Gabrielleville,Wisconsin,Sports,"3,225.58","3,103.10"
+SALE391,2024-07-05,Cristian Wright,Port Denise,California,Electronics,224.61,-530.43
+SALE392,2025-05-12,Joseph Faulkner,New Leahfurt,North Dakota,Home,836.47,-139.31
+SALE393,2024-09-26,Philip Mendoza,Tylermouth,Massachusetts,Electronics,299.73,-460.26
+SALE394,2024-03-27,Sarah Brady,Johnsonland,Iowa,Beauty,"1,810.08","1,093.14"
+SALE395,2024-01-17,Stuart Johnson,West Markport,North Dakota,Home,972.33,478.49
+SALE396,2024-04-25,Laura Alvarez,Lawsonhaven,Washington,Clothing,"2,676.70","1,664.44"
+SALE397,2025-09-29,Daniel Contreras,Robertview,Florida,Home,"2,785.79","2,415.41"
+SALE398,2025-07-06,Ronald Jones,Brownshire,Tennessee,Beauty,493.92,-223.02
+SALE399,2024-10-14,Christopher Carter,Brendastad,South Dakota,Beauty,"1,320.97",695.37
+SALE400,2023-10-28,Amy Fowler,West Bobbyshire,New York,Sports,35.05,-7.63
+SALE401,2024-03-29,Sherry Cabrera,Shannonview,Pennsylvania,Sports,"2,266.73","2,144.25"
+SALE402,2025-06-09,Jared Moran,South David,West Virginia,Home,723.25,675.24
+SALE403,2024-10-11,Mary Boyd,New Logan,Michigan,Beauty,"2,989.08","2,131.80"
+SALE404,2024-07-22,Tanya Lopez,West Jeffreyburgh,Iowa,Sports,"1,756.35","1,230.31"
+SALE405,2024-12-02,Elizabeth Foster,Anthonymouth,Oklahoma,Clothing,558.86,400.72
+SALE406,2023-11-14,Matthew Hunter Jr.,Gregoryview,Illinois,Home,814.74,613.33
+SALE407,2024-02-14,Megan Ryan,Andrewsfurt,Idaho,Home,445.81,169.71
+SALE408,2024-06-22,Tonya Reynolds,Darleneton,Michigan,Electronics,648.30,-562.83
+SALE409,2025-06-29,Reginald Willis,Kellybury,New York,Electronics,"1,363.92",-497.44
+SALE410,2025-02-18,Heidi Tyler,Dawnstad,Oregon,Home,"1,245.43",371.51
+SALE411,2025-06-15,Joseph Snow,South Michaelfort,Vermont,Electronics,693.78,367.72
+SALE412,2024-08-14,Dylan Gutierrez,New Jamesview,West Virginia,Home,"1,430.67",826.44
+SALE413,2025-07-25,Brent Rivas,North Kellyberg,New Jersey,Beauty,82.51,-257.88
+SALE414,2025-01-09,Amber Jackson,Deborahborough,South Dakota,Electronics,"1,204.69",449.65
+SALE415,2025-06-05,Gina Knight,Lake Roberthaven,Nevada,Home,97.44,-40.61
+SALE416,2024-12-07,Justin Mason Dds,Peggystad,Connecticut,Sports,"1,326.00","1,054.78"
+SALE417,2024-02-09,Kristine Higgins,Jennifertown,South Carolina,Clothing,829.96,602.30
+SALE418,2025-10-12,Jennifer Johnson,Cheyenneborough,New Hampshire,Electronics,"2,851.30","2,592.04"
+SALE419,2025-06-16,Karen King,Kimburgh,North Carolina,Clothing,"1,298.30",421.80
+SALE420,2025-09-21,Ashley Roberts,Josephmouth,New Mexico,Electronics,147.77,70.73
+SALE421,2025-09-09,James Gibbs,Mooneyshire,Alaska,Clothing,"1,176.26",817.55
+SALE422,2025-07-15,Jasmine Snyder,Hudsonfort,Connecticut,Electronics,175.48,-66.75
+SALE423,2024-10-15,Cameron Simpson,Michaelfort,Indiana,Clothing,570.87,352.65
+SALE424,2023-10-21,Christopher Carter,Brendastad,South Dakota,Home,593.00,364.47
+SALE425,2025-05-30,Earl Smith Dds,West Sarah,South Dakota,Home,419.92,-322.84
+SALE426,2024-06-19,Michelle Rogers,East Jessicaborough,Hawaii,Electronics,"3,412.13","2,962.45"
+SALE427,2024-12-20,Erin Ward,New Brianchester,New York,Beauty,"3,111.19","2,043.75"
+SALE428,2024-08-16,Christy Hoffman,Garyberg,Indiana,Electronics,"1,111.79",934.81
+SALE429,2025-03-15,Mario Jacobs,Port James,New York,Home,587.33,-288.11
+SALE430,2024-06-02,Eugene Nelson,Phillipsmouth,North Dakota,Electronics,837.24,571.77
+SALE431,2025-07-22,David Patterson,New Amyport,Nevada,Electronics,"1,597.62",899.28
+SALE432,2025-03-09,John Scott,South Christopher,Pennsylvania,Sports,"1,042.37",102.59
+SALE433,2025-02-11,Ryan Hernandez,East Donna,Nevada,Beauty,129.40,94.78
+SALE434,2023-12-06,Theresa Campbell,New Brian,Wisconsin,Clothing,"1,309.42",526.42
+SALE435,2025-08-20,Misty Ferguson,North Joseside,Connecticut,Clothing,"2,548.53","1,089.85"
+SALE436,2024-09-20,Sharon Brown,East Andrea,Michigan,Clothing,"2,721.12","1,307.24"
+SALE437,2025-06-05,Dr. Ashley Yates Md,New Maria,Wisconsin,Electronics,"1,455.22","1,339.66"
+SALE438,2025-06-03,Brian Choi,Floydton,New Jersey,Clothing,874.92,438.48
+SALE439,2025-01-13,Brittney Morgan,Lake Kaylahaven,Alaska,Electronics,"2,556.20","2,210.52"
+SALE440,2025-03-20,Daniel Boyd,West Pamelafurt,West Virginia,Clothing,439.27,200.13
+SALE441,2024-07-07,Rachel Myers,Robertberg,North Dakota,Home,513.70,56.64
+SALE442,2025-09-29,Mr. Christopher Sims,Donaldsontown,Connecticut,Electronics,566.22,-332.58
+SALE443,2024-11-30,Brian Choi,Floydton,New Jersey,Electronics,"2,230.33","2,076.25"
+SALE444,2024-06-17,Zachary Andrade,South Davidport,California,Home,216.45,-434.07
+SALE445,2025-02-21,Daniel Nelson,North Jonathan,Oklahoma,Sports,649.52,"-1,288.96"
+SALE446,2024-09-16,Daniel Rivas,Dominiquefort,Georgia,Home,865.12,428.16
+SALE447,2025-10-09,Dr. Ashley Yates Md,New Maria,Wisconsin,Sports,"1,394.56","1,302.70"
+SALE448,2024-09-18,Tyrone Olson,Emilytown,California,Home,810.57,349.10
+SALE449,2025-05-29,Andrea Perez,South Shaun,New Mexico,Beauty,"1,050.30",479.22
+SALE450,2025-06-03,Andrea Harris,West Kelseyberg,Kansas,Electronics,"2,148.28",969.61
+SALE451,2024-08-04,Brittany Edwards Dds,Aliciahaven,Kansas,Beauty,"2,952.52","2,779.36"
+SALE452,2024-06-17,David Ross,South Angela,Arkansas,Clothing,773.61,526.69
+SALE453,2024-01-20,John Mcknight,South Nathan,Vermont,Home,"1,640.05","1,476.55"
+SALE454,2025-09-06,Christy Hoffman,Garyberg,Indiana,Home,"1,729.47",998.37
+SALE455,2024-03-29,Samantha Robinson,North Roy,Mississippi,Sports,"1,372.89",964.11
+SALE456,2024-08-23,Steve Medina,East Josephside,Oregon,Beauty,"1,023.68",-111.64
+SALE457,2025-05-19,Tanner Thompson,Port Lisashire,Maryland,Sports,"1,182.85",758.33
+SALE458,2024-04-07,Michelle Carpenter,Lake Danielleton,New Jersey,Home,"1,484.73",319.35
+SALE459,2024-01-24,Michael Foley,Oneillfurt,Vermont,Sports,"1,208.27",253.05
+SALE460,2024-01-20,Leslie Johnson,Mollyshire,Utah,Electronics,"2,240.99",317.39
+SALE461,2023-12-10,Jessica Mitchell,Matthewbury,South Dakota,Clothing,615.48,"-1,137.52"
+SALE462,2023-12-19,Tracy Kelly,West Jamieport,Tennessee,Home,437.76,-305.00
+SALE463,2023-11-22,Joseph Jones,North Matthew,Illinois,Sports,434.06,-57.90
+SALE464,2025-10-08,Matthew Avery,Lake Melissashire,Oregon,Clothing,612.60,389.17
+SALE465,2025-02-23,Eric Wolfe,Garciaview,Louisiana,Clothing,79.64,-87.70
+SALE466,2025-02-25,Amber Jackson,Deborahborough,South Dakota,Sports,"1,403.89","1,010.17"
+SALE467,2024-09-30,Mallory Allen,North Theresa,Alabama,Sports,"3,066.67","2,638.43"
+SALE468,2023-12-19,Ronald Jones,Brownshire,Tennessee,Sports,766.37,621.84
+SALE469,2024-11-18,Andrea Harris,West Kelseyberg,Kansas,Electronics,"2,198.16",471.48
+SALE470,2025-09-12,Rhonda Morales,Lake Barryfurt,California,Sports,411.35,372.59
+SALE471,2025-01-31,John Donaldson,New Edward,Maine,Clothing,426.04,72.57
+SALE472,2024-10-26,Andrea Jacobs,Christopherland,Minnesota,Clothing,"1,223.07",162.66
+SALE473,2025-07-26,Andrew Mason,North Michael,Iowa,Electronics,24.44,-379.27
+SALE474,2025-08-06,Anna Perez,South Jerry,Maine,Clothing,"1,579.34","1,237.85"
+SALE475,2025-05-20,Patricia Gardner,South Ashleyton,Michigan,Sports,235.32,-335.76
+SALE476,2024-03-13,Earl Allen,New Jenniferburgh,Nebraska,Clothing,"2,859.94","1,106.94"
+SALE477,2025-02-12,James Foster,East Audrey,Utah,Clothing,645.08,477.74
+SALE478,2025-09-24,Brandy Thompson,West Patriciaview,Alabama,Home,600.95,581.43
+SALE479,2024-10-09,William Cortez,Port Hannahport,Ohio,Electronics,"1,733.90",337.88
+SALE480,2023-11-03,Cynthia Payne,South Gina,Kentucky,Electronics,633.15,255.63
+SALE481,2025-03-29,Mario Jacobs,Port James,New York,Sports,462.02,345.74
+SALE482,2025-07-13,Monica Miller,Lake David,Mississippi,Home,"1,286.56",849.60
+SALE483,2024-01-17,Denise Williams,Christianstad,Hawaii,Home,617.38,493.92
+SALE484,2024-12-13,Dylan Gutierrez,New Jamesview,West Virginia,Beauty,426.98,86.59
+SALE485,2025-09-19,Gina Knight,Lake Roberthaven,Nevada,Clothing,678.94,66.02
+SALE486,2024-02-11,Ryan Moore,Cartershire,Virginia,Sports,387.59,-19.24
+SALE487,2025-06-03,Sherry Cabrera,Shannonview,Pennsylvania,Electronics,"1,115.00",-189.24
+SALE488,2025-03-10,Eric Wolfe,Garciaview,Louisiana,Sports,"3,100.24","2,672.00"
+SALE489,2024-12-18,Shannon Miller,North Austinport,Kentucky,Clothing,"1,429.27",982.41
+SALE490,2024-03-20,Luke Parks,West Mario,New Hampshire,Beauty,165.32,-17.72
+SALE491,2024-06-19,Robert Harris,East jeremy,Iowa,Sports,"1,398.28",-34.55
+SALE492,2024-12-06,Maria Sanchez,East Peterbury,North Dakota,Beauty,"1,357.04","1,270.46"
+SALE493,2025-07-25,Ashley Roberts,Josephmouth,New Mexico,Sports,712.51,-242.71
+SALE494,2024-07-28,William Hull,Heathfort,Michigan,Clothing,797.94,460.52
+SALE495,2024-10-03,Alex Mann Ii,South Zacharychester,Oklahoma,Electronics,569.04,-309.10
+SALE496,2023-11-08,Christy Hill,Tammyton,New Jersey,Sports,470.61,349.31
+SALE497,2025-04-07,Todd Poole,Johnsonshire,Ohio,Home,323.68,79.98
+SALE498,2023-12-20,Edward Rivera,Chungmouth,South Carolina,Clothing,933.62,585.58
+SALE499,2025-09-11,Brian Lopez,East Krista,New York,Sports,560.38,355.99
+SALE500,2024-12-01,Gene Lee,Mcfarlandmouth,Virginia,Clothing,341.31,-108.37
+SALE501,2024-11-21,Joseph Jones,North Matthew,Illinois,Home,573.07,-622.37
+SALE502,2025-08-30,Zachary Andrade,South Davidport,California,Sports,216.70,49.58
+SALE503,2025-08-20,Daniel Boyd,West Pamelafurt,West Virginia,Sports,618.41,-251.27
+SALE504,2025-10-13,Antonio Wade,New Jasonmouth,Tennessee,Beauty,"1,973.65","1,016.92"
+SALE505,2024-01-15,Joseph Jones,North Matthew,Illinois,Sports,220.17,159.52
+SALE506,2025-04-25,William Martin,Ryanburgh,Connecticut,Beauty,54.41,-494.71
+SALE507,2024-02-24,Blake Harrison,Lyonsfort,Washington,Electronics,"1,034.63",65.71
+SALE508,2024-12-30,Miranda King,West Mathew,New York,Clothing,139.87,-121.13
+SALE509,2025-04-15,Kevin Larson,Port Edwardmouth,Oregon,Home,962.47,311.95
+SALE510,2024-10-15,Daniel Contreras,Robertview,Florida,Sports,279.01,162.73
+SALE511,2025-01-19,Michael Greene,Port Saramouth,Wisconsin,Electronics,701.05,-58.94
+SALE512,2024-07-22,Tracy Stephens,New Joshuatown,Maine,Clothing,449.65,337.23
+SALE513,2025-03-19,Brandon Mcbride,Kellyside,Alaska,Sports,691.03,372.12
+SALE514,2024-01-21,Jessica Mitchell,Matthewbury,South Dakota,Electronics,620.95,171.27
+SALE515,2023-12-26,John Lawson,New Juliemouth,North Carolina,Beauty,132.36,-186.55
+SALE516,2024-03-21,Michelle Rogers,East Jessicaborough,Hawaii,Electronics,133.80,47.38
+SALE517,2024-12-07,Christy Hoffman,Garyberg,Indiana,Electronics,"2,750.12","1,240.04"
+SALE518,2024-11-02,Joshua Smith Dvm,Melvinton,Alaska,Sports,798.22,616.27
+SALE519,2024-07-22,Michelle Gonzalez,Clarkport,West Virginia,Sports,"1,154.68",629.72
+SALE520,2023-10-30,Dr. Ashley Yates Md,New Maria,Wisconsin,Home,"1,813.52",837.74
+SALE521,2024-05-21,James Orozco,Simpsonfort,Maine,Sports,"2,107.86","1,786.68"
+SALE522,2025-04-19,Carol Bishop,Lake Saramouth,Oregon,Electronics,70.47,-830.95
+SALE523,2024-12-13,Tommy Roberts,Port Tonyfort,South Dakota,Sports,"3,178.26","2,566.58"
+SALE524,2025-04-27,Diane Watson,North Codyport,Texas,Sports,769.90,437.78
+SALE525,2024-10-04,Daniel Rivas,Dominiquefort,Georgia,Electronics,643.79,-163.63
+SALE526,2025-07-18,Casey Flores,Lake Michael,Utah,Clothing,524.76,218.30
+SALE527,2024-03-11,April Phillips,Lake Carolyn,Hawaii,Home,"1,719.44",418.40
+SALE528,2024-06-14,Robert Jackson,Lake Brandy,Tennessee,Home,50.41,-248.45
+SALE529,2024-02-16,Evelyn Brown,West Victoriaborough,New Mexico,Beauty,421.28,377.99
+SALE530,2024-09-17,Katherine Young,North Valeriemouth,Vermont,Electronics,"2,775.35","1,019.07"
+SALE531,2025-08-26,Michelle Myers,West Daniel,South Carolina,Electronics,"2,589.86",787.02
+SALE532,2024-06-04,Amy Wilson,Morrisburgh,Indiana,Home,"2,584.63","1,880.35"
+SALE533,2024-10-13,Andrew Smith,East Matthew,Wisconsin,Sports,666.72,395.50
+SALE534,2025-02-09,Mary Boyd,New Logan,Michigan,Home,680.44,309.06
+SALE535,2023-12-21,Mike Jennings,Fostermouth,Arizona,Beauty,743.88,406.46
+SALE536,2025-07-17,Elizabeth Johnson,Anitaland,Washington,Beauty,"2,485.36","1,288.92"
+SALE537,2025-05-16,Damon Perez,Jasonton,Ohio,Sports,437.03,-518.19
+SALE538,2025-08-12,Timothy Valenzuela,Stevensshire,Missouri,Sports,"2,221.91","1,763.15"
+SALE539,2025-08-21,Sharon Brown,East Andrea,Michigan,Clothing,"1,106.31",790.03
+SALE540,2023-11-21,Jon Ortiz,South Angelaport,Delaware,Clothing,929.02,52.52
+SALE541,2025-02-07,Darrell Miller,Port Carol,Florida,Electronics,632.76,182.05
+SALE542,2023-12-27,Tiffany Herrera,New Dianebury,Virginia,Sports,380.43,213.31
+SALE543,2025-02-23,Teresa Johnson,Johnsonbury,Georgia,Home,679.37,297.15
+SALE544,2025-07-04,Patricia Gardner,South Ashleyton,Michigan,Beauty,454.46,402.53
+SALE545,2023-11-25,Steven Stein,West Lauren,Connecticut,Electronics,332.38,-957.26
+SALE546,2025-02-07,Frank Stewart,Fischerborough,Delaware,Home,"1,112.79",216.21
+SALE547,2023-12-21,Michelle Garcia Dds,Perezbury,Ohio,Clothing,303.09,179.63
+SALE548,2024-01-04,Erin Hopkins,North Sabrina,Iowa,Beauty,900.75,669.11
+SALE549,2023-11-30,Paul Zamora,North Larryfurt,North Dakota,Home,460.11,378.36
+SALE550,2025-07-13,Heather Valenzuela,New Angiefurt,Alaska,Home,"2,430.63","1,936.79"
+SALE551,2023-10-23,Dr. Suzanne Bullock,Lake Blaketon,Alabama,Electronics,305.85,-454.14
+SALE552,2025-10-10,Leslie Johnson,Mollyshire,Utah,Home,"2,017.50",675.21
+SALE553,2025-06-14,Jay Patel,Morrisbury,Rhode Island,Sports,"1,267.13",995.91
+SALE554,2025-04-05,Brian Garcia,Ramosmouth,Louisiana,Sports,"1,548.18","1,484.16"
+SALE555,2025-01-20,Stephen Fowler,Port Mariastad,Rhode Island,Sports,"1,824.29","1,430.57"
+SALE556,2023-11-23,Melissa Duffy Md,East Jenna,South Carolina,Home,"1,111.03",406.75
+SALE557,2024-04-07,James Bean,Stevensonton,New Mexico,Home,"1,043.33",-122.05
+SALE558,2025-07-02,Lance Baker,Port Victoria,Florida,Electronics,"1,553.70",584.78
+SALE559,2023-11-26,Cynthia Lopez,Joseland,Nebraska,Clothing,484.60,46.35
+SALE560,2024-02-04,Kimberly Brooks,Kingfort,New Mexico,Home,792.10,733.54
+SALE561,2024-06-16,Melissa Hamilton,Hutchinsonville,Oklahoma,Electronics,"1,528.46",629.66
+SALE562,2025-02-27,Amber Carlson,East Michellemouth,Missouri,Clothing,794.62,-575.62
+SALE563,2023-10-24,Brian Lopez,East Krista,New York,Clothing,"2,163.11","1,069.10"
+SALE564,2024-08-03,Jeffery Wolf,New Laura,Mississippi,Beauty,"2,509.20","2,457.27"
+SALE565,2025-07-05,Denise Griffin,West Markhaven,Florida,Electronics,764.56,424.42
+SALE566,2025-05-27,Manuel Fisher,Kanebury,New Hampshire,Clothing,"1,331.49",662.13
+SALE567,2024-11-06,Jeffery Wolf,New Laura,Mississippi,Beauty,"1,005.63",-61.81
+SALE568,2024-06-03,Mario Harvey Jr.,Jessicaport,Minnesota,Sports,"1,451.73","1,188.71"
+SALE569,2024-04-02,Lance Baker,Port Victoria,Florida,Home,"1,279.24",-105.17
+SALE570,2024-02-26,Paul Cox,East Julie,Kansas,Sports,808.66,86.77
+SALE571,2025-01-31,Hunter Sutton,Patrickshire,Connecticut,Clothing,964.77,627.35
+SALE572,2023-11-19,Eric Vega,Williamsonland,Kansas,Sports,787.70,354.11
+SALE573,2025-03-10,Martha Brown,Novakstad,California,Electronics,576.79,-994.77
+SALE574,2023-12-23,Ryan Moore,Cartershire,Virginia,Home,"1,385.84","1,222.34"
+SALE575,2024-03-02,Wesley Short,Susanstad,Montana,Sports,918.92,157.76
+SALE576,2024-10-27,Cynthia Roberts,Millerfort,Vermont,Beauty,922.36,493.72
+SALE577,2024-03-09,Daniel Boyd,West Pamelafurt,West Virginia,Sports,"1,451.71","1,189.23"
+SALE578,2024-12-23,Robert Harris,East jeremy,Iowa,Sports,51.30,-234.24
+SALE579,2025-02-21,Patrick Coleman,New Jeffrey,Nebraska,Electronics,"1,015.32",363.20
+SALE580,2023-12-13,William Jackson,New Tina,Connecticut,Sports,"3,756.89","2,614.73"
+SALE581,2023-11-20,Adam Cruz,Brandonville,Georgia,Sports,"1,633.06","1,108.10"
+SALE582,2024-09-04,Brian Lopez,East Krista,New York,Sports,257.04,-77.20
+SALE583,2025-06-02,Maria Ramirez,West Brandon,Montana,Home,122.73,-481.50
+SALE584,2024-02-28,Charles Conley,Nathanshire,Maine,Home,31.24,-294.02
+SALE585,2024-12-07,Tanner Thompson,Port Lisashire,Maryland,Electronics,"1,475.89",514.09
+SALE586,2025-05-21,Matthew Payne,Grahamfurt,Wyoming,Electronics,867.35,4.01
+SALE587,2024-03-03,Rhonda Young,Lake Nathanfort,Alaska,Sports,"2,965.15","2,116.11"
+SALE588,2024-03-06,Eric Todd,Danielstad,Montana,Beauty,243.42,29.10
+SALE589,2023-11-27,Andrew Smith,East Matthew,Wisconsin,Clothing,"2,383.67","1,308.26"
+SALE590,2025-02-14,Sean Roth,Lake Michael,Virginia,Sports,"2,201.74","2,116.38"
+SALE591,2024-01-27,Cheryl Copeland,Snowmouth,Maryland,Beauty,"1,793.43",941.94
+SALE592,2025-10-13,Timothy Valenzuela,Stevensshire,Missouri,Home,592.21,-750.08
+SALE593,2025-04-22,Katherine Dorsey,Christopherland,Oklahoma,Sports,"3,271.75","3,116.71"
+SALE594,2025-04-18,Carmen Price,North Briannamouth,Tennessee,Home,55.22,-146.19
+SALE595,2025-08-22,Teresa Stokes,New William,Iowa,Sports,"3,400.73","2,874.69"
+SALE596,2025-07-04,Christina Garcia,Clarkeside,Kansas,Home,"3,028.23","1,727.19"
+SALE597,2024-03-31,Stephen Fowler,Port Mariastad,Rhode Island,Beauty,"1,039.11",440.89
+SALE598,2023-11-06,Mary Russell,South Regina,Arkansas,Electronics,"2,080.28","1,102.10"
+SALE599,2025-05-29,Mrs. Susan Buckley,Stevensbury,Arizona,Sports,"1,349.77",358.33
+SALE600,2024-04-19,Damon Perez,Jasonton,Ohio,Home,92.72,-354.71
+SALE601,2025-02-28,Christopher Lester,South Jenniferville,Georgia,Home,469.65,"-1,376.23"
+SALE602,2025-03-02,Frank Stewart,Fischerborough,Delaware,Beauty,"1,376.72",438.32
+SALE603,2024-03-28,Gloria Taylor,North Daniel,Louisiana,Sports,796.63,-345.53
+SALE604,2024-12-09,Samantha Lee,Port Anthony,Connecticut,Home,"2,592.28","2,448.25"
+SALE605,2023-10-23,Kathryn Garcia,Morrismouth,California,Sports,55.00,-422.61
+SALE606,2024-09-20,David Arnold,East Jennifer,California,Home,"2,011.75","1,489.69"
+SALE607,2024-10-18,Kimberly Roberts,Josephchester,New Jersey,Home,"2,280.05","1,165.91"
+SALE608,2025-01-05,Tiffany Williams,Richardsport,New Hampshire,Home,620.96,322.10
+SALE609,2025-09-21,Manuel Fisher,Kanebury,New Hampshire,Electronics,"1,456.49",-404.87
+SALE610,2024-07-17,Stuart Johnson,West Markport,North Dakota,Beauty,389.60,-461.89
+SALE611,2024-12-26,Adam Rowland,Welchview,California,Electronics,"2,832.94","1,155.82"
+SALE612,2024-11-02,Bryan Tran,Kelseybury,Georgia,Sports,"2,651.36","2,257.64"
+SALE613,2025-04-25,Bryce Hawkins,Lake Monique,Utah,Clothing,"2,240.70","1,608.14"
+SALE614,2024-02-16,Kaitlin Brown,Kellyberg,South Dakota,Sports,275.36,-220.36
+SALE615,2024-08-20,Casey Flores,Lake Michael,Utah,Beauty,"2,512.08","2,048.80"
+SALE616,2024-07-24,Justin Cross,North Anthonychester,Nevada,Sports,"1,344.71",-638.17
+SALE617,2024-08-30,David Arnold,East Jennifer,California,Beauty,733.86,-341.55
+SALE618,2025-09-25,Rhonda Morales,Lake Barryfurt,California,Home,499.24,479.72
+SALE619,2025-04-18,Debra Mccullough,Mcdanielfurt,Montana,Sports,560.19,68.23
+SALE620,2025-08-13,Colleen Mccarthy,North Katherine,Washington,Sports,"1,172.06",434.12
+SALE621,2025-09-23,Laura Green,Westbury,Oregon,Electronics,"1,565.98",854.06
+SALE622,2024-05-09,Thomas Phillips,Luisfurt,Georgia,Electronics,"1,045.63",365.35
+SALE623,2024-11-12,Tonya Burch,Olsonhaven,Iowa,Home,"2,242.82","1,546.74"
+SALE624,2024-12-18,Alyssa Vargas,New Kathrynland,Montana,Beauty,615.47,257.00
+SALE625,2024-08-13,Matthew Hanna,Gonzalezbury,Michigan,Beauty,323.35,91.71
+SALE626,2024-09-10,Alexander Byrd,Parkerview,New York,Electronics,977.70,718.44
+SALE627,2024-09-12,John Bradford,Anabury,Vermont,Clothing,"3,529.16","1,776.16"
+SALE628,2024-05-21,Beth Martin,Burkefurt,West Virginia,Electronics,959.13,-252.00
+SALE629,2025-05-15,Joshua Smith Dvm,Melvinton,Alaska,Beauty,68.69,-216.85
+SALE630,2025-05-27,Dr. Tamara White Md,New Benjamin,North Carolina,Electronics,"1,452.49",-303.79
+SALE631,2024-01-20,Jennifer Garcia,New Sean,New Mexico,Electronics,"1,592.34",940.22
+SALE632,2024-11-09,Andrea Harris,West Kelseyberg,Kansas,Clothing,239.32,-108.72
+SALE633,2024-02-16,William Cortez,Port Hannahport,Ohio,Beauty,247.00,-38.54
+SALE634,2024-12-16,Cody Diaz,South Aaronside,New Hampshire,Sports,332.02,187.49
+SALE635,2025-02-05,Katrina Perez,West Rebecca,Ohio,Clothing,116.23,-221.19
+SALE636,2025-04-16,Adam Rowland,Welchview,California,Sports,655.61,227.37
+SALE637,2024-10-07,Christopher Garcia Dds,New Joseph,Missouri,Clothing,557.69,434.23
+SALE638,2024-02-16,Daniel Bell,Deniseberg,Arkansas,Electronics,264.94,-184.46
+SALE639,2024-03-22,John Jones,North Michaelborough,Oregon,Electronics,"1,211.04",-586.56
+SALE640,2024-10-25,Jackie Thompson,South Edwin,New Jersey,Clothing,"2,681.34","1,605.93"
+SALE641,2024-03-14,Carlos Skinner,Dwaynemouth,Alabama,Clothing,"1,006.21",-54.20
+SALE642,2025-02-23,Edward Rivera,Chungmouth,South Carolina,Electronics,"2,380.76","1,360.34"
+SALE643,2024-10-21,Denise Griffin,West Markhaven,Florida,Electronics,215.47,-963.20
+SALE644,2024-02-12,Todd Poole,Johnsonshire,Ohio,Home,165.16,83.41
+SALE645,2024-02-11,Michael Foley,Oneillfurt,Vermont,Sports,369.74,-65.10
+SALE646,2025-05-01,Paul Cox,East Julie,Kansas,Electronics,"2,286.13",843.43
+SALE647,2024-10-27,Steve Mclaughlin,Josephmouth,New Hampshire,Sports,191.88,127.86
+SALE648,2023-11-29,Erika Padilla,Andrewsland,Alabama,Electronics,424.88,102.47
+SALE649,2025-05-24,Cassandra Perez,Brandonville,Mississippi,Home,605.43,358.51
+SALE650,2024-02-25,Joan Johnson,Lake Josephport,Maine,Clothing,426.41,198.75
+SALE651,2025-03-05,Denise Griffin,West Markhaven,Florida,Beauty,710.44,496.12
+SALE652,2024-08-27,Amber Jackson,Deborahborough,South Dakota,Electronics,"1,197.98",545.86
+SALE653,2024-02-10,Tammy Trevino,Justinberg,North Dakota,Beauty,729.08,130.86
+SALE654,2024-02-22,Michele Burke,Chambersberg,Connecticut,Clothing,"3,908.24","3,429.96"
+SALE655,2024-04-06,Dylan Gutierrez,New Jamesview,West Virginia,Sports,"1,547.92",-390.56
+SALE656,2024-04-15,Jordan Wells,Phillipschester   ,New Jersey,Clothing,"1,211.36",764.50
+SALE657,2024-12-07,Ashley Cohen,Lake Kristamouth,Nebraska,Electronics,"1,548.05",821.36
+SALE658,2024-12-03,Wayne Mcpherson,Edwardsfort,Minnesota,Electronics,"1,768.96",838.28
+SALE659,2023-12-31,Gina Knight,Lake Roberthaven,Nevada,Home,"1,745.30",403.01
+SALE660,2025-09-14,Wesley Thompson,East Davidmouth,Maine,Electronics,235.29,-785.13
+SALE661,2025-01-16,Christopher Sutton,Deborahberg,Pennsylvania,Clothing,"2,094.86","1,425.50"
+SALE662,2025-02-01,Ryan Torres,Guerreroport,Connecticut,Sports,711.06,400.71
+SALE663,2024-12-20,Erin Hopkins,North Sabrina,Iowa,Sports,739.56,254.94
+SALE664,2024-07-02,David Ross,South Angela,Arkansas,Beauty,"2,158.71",809.03
+SALE665,2025-05-04,April Mullins,Dawsonbury,North Carolina,Sports,67.50,-175.10
+SALE666,2024-12-28,James Bean,Stevensonton,New Mexico,Clothing,"2,092.22","1,031.81"
+SALE667,2024-10-29,Sarah Rodgers,New Julia,West Virginia,Home,198.51,75.05
+SALE668,2024-10-16,Jay Patel,Morrisbury,Rhode Island,Beauty,391.78,124.92
+SALE669,2025-04-01,David Patterson,New Amyport,Nevada,Home,214.87,-222.09
+SALE670,2024-03-18,Lisa Young,Maybury,Georgia,Electronics,231.02,-467.32
+SALE671,2025-02-13,Nathan Hernandez,New Becky,Montana,Sports,"2,346.46","1,093.42"
+SALE672,2024-08-06,Eric Lee,Lake April,Vermont,Electronics,"1,730.15","1,576.07"
+SALE673,2024-09-03,Nathaniel Hill,Lake Mark,Kansas,Clothing,878.07,171.13
+SALE674,2025-01-08,Laura Mathews,Chambersfurt,Wisconsin,Sports,427.50,366.26
+SALE675,2025-07-21,Jay Patel,Morrisbury,Rhode Island,Clothing,"3,179.38","1,809.14"
+SALE676,2023-11-25,Susan Mcdonald,East Ellen,Arkansas,Home,191.40,-95.46
+SALE677,2025-07-04,Curtis Lam,Butlerberg,Kentucky,Beauty,60.28,25.66
+SALE678,2023-10-21,Karen King,Kimburgh,North Carolina,Electronics,318.46,232.04
+SALE679,2023-12-13,Chloe Aguilar,Lake Johnside,Arizona,Home,837.32,423.17
+SALE680,2024-06-13,Brian Garcia,Ramosmouth,Louisiana,Clothing,"1,396.57",700.49
+SALE681,2024-01-01,Joseph Snow,South Michaelfort,Vermont,Sports,78.19,-302.39
+SALE682,2023-12-18,Brittany Watson,North Joshualand,Connecticut,Home,"1,402.78","1,157.53"
+SALE683,2023-11-02,Manuel Castillo,Nealview,Tennessee,Sports,"1,192.22",758.63
+SALE684,2025-09-07,Jacob Wood,Lake Samanthafort,Idaho,Clothing,"1,663.95",994.59
+SALE685,2023-12-10,Julie Powell,South Barbara,Arkansas,Sports,"1,697.30","1,172.34"
+SALE686,2025-10-12,Tracy Kelly,West Jamieport,Tennessee,Clothing,"1,641.63",-111.37
+SALE687,2025-04-03,Sarah Brady,Johnsonland,Iowa,Home,783.42,412.04
+SALE688,2024-01-09,David Pierce,Grayland,Washington,Home,"1,012.19",-833.69
+SALE689,2025-08-07,Dr. Benjamin Price,Kylebury,Alabama,Sports,616.55,181.71
+SALE690,2024-01-10,Joseph Jones,North Matthew,Illinois,Beauty,424.21,-376.37
+SALE691,2025-07-19,Donald Lee,Wongberg,Illinois,Sports,695.96,-273.29
+SALE692,2024-12-24,William Hull,Heathfort,Michigan,Electronics,"1,169.23",524.41
+SALE693,2024-08-16,Eugene Nelson,Phillipsmouth,North Dakota,Electronics,268.10,90.12
+SALE694,2024-07-24,Misty Ferguson,North Joseside,Connecticut,Clothing,"1,276.71","1,037.57"
+SALE695,2024-11-19,Jeffrey Mccarthy,North Samuel,Nebraska,Electronics,"1,620.84",331.20
+SALE696,2024-03-14,Andrea Jacobs,Christopherland,Minnesota,Electronics,570.62,"-1,185.66"
+SALE697,2025-06-24,Brian Holder,Port Travis,Utah,Electronics,"1,043.83",113.15
+SALE698,2024-08-26,Tonya Reynolds,Darleneton,Michigan,Clothing,853.05,-207.36
+SALE699,2025-10-09,Alyssa Vargas,New Kathrynland,Montana,Clothing,"1,555.99","1,185.61"
+SALE700,2024-04-19,Donna Guerra,North Robert,Massachusetts,Beauty,958.57,-292.63
+SALE701,2024-05-08,Jasmine Snyder,Hudsonfort,Connecticut,Sports,320.76,35.22
+SALE702,2024-06-16,Lisa Young,Maybury,Georgia,Electronics,810.85,470.71
+SALE703,2024-05-17,Megan Greer,West John,Alaska,Electronics,756.55,-639.47
+SALE704,2024-04-04,Sheri Joyce,West Tylerfort,Kentucky,Home,497.76,-233.34
+SALE705,2025-05-26,Michael Davies,Lake Stevenfort,Oregon,Sports,"2,364.65","1,700.41"
+SALE706,2024-02-24,Adam Cruz,Brandonville,Georgia,Home,778.36,634.93
+SALE707,2023-12-07,Brian Choi,Floydton,New Jersey,Sports,447.45,40.62
+SALE708,2024-10-07,Shannon Turner,West Jorge,Oklahoma,Sports,"2,724.32","1,906.76"
+SALE709,2023-11-22,Justin Ingram,Lake Lisaland,Louisiana,Clothing,"2,488.63","1,262.79"
+SALE710,2025-10-09,James Wolfe,Benjaminton,Arizona,Sports,"1,661.05",843.49
+SALE711,2024-09-24,Mallory Allen,North Theresa,Alabama,Beauty,527.33,313.01
+SALE712,2023-10-30,Sarah Rodgers,New Julia,West Virginia,Electronics,495.00,241.67
+SALE713,2024-02-11,Heather Collins,Rogerschester,Idaho,Clothing,"1,143.25",413.91
+SALE714,2025-04-05,Shelley Ponce,South Cassandrachester,Rhode Island,Electronics,"3,139.38","1,412.70"
+SALE715,2025-05-18,Sarah Lane,Edwardborough,Vermont,Beauty,217.77,-738.96
+SALE716,2025-04-08,Jeffrey Gomez,Lake Nicole,Colorado,Beauty,"1,810.56",376.68
+SALE717,2024-11-29,Katherine Young,North Valeriemouth,Vermont,Electronics,"1,395.61",-527.99
+SALE718,2024-12-30,Sarah Marsh,Port William,New York,Home,"1,656.40","1,296.86"
+SALE719,2025-06-16,Elizabeth Foster,Anthonymouth,Oklahoma,Sports,161.24,-81.36
+SALE720,2025-06-16,James Holloway Jr.,Millston,Indiana,Sports,"1,574.45",852.56
+SALE721,2024-04-02,Curtis Lam,Butlerberg,Kentucky,Beauty,207.28,-649.34
+SALE722,2024-03-28,Mr. William Horton,Dawsonchester,Virginia,Electronics,24.77,-440.57
+SALE723,2025-01-17,Angela Williams,Lake Alyssaburgh,Illinois,Sports,955.55,329.03
+SALE724,2025-04-13,Tyler Garner,Port Coreyfort,Alabama,Beauty,"3,030.52","1,668.96"
+SALE725,2024-07-01,Timothy Valenzuela,Stevensshire,Missouri,Beauty,364.72,150.40
+SALE726,2024-12-14,Jamie Reyes,   jonesbury ,Connecticut,Sports,84.35,-855.43
+SALE727,2023-11-23,Timothy Gardner,New Dawn,New Jersey,Electronics,81.67,-311.22
+SALE728,2023-10-26,Russell Lamb,North Jonathon,Arizona,Clothing,"1,089.54",-663.46
+SALE729,2023-12-03,Maria Sanchez,East Peterbury,North Dakota,Beauty,701.43,130.35
+SALE730,2024-09-19,Tammy Brennan,Lake Brandontown,South Carolina,Home,392.04,148.34
+SALE731,2024-10-04,Jay Patel,Morrisbury,Rhode Island,Clothing,"2,811.12","2,028.12"
+SALE732,2023-10-18,Anthony Morgan,New Anthonyfurt,Missouri,Sports,478.67,288.38
+SALE733,2025-05-06,Pamela Mcguire,South Jasontown,Illinois,Electronics,"2,881.43","1,078.59"
+SALE734,2024-03-20,Wanda Snyder,Frostmouth,Vermont,Clothing,571.39,-157.95
+SALE735,2024-06-10,Carlos Flores,North Johnfurt,Washington,Clothing,218.80,-219.45
+SALE736,2024-08-22,Michelle Cunningham,Amandaborough,Connecticut,Sports,"1,419.02","1,212.12"
+SALE737,2025-04-09,Brittany Edwards Dds,Aliciahaven,Kansas,Sports,689.50,-301.94
+SALE738,2024-12-31,Chloe Aguilar,Lake Johnside,Arizona,Clothing,307.71,-26.97
+SALE739,2025-02-28,Michael Thomas,Woodmouth,Nevada,Sports,"2,277.29","1,751.25"
+SALE740,2024-01-22,Christy Vasquez,Port Travisstad,South Carolina,Beauty,136.35,101.73
+SALE741,2024-03-21,Dr. Benjamin Price,Kylebury,Alabama,Home,392.84,216.77
+SALE742,2024-12-22,Eric Wolfe,Garciaview,Louisiana,Clothing,934.32,-77.94
+SALE743,2024-04-02,Thomas Rhodes,Port Richard,West Virginia,Home,753.49,67.90
+SALE744,2025-01-30,Manuel Fisher,Kanebury,New Hampshire,Home,"2,681.17","1,767.05"
+SALE745,2025-03-31,Jacob Wood,Lake Samanthafort,Idaho,Electronics,611.68,262.51
+SALE746,2025-01-30,Sheila Wilson,South Dustin,Tennessee,Sports,317.32,151.26
+SALE747,2025-09-16,Michael Chang,Kathrynport,North Carolina,Beauty,119.79,-238.68
+SALE748,2025-09-17,Wanda Snyder,Frostmouth,Vermont,Electronics,"1,951.74",555.06
+SALE749,2025-10-11,Andrew Smith,East Matthew,Wisconsin,Sports,"1,316.21",857.45
+SALE750,2025-05-01,Nicholas Webb,Lake Timothy,Nevada,Electronics,101.26,"-1,156.58"
+SALE751,2025-03-24,Pamela Mcguire,South Jasontown,Illinois,Sports,"1,375.29",420.07
+SALE752,2024-11-02,Jamie Yoder,New Gabrielleville,Wisconsin,Beauty,"2,569.10","2,499.86"
+SALE753,2024-10-26,Megan Greer,West John,Alaska,Electronics,467.91,141.85
+SALE754,2024-09-11,Curtis Lam,Butlerberg,Kentucky,Electronics,999.59,98.17
+SALE755,2024-07-10,Kristy Dunlap,Whiteport,North Carolina,Sports,"1,088.14",679.36
+SALE756,2025-05-09,Ronald Jones,Brownshire,Tennessee,Beauty,407.58,-218.02
+SALE757,2024-07-02,Tiffany Herrera,New Dianebury,Virginia,Electronics,821.92,-904.76
+SALE758,2024-06-27,Robert House,Lake James,Maryland,Sports,175.85,44.34
+SALE759,2023-11-13,Daisy Johnson Dds,North Stephanie,Nebraska,Electronics,366.95,-36.76
+SALE760,2024-02-19,Christine Vaughn,East Amandamouth,Oregon,Sports,"2,574.99","2,161.19"
+SALE761,2024-03-20,Jason Wheeler,Carolview,Illinois,Home,"1,306.42",330.64
+SALE762,2024-03-09,Eugene Nelson,Phillipsmouth,North Dakota,Electronics,835.85,486.68
+SALE763,2024-07-26,Colleen Maynard,Singletonmouth,Utah,Clothing,612.56,-306.82
+SALE764,2025-03-29,Eric Wolfe,Garciaview,Louisiana,Sports,271.59,105.53
+SALE765,2025-03-02,Elizabeth Foster,Anthonymouth,Oklahoma,Clothing,573.62,-776.06
+SALE766,2024-06-11,Jared Moran,South David,West Virginia,Electronics,"1,900.27","1,746.19"
+SALE767,2024-05-22,Melinda Rivera,East Davidmouth,New Hampshire,Home,654.05,474.28
+SALE768,2024-07-13,John Bradford,Anabury,Vermont,Beauty,230.88,-54.66
+SALE769,2025-09-02,Christopher Lester,South Jenniferville,Georgia,Clothing,629.37,-77.57
+SALE770,2025-04-15,Roy Cole,North Cynthiatown,New Jersey,Clothing,"2,148.85","1,626.79"
+SALE771,2025-04-05,Douglas Rhodes,Mikehaven,New Hampshire,Home,629.97,331.11
+SALE772,2023-11-24,Charles Miller,Lake Allisonborough,Iowa,Home,624.50,-270.36
+SALE773,2025-01-26,Timothy Weaver,New Amy,Ohio,Electronics,"1,383.26",-188.30
+SALE774,2025-05-27,Isabel Foster,Port Joshuaville,New Jersey,Home,"2,081.92",916.54
+SALE775,2025-06-13,Daniel Contreras,Robertview,Florida,Beauty,251.04,-107.43
+SALE776,2024-06-29,Mr. William Horton,Dawsonchester,Virginia,Sports,"1,936.70","1,542.17"
+SALE777,2024-02-09,Elizabeth Smith,Murphytown,Ohio,Clothing,363.10,-513.40
+SALE778,2024-06-08,Christopher Carter,Brendastad,South Dakota,Home,"1,247.46",271.68
+SALE779,2024-04-04,Maria Hill,Zamoraborough,Nevada,Home,"1,228.81",700.60
+SALE780,2024-07-04,Christopher Ford,North Seanfurt,Ohio,Beauty,261.58,-470.58
+SALE781,2024-05-21,James Berger,Bryanmouth,Delaware,Electronics,368.83,214.75
+SALE782,2025-04-12,Jennifer Myers,Marthaborough,Wisconsin,Electronics,312.67,"-1,414.01"
+SALE783,2025-05-17,Joshua Howard,East Christopherhaven,South Dakota,Home,846.98,645.57
+SALE784,2025-04-17,Charles Conley,Nathanshire,Maine,Home,823.28,685.23
+SALE785,2023-12-19,Timothy Weaver,New Amy,Ohio,Sports,"1,646.39","1,218.15"
+SALE786,2024-11-06,Ricardo Jones,Danielland,Minnesota,Home,"1,759.94","1,155.71"
+SALE787,2025-05-16,Curtis Lam,Butlerberg,Kentucky,Clothing,427.59,-986.29
+SALE788,2025-05-01,Barbara Berry,Lake Michael,Vermont,Sports,"2,168.64","1,740.40"
+SALE789,2024-02-03,James Holloway Jr.,Millston,Indiana,Clothing,"1,245.12",723.12
+SALE790,2025-08-06,Beth Martin,Burkefurt,West Virginia,Sports,"1,146.08",840.24
+SALE791,2024-01-29,Morgan Bowen,Parksfort,Washington,Electronics,868.46,-9.68
+SALE792,2025-08-01,Gregory Curtis,Bergermouth,Vermont,Sports,501.92,480.58
+SALE793,2024-10-12,John Perez,Kathrynview,Louisiana,Sports,927.93,301.41
+SALE794,2025-03-29,Daniel Rivas,Dominiquefort,Georgia,Electronics,"2,310.10",957.97
+SALE795,2025-04-25,Robert King,Cindyton,Rhode Island,Clothing,359.78,141.56
+SALE796,2024-01-08,Debra Liu,South Timtown,Minnesota,Electronics,355.53,267.04
+SALE797,2024-06-04,Ashley Griffin,New Dawnton,Maryland,Electronics,480.75,-836.46
+SALE798,2025-03-01,David Cobb,Lake Thomas,South Dakota,Clothing,347.25,9.83
+SALE799,2023-10-14,Jon Ortiz,South Angelaport,Delaware,Home,84.85,"-1,704.87"
+SALE800,2025-06-29,Erika Padilla,Andrewsland,Alabama,Electronics,"1,715.87",814.45
+SALE801,2023-12-17,Justin Mason Dds,Peggystad,Connecticut,Sports,"1,045.24",724.06
+SALE802,2023-11-18,Mrs. Susan Buckley,Stevensbury,Arizona,Clothing,494.07,269.23
+SALE803,2025-03-25,Teresa Johnson,Johnsonbury,Georgia,Clothing,"1,134.40",257.90
+SALE804,2025-05-01,Angela Robinson,New Nicholasstad,Tennessee,Clothing,835.95,313.95
+SALE805,2024-03-10,Lisa Chandler,Port Richard,Montana,Electronics,"1,016.08",114.66
+SALE806,2024-05-02,Shannon Miller,North Austinport,Kentucky,Home,"1,610.00",444.62
+SALE807,2025-03-18,Amy Wilson,Morrisburgh,Indiana,Sports,485.52,223.04
+SALE808,2024-11-27,Alejandro Doyle,East Crystalton,New Mexico,Sports,925.75,886.99
+SALE809,2024-02-18,Amber Mcclain,Brendaburgh,Florida,Clothing,"1,333.48","1,108.64"
+SALE810,2024-06-04,Nathan Hernandez,New Becky,Montana,Clothing,"2,729.83","2,280.15"
+SALE811,2024-08-09,James Foster,East Audrey,Utah,Home,373.59,230.16
+SALE812,2024-07-13,Timothy Sanders,Aaronmouth,Florida,Home,237.65,-6.05
+SALE813,2025-08-21,Mr. Christopher Sims,Donaldsontown,Connecticut,Sports,902.30,-837.06
+SALE814,2025-08-07,Cynthia Roberts,Millerfort,Vermont,Clothing,"1,254.93",382.05
+SALE815,2024-04-16,Cody Diaz,South Aaronside,New Hampshire,Clothing,"1,144.42",-314.26
+SALE816,2024-04-08,Ashley Griffin,New Dawnton,Maryland,Beauty,707.03,-726.85
+SALE817,2024-04-24,Christopher Stewart,Amandaside,New York,Home,"2,326.48","1,804.42"
+SALE818,2025-07-06,Diane Watson,North Codyport,Texas,Beauty,"1,314.01",597.07
+SALE819,2025-02-09,Robert House,Lake James,Maryland,Electronics,554.35,150.64
+SALE820,2024-11-11,Amber Jackson,Deborahborough,South Dakota,Sports,433.93,356.41
+SALE821,2024-01-16,Sharon Brown,East Andrea,Michigan,Beauty,563.49,520.20
+SALE822,2024-08-16,Laura Alvarez,Lawsonhaven,Washington,Clothing,320.04,-376.04
+SALE823,2025-10-03,Dalton Walters,Jonesstad,Wisconsin,Sports,"1,643.48",975.00
+SALE824,2025-07-03,Sarah Rodgers,New Julia,West Virginia,Electronics,"3,026.67","1,229.07"
+SALE825,2025-08-08,Samuel Mullins,Hartmouth,Louisiana,Clothing,531.56,-882.32
+SALE826,2024-08-28,Cynthia Roberts,Millerfort,Vermont,Sports,866.05,-96.47
+SALE827,2025-03-18,Christopher Lester,South Jenniferville,Georgia,Sports,30.18,-174.21
+SALE828,2025-06-01,Steve Hunt,North Richard,Virginia,Sports,463.86,332.62
+SALE829,2025-04-13,Jamie Yoder,New Gabrielleville,Wisconsin,Sports,19.48,-112.03
+SALE830,2024-06-13,Bryan Garcia,Garciaborough,Wyoming,Home,"1,509.24","1,095.09"
+SALE831,2025-02-10,Kenneth Lambert,North Kathryn,Kansas,Electronics,"1,795.98",224.42
+SALE832,2024-09-13,Darrell Miller,Port Carol,Florida,Clothing,"1,186.97",852.29
+SALE833,2023-11-06,Wesley Thompson,East Davidmouth,Maine,Home,919.29,795.83
+SALE834,2024-01-19,Gregory Allen,West Bruce,Vermont,Beauty,"1,149.07",6.91
+SALE835,2024-03-25,Bryan Garcia,Garciaborough,Wyoming,Home,611.17,367.47
+SALE836,2025-09-14,Tiffany Williams,Richardsport,New Hampshire,Sports,615.80,462.88
+SALE837,2024-02-14,Krystal Ford,South David,Arizona,Home,612.69,-283.89
+SALE838,2025-03-12,Rhonda Morales,Lake Barryfurt,California,Sports,891.53,814.01
+SALE839,2025-04-08,Stuart Johnson,West Markport,North Dakota,Home,"1,913.84",799.70
+SALE840,2025-02-07,Travis Holland,Webstermouth,New Hampshire,Electronics,"2,164.69","1,452.77"
+SALE841,2024-03-29,Ashley Griffin,New Dawnton,Maryland,Sports,262.78,-350.39
+SALE842,2024-06-03,Kristen Fischer,Lake Christopher,Arkansas,Home,800.21,626.19
+SALE843,2024-08-21,Joseph Richards,Wigginsville,Alabama,Sports,245.80,224.46
+SALE844,2024-08-23,Christina Robertson,Hubbardborough,Kentucky,Electronics,"1,686.43",926.44
+SALE845,2023-12-05,Casey Simpson,West Mathewside,Mississippi,Electronics,460.96,134.90
+SALE846,2025-10-06,Debra Mccullough,Mcdanielfurt,Montana,Sports,"1,555.46",250.94
+SALE847,2023-11-12,Rodney Huffman,Garzafort,Delaware,Sports,171.45,110.80
+SALE848,2024-05-25,Sarah Marsh,Port William,New York,Home,"2,579.27","2,027.07"
+SALE849,2024-12-01,Nathaniel Hill,Lake Mark,Kansas,Sports,"1,263.59",685.47
+SALE850,2025-01-21,Lance Baker,Port Victoria,Florida,Home,907.71,664.01
+SALE851,2024-07-11,Jessica Gonzalez,South Darrenland,Iowa,Beauty,"1,912.96",-18.04
+SALE852,2025-02-12,Beth Allen,South Kathrynmouth,Oklahoma,Electronics,897.05,-71.87
+SALE853,2025-08-04,Joseph Mendoza,Ashleymouth,Maryland,Home,"1,048.12",633.97
+SALE854,2025-07-22,Elizabeth Smith,Murphytown,Ohio,Home,705.12,-679.29
+SALE855,2023-11-05,Cody Blake,North Scottport,Virginia,Sports,"1,558.46",601.73
+SALE856,2025-08-05,Tyler Cook,Kramerview,Alaska,Electronics,667.21,216.50
+SALE857,2025-04-22,Elizabeth Johnson,Anitaland,Washington,Electronics,"1,289.34",-220.74
+SALE858,2024-11-23,Ashley Anderson,West Johnmouth,Mississippi,Sports,661.59,183.98
+SALE859,2024-11-18,Matthew Hanna,Gonzalezbury,Michigan,Home,"1,278.37",592.78
+SALE860,2025-02-03,Alyssa Vargas,New Kathrynland,Montana,Home,"2,524.84","1,359.46"
+SALE861,2024-11-12,Shelley Ponce,South Cassandrachester,Rhode Island,Home,"1,373.30",398.50
+SALE862,2024-04-30,Kristi Lopez,Spencermouth,New Jersey,Beauty,"2,250.30","1,393.02"
+SALE863,2025-04-20,Sarah Brady,Johnsonland,Iowa,Home,629.74,610.22
+SALE864,2024-05-16,Sherry Cabrera,Shannonview,Pennsylvania,Home,607.65,248.11
+SALE865,2025-04-23,Nicholas Webb,Lake Timothy,Nevada,Electronics,"2,495.21","1,735.22"
+SALE866,2024-10-06,James Foster,East Audrey,Utah,Sports,308.15,-648.58
+SALE867,2025-02-12,Joel Robinson,Lake Danielport,Hawaii,Home,"1,200.91",841.37
+SALE868,2024-03-31,Cassandra Perez,Brandonville,Mississippi,Beauty,767.99,427.60
+SALE869,2023-11-30,Aaron Luna,Gilltown,Ohio,Electronics,139.29,-102.94
+SALE870,2025-02-14,Robert Jones Dds,Tristanton,Oklahoma,Beauty,"1,240.84",228.58
+SALE871,2024-01-11,Cody Diaz,South Aaronside,New Hampshire,Electronics,367.65,329.13
+SALE872,2024-12-27,Tanya Lopez,West Jeffreyburgh,Iowa,Electronics,802.16,-769.40
+SALE873,2023-11-20,Tyler Weber,East Yvette,Illinois,Home,595.15,-147.61
+SALE874,2025-01-04,Anthony Garcia,Taraberg,Arizona,Sports,229.88,208.54
+SALE875,2024-07-20,James Gibbs,Mooneyshire,Alaska,Electronics,"2,777.10","1,205.54"
+SALE876,2023-11-12,Justin Lopez,Port Cheryl,Texas,Sports,306.77,-6.49
+SALE877,2024-04-29,Jordan Wells,Phillipschester   ,New Jersey,Clothing,"1,550.57",833.63
+SALE878,2024-10-28,Mike Jennings,Fostermouth,Arizona,Home,437.17,-10.26
+SALE879,2023-12-21,John Lawson,New Juliemouth,North Carolina,Clothing,"1,095.86",856.72
+SALE880,2024-10-10,Michael Chang,Kathrynport,North Carolina,Electronics,637.50,"-1,165.34"
+SALE881,2025-01-03,Joseph Faulkner,New Leahfurt,North Dakota,Home,"1,129.00",-213.29
+SALE882,2024-03-09,Brandon Mcbride,Kellyside,Alaska,Electronics,523.71,408.15
+SALE883,2024-08-22,Michael Jones,North Edwardton,Tennessee,Clothing,"2,240.28","1,881.57"
+SALE884,2024-04-13,Bryce Hawkins,Lake Monique,Utah,Sports,41.88,-435.73
+SALE885,2024-06-23,James Berger,Bryanmouth,Delaware,Beauty,754.20,736.89
+SALE886,2025-08-07,Mary Boyd,New Logan,Michigan,Sports,991.30,378.13
+SALE887,2025-03-08,Carol Lewis,Ryanport,North Carolina,Beauty,"1,179.14",504.30
+SALE888,2025-05-24,Ronald Ross,Hartmanside,North Carolina,Electronics,"1,731.49","1,033.15"
+SALE889,2025-04-02,Erika Padilla,Andrewsland,Alabama,Clothing,200.14,-170.24
+SALE890,2024-02-03,Edward Hall,New William,New Mexico,Beauty,"1,185.46",328.84
+SALE891,2025-10-02,Elizabeth Johnson,Anitaland,Washington,Home,353.57,1.43
+SALE892,2025-08-26,Maria Hill,Zamoraborough,Nevada,Home,389.67,-57.76
+SALE893,2024-11-18,Christy Vasquez,Port Travisstad,South Carolina,Beauty,"1,113.66",546.00
+SALE894,2023-11-17,Melinda Thomas,Lake Elizabethside,Indiana,Beauty,383.33,"-1,547.67"
+SALE895,2025-02-08,Lance Baker,Port Victoria,Florida,Sports,28.04,-2.58
+SALE896,2024-01-03,John Smith,South Andrewport,California,Clothing,818.47,460.00
+SALE897,2024-04-07,Morgan Bowen,Parksfort,Washington,Beauty,85.93,-199.61
+SALE898,2025-09-30,Cynthia Parrish,Espinozaberg,Minnesota,Beauty,695.05,-21.89
+SALE899,2024-06-13,Jacqueline Anthony,Vincentside,Ohio,Home,"1,561.92","1,033.71"
+SALE900,2025-02-25,Travis Holland,Webstermouth,New Hampshire,Electronics,139.03,-206.65
+SALE901,2025-05-07,Leonard Cochran,Port Sherryview,North Dakota,Clothing,122.95,-211.73
+SALE902,2025-06-04,Sheena Bonilla,Donaldton,North Carolina,Home,751.59,-171.35
+SALE903,2024-12-27,Matthew Payne,Grahamfurt,Wyoming,Sports,493.91,349.38
+SALE904,2025-01-15,Cameron Simpson,Michaelfort,Indiana,Electronics,"1,613.56","1,079.62"
+SALE905,2025-05-22,Jacqueline Payne,Gutierrezstad,Missouri,Sports,537.12,112.60
+SALE906,2025-07-10,Amy Walker,Smithland,West Virginia,Electronics,621.27,-217.29
+SALE907,2025-09-18,Kevin Orr,Ryanberg,Minnesota,Clothing,867.50,639.84
+SALE908,2023-12-28,Brittany Watson,North Joshualand,Connecticut,Clothing,272.30,-86.41
+SALE909,2024-07-04,David Pierce,Grayland,Washington,Clothing,212.83,-93.63
+SALE910,2025-05-19,Rodney Huffman,Garzafort,Delaware,Electronics,844.97,146.63
+SALE911,2024-12-04,Erin Ward,New Brianchester,New York,Clothing,"3,138.68","1,724.80"
+SALE912,2024-11-29,David Roberts,Port Amanda,Georgia,Beauty,"1,375.68",777.46
+SALE913,2025-04-26,Amy Walker,Smithland,West Virginia,Electronics,246.78,"-1,105.35"
+SALE914,2024-01-17,Tonya Reynolds,Darleneton,Michigan,Electronics,"1,748.74",352.72
+SALE915,2025-07-31,Eric Lee,Lake April,Vermont,Clothing,623.20,186.76
+SALE916,2024-11-25,Jamie Reyes,   jonesbury ,Connecticut,Clothing,502.96,-656.72
+SALE917,2024-05-16,Carmen Price,North Briannamouth,Tennessee,Sports,520.43,-471.01
+SALE918,2025-05-30,Roy Cole,North Cynthiatown,New Jersey,Electronics,316.22,-168.24
+SALE919,2023-11-08,Sarah Smith,Kathleenport,Wyoming,Home,544.56,406.51
+SALE920,2023-11-23,David Arnold,East Jennifer,California,Home,56.01,-401.05
+SALE921,2024-06-17,Sean Roth,Lake Michael,Virginia,Home,"1,641.39","1,281.85"
+SALE922,2024-12-02,Philip Mendoza,Tylermouth,Massachusetts,Clothing,107.07,-6.76
+SALE923,2025-05-01,Timothy Valenzuela,Stevensshire,Missouri,Electronics,523.66,-919.04
+SALE924,2024-06-28,Erin Ward,New Brianchester,New York,Sports,18.46,-267.08
+SALE925,2025-04-23,Cynthia Parrish,Espinozaberg,Minnesota,Electronics,"3,205.37","1,528.25"
+SALE926,2024-03-18,Steve Medina,East Josephside,Oregon,Electronics,"2,470.64","1,423.13"
+SALE927,2025-09-10,Dr. Suzanne Bullock,Lake Blaketon,Alabama,Electronics,474.41,81.52
+SALE928,2024-12-11,Erika Padilla,Andrewsland,Alabama,Sports,370.76,-485.86
+SALE929,2025-02-18,Brian Choi,Floydton,New Jersey,Sports,571.26,86.64
+SALE930,2024-09-22,Justin Ingram,Lake Lisaland,Louisiana,Sports,934.46,509.94
+SALE931,2024-02-16,Kristy Dunlap,Whiteport,North Carolina,Sports,647.24,406.61
+SALE932,2024-05-29,Christina Robertson,Hubbardborough,Kentucky,Clothing,"1,060.44",538.38
+SALE933,2024-04-14,Dr. David Smith,Schmidtchester,Alaska,Sports,"1,754.41","1,347.58"
+SALE934,2024-01-26,Laura Soto,Rodriguezton,Michigan,Electronics,"1,874.79","1,222.67"
+SALE935,2023-11-05,Michael Jones,North Edwardton,Tennessee,Electronics,124.34,-360.12
+SALE936,2025-06-16,Kristine Higgins,Jennifertown,South Carolina,Beauty,"2,746.77","1,946.19"
+SALE937,2024-09-08,Amber Mcclain,Brendaburgh,Florida,Electronics,"2,143.62",964.95
+SALE938,2024-10-30,Darrell Miller,Port Carol,Florida,Electronics,"2,486.21","2,226.95"
+SALE939,2025-05-26,Roberta Green,West Joseph,Washington,Sports,154.94,116.18
+SALE940,2025-08-11,Gene Lee,Mcfarlandmouth,Virginia,Sports,"2,421.79","1,808.62"
+SALE941,2025-02-02,Krystal Ford,South David,Arizona,Clothing,541.10,-773.65
+SALE942,2025-07-03,Laura Mathews,Chambersfurt,Wisconsin,Beauty,844.77,201.81
+SALE943,2024-03-29,April Phillips,Lake Carolyn,Hawaii,Sports,"1,196.55",625.47
+SALE944,2024-07-30,Kristine Higgins,Jennifertown,South Carolina,Clothing,"1,082.84",-11.18
+SALE945,2024-10-02,Amber Mcclain,Brendaburgh,Florida,Home,"3,817.69","3,625.65"
+SALE946,2024-11-04,Patty Francis,South Brooke,Pennsylvania,Home,267.21,-497.23
+SALE947,2024-05-03,Nathan Hernandez,New Becky,Montana,Sports,603.72,282.54
+SALE948,2024-02-21,Reginald Willis,Kellybury,New York,Sports,"1,866.27",-116.61
+SALE949,2024-04-17,Megan Ryan,Andrewsfurt,Idaho,Sports,"1,661.66",805.04
+SALE950,2025-02-01,Stacy Collins,Randychester,California,Sports,"1,206.64",792.84
+SALE951,2025-02-11,Julie Hale,Owensview,Vermont,Beauty,824.49,-242.95
+SALE952,2025-01-06,Aaron Luna,Gilltown,Ohio,Sports,"1,069.53",748.35
+SALE953,2024-03-26,James Foster,East Audrey,Utah,Home,"1,968.58",854.44
+SALE954,2024-04-30,Sarah Marsh,Port William,New York,Beauty,"1,483.81",858.21
+SALE955,2024-02-27,Edward Hall,New William,New Mexico,Beauty,345.32,328.01
+SALE956,2024-07-13,Manuel Castillo,Nealview,Tennessee,Sports,59.59,-334.13
+SALE957,2025-04-14,Dr. Suzanne Bullock,Lake Blaketon,Alabama,Clothing,568.10,344.67
+SALE958,2024-12-13,Kimberly Roberts,Josephchester,New Jersey,Home,671.02,-304.76
+SALE959,2025-08-24,Martha Brown,Novakstad,California,Clothing,"1,573.94","1,225.90"
+SALE960,2023-10-28,Daniel Boyd,West Pamelafurt,West Virginia,Electronics,488.91,148.77
+SALE961,2024-12-11,Andrew Mason,North Michael,Iowa,Electronics,"2,286.47","2,021.00"
+SALE962,2024-06-29,Amy Fowler,West Bobbyshire,New York,Beauty,"1,901.42",650.22
+SALE963,2025-02-22,Cameron Simpson,Michaelfort,Indiana,Electronics,675.94,422.61
+SALE964,2025-01-25,Amy Walker,Smithland,West Virginia,Clothing,"2,066.37","1,397.01"
+SALE965,2025-03-14,Susan Mcdonald,East Ellen,Arkansas,Electronics,711.43,365.75
+SALE966,2024-12-03,Julie Hale,Owensview,Vermont,Electronics,443.33,270.49
+SALE967,2025-05-06,Nicholas Webb,Lake Timothy,Nevada,Electronics,"1,255.84",277.66
+SALE968,2024-08-14,Melinda Thomas,Lake Elizabethside,Indiana,Home,"1,583.81",688.95
+SALE969,2023-12-14,Kristy Dunlap,Whiteport,North Carolina,Sports,355.24,114.61
+SALE970,2024-01-06,Kristin Stein,Jennifermouth,Missouri,Clothing,"1,813.17",379.29
+SALE971,2024-08-26,Antonio Leon,Morrisville,Hawaii,Clothing,"2,593.91",840.91
+SALE972,2025-03-24,David Lozano,North Michaelfurt,Wisconsin,Clothing,326.00,-38.67
+SALE973,2024-01-20,Cassandra Perez,Brandonville,Mississippi,Sports,803.02,-66.66
+SALE974,2025-01-10,Cheryl Carr,Jessicaland,Wyoming,Home,"1,799.55",604.11
+SALE975,2023-12-21,John Sloan,East Johntown,Delaware,Beauty,113.01,-561.83
+SALE976,2025-02-05,Lauren George,Garciamouth,New York,Sports,820.90,778.22
+SALE977,2025-07-19,Sheila Wilson,South Dustin,Tennessee,Sports,"1,968.11","1,150.55"
+SALE978,2025-03-21,Tracy Stephens,New Joshuatown,Maine,Sports,"1,930.76","1,866.74"
+SALE979,2025-04-24,Mario Harvey Jr.,Jessicaport,Minnesota,Home,"1,733.26","1,362.88"
+SALE980,2023-12-12,Christy Hill,Tammyton,New Jersey,Beauty,"2,312.29",950.73
+SALE981,2024-07-08,Gene Lee,Mcfarlandmouth,Virginia,Clothing,"1,472.53","1,233.39"
+SALE982,2023-10-29,Jason Wheeler,Carolview,Illinois,Sports,"2,090.27","1,272.71"
+SALE983,2024-05-20,Timothy Wright,Ashleystad,Arkansas,Beauty,"1,690.78","1,010.00"
+SALE984,2025-09-14,Kaitlin Brown,Kellyberg,South Dakota,Home,"1,377.64",503.72
+SALE985,2025-04-11,Wayne Mcpherson,Edwardsfort,Minnesota,Clothing,"3,133.73","1,763.49"
+SALE986,2024-05-17,Sarah Smith,East Rodney,Nevada,Electronics,981.97,716.50
+SALE987,2024-10-13,Amber Carlson,East Michellemouth,Missouri,Clothing,441.55,267.53
+SALE988,2024-07-13,Caroline Collins,Nicholasshire,California,Beauty,476.92,-160.90
+SALE989,2025-02-06,Adam Castro,New Donnabury,Texas,Sports,56.88,-74.36
+SALE990,2025-08-06,Katherine Young,North Valeriemouth,Vermont,Sports,"2,408.67","2,014.14"
+SALE991,2024-05-20,Casey Simpson,West Mathewside,Mississippi,Sports,787.28,302.66
+SALE992,2024-10-10,Sheena Bonilla,Donaldton,North Carolina,Electronics,"1,087.84",972.28
+SALE993,2024-02-18,Elizabeth Smith,Murphytown,Ohio,Sports,"1,723.57","1,680.89"
+SALE994,2025-09-26,Victor Mcintosh,Tiffanyshire,Minnesota,Home,584.78,181.96
+SALE995,2024-03-22,Alejandro Evans,Cannonberg,Connecticut,Sports,"1,281.89",783.71
+SALE996,2024-10-14,Timothy Valenzuela,Stevensshire,Missouri,Electronics,"2,380.46","1,668.54"
+SALE997,2025-05-28,Christopher Stewart,Amandaside,New York,Home,"1,304.22",782.16
+SALE998,2024-08-18,Joseph Mendoza,Ashleymouth,Maryland,Electronics,968.17,-289.67
+SALE999,2024-01-13,Holly Robinson,East Amy,Washington,Sports,65.73,"-1,076.43"
+SALE1000,2024-06-13,Christopher Stewart,Amandaside,New York,Beauty,"1,327.88","1,293.26"
+SALE1001,2025-04-29,Debra Liu,South Timtown,Minnesota,Clothing,"1,805.27",932.39
+SALE1002,2024-10-01,Amy Walker,Smithland,West Virginia,Sports,"2,100.04","1,778.86"
+SALE1003,2024-09-07,John Donaldson,New Edward,Maine,Sports,"3,030.42","2,366.18"
+SALE1004,2025-06-26,Matthew Avery,Lake Melissashire,Oregon,Electronics,491.33,378.91
+SALE1005,2024-04-23,Ashley Ferguson,Sarahmouth,Pennsylvania,Sports,689.17,-615.35
+SALE1006,2025-09-18,Melissa Duffy Md,East Jenna,South Carolina,Clothing,"1,914.85","1,544.47"
+SALE1007,2023-10-18,Wanda Snyder,Frostmouth,Vermont,Clothing,801.45,485.17
+SALE1008,2023-11-29,Jeanette Nichols,Aguilarland,North Carolina,Beauty,359.61,92.75
+SALE1009,2025-03-24,Diane Watson,North Codyport,Texas,Electronics,187.15,"-1,569.13"
+SALE1010,2025-09-08,Joan Johnson,Lake Josephport,Maine,Home,761.74,-152.38
+SALE1011,2024-11-05,Caroline Collins,Nicholasshire,California,Sports,680.88,109.80
+SALE1012,2024-08-31,Tonya Burch,Olsonhaven,Iowa,Clothing,246.59,"-1,167.29"
+SALE1013,2024-06-16,Brent Rivas,North Kellyberg,New Jersey,Home,"2,862.12","1,986.68"
+SALE1014,2025-01-24,Stacy Collins,Randychester,California,Beauty,159.34,-806.16
+SALE1015,2025-03-09,Nicholas Webb,Lake Timothy,Nevada,Electronics,394.90,49.22
+SALE1016,2024-06-18,Patty Francis,South Brooke,Pennsylvania,Clothing,453.58,-706.10
+SALE1017,2025-06-29,Kelli Smith,North Maryfort,Oregon,Electronics,447.83,"-1,229.29"
+SALE1018,2025-06-15,Michael Chang,Kathrynport,North Carolina,Sports,"1,638.39","1,001.61"
+SALE1019,2025-03-17,Laura Green,Westbury,Oregon,Sports,"1,320.06",682.24
+SALE1020,2024-01-31,David Pierce,Grayland,Washington,Clothing,828.83,654.81
+SALE1021,2024-05-03,Ricardo Jones,Danielland,Minnesota,Home,209.65,127.90
+SALE1022,2024-12-18,Christina Robertson,Hubbardborough,Kentucky,Sports,726.36,573.44
+SALE1023,2025-07-07,Michael Torres,Gonzalezfort,New Jersey,Electronics,373.84,-758.72
+SALE1024,2024-03-03,Miranda King,West Mathew,New York,Sports,283.75,223.10
+SALE1025,2025-03-04,Dr. David Smith,Schmidtchester,Alaska,Sports,208.31,63.78
+SALE1026,2023-12-18,Tiffany Williams,Richardsport,New Hampshire,Sports,"1,299.90",728.82
+SALE1027,2024-05-10,Sharon Simpson,South Michellebury,South Dakota,Sports,70.92,-141.34
+SALE1028,2024-02-15,Christine Vaughn,East Amandamouth,Oregon,Home,721.81,545.74
+SALE1029,2024-09-29,Jessica Mitchell,Matthewbury,South Dakota,Sports,"2,897.23","1,755.07"
+SALE1030,2024-05-12,Donald Lee,Wongberg,Illinois,Sports,262.81,155.75
+SALE1031,2025-03-03,Sarah Lane,Edwardborough,Vermont,Sports,33.13,-133.99
+SALE1032,2023-11-20,Lance Baker,Port Victoria,Florida,Sports,"1,871.72","1,807.70"
+SALE1033,2024-07-06,Mary Russell,South Regina,Arkansas,Home,356.19,176.42
+SALE1034,2025-03-11,Robert Jackson,Lake Brandy,Tennessee,Home,"1,230.95",255.17
+SALE1035,2024-04-12,Miranda King,West Mathew,New York,Sports,"1,489.87","1,447.19"
+SALE1036,2025-04-26,Stephen Fowler,Port Mariastad,Rhode Island,Clothing,"1,818.33","1,447.95"
+SALE1037,2025-05-02,Brian Choi,Floydton,New Jersey,Electronics,489.78,-16.88
+SALE1038,2024-04-18,Debra Liu,South Timtown,Minnesota,Clothing,509.15,-263.97
+SALE1039,2024-08-16,Curtis Haynes,Estradaside,Iowa,Sports,998.19,-434.64
+SALE1040,2025-07-23,Dr. Benjamin Price,Kylebury,Alabama,Clothing,466.78,-7.64
+SALE1041,2025-05-04,Kara Dodson,Joelside,Vermont,Sports,698.76,409.70
+SALE1042,2025-09-06,Amy Wilson,Morrisburgh,Indiana,Clothing,"1,988.57","1,356.01"
+SALE1043,2023-11-21,Erica Carney,North Justin,North Dakota,Clothing,"1,177.05",721.73
+SALE1044,2023-11-27,Sharon Brown,East Andrea,Michigan,Beauty,680.65,-594.99
+SALE1045,2025-06-10,Philip Pennington,East Valerieview,Oregon,Home,808.64,750.08
+SALE1046,2025-05-29,Matthew Payne,Grahamfurt,Wyoming,Home,150.76,-296.67
+SALE1047,2023-12-28,Sharon Brown,East Andrea,Michigan,Home,626.68,483.25
+SALE1048,2025-05-06,Christopher David,Karenmouth,Massachusetts,Sports,116.40,77.64
+SALE1049,2024-04-03,Manuel Fisher,Kanebury,New Hampshire,Clothing,"3,181.89","2,512.53"
+SALE1050,2025-08-09,Jacob Hopkins,lake tylerfort,Pennsylvania,Electronics,127.39,-337.95
+SALE1051,2025-03-04,Philip Pennington,East Valerieview,Oregon,Sports,"2,826.52","2,325.16"
+SALE1052,2024-07-30,James Holloway Jr.,Millston,Indiana,Electronics,"1,542.18",-72.66
+SALE1053,2024-09-16,Shelley Ponce,South Cassandrachester,Rhode Island,Sports,467.77,-74.67
+SALE1054,2025-07-12,Melinda Rivera,East Davidmouth,New Hampshire,Home,"1,413.93",267.27
+SALE1055,2024-05-29,David Pierce,Grayland,Washington,Electronics,"1,066.07",280.29
+SALE1056,2024-05-19,Rhonda Morales,Lake Barryfurt,California,Beauty,355.72,"-1,005.84"
+SALE1057,2025-08-04,Amber Mcclain,Brendaburgh,Florida,Home,"2,404.68","1,508.10"
+SALE1058,2024-12-03,Kelli Smith,North Maryfort,Oregon,Clothing,606.73,439.39
+SALE1059,2023-10-23,Ms. Maria Leach,Melissashire,Pennsylvania,Home,"1,173.51",522.99
+SALE1060,2025-05-20,Ashley Ferguson,Sarahmouth,Pennsylvania,Home,"1,191.68",448.92
+SALE1061,2024-09-19,Shelley Ponce,South Cassandrachester,Rhode Island,Sports,955.02,748.12
+SALE1062,2024-04-03,Lance Baker,Port Victoria,Florida,Sports,"1,690.30","1,262.06"
+SALE1063,2025-02-16,Lisa Young,Maybury,Georgia,Electronics,136.60,"-1,540.52"
+SALE1064,2024-09-10,James Holloway Jr.,Millston,Indiana,Home,"1,270.75",620.23
+SALE1065,2025-03-20,Jonathan Steele,Molinabury,Oregon,Electronics,"1,968.69","1,891.65"
+SALE1066,2024-11-12,Holly Robinson,East Amy,Washington,Home,809.05,361.62
+SALE1067,2024-02-12,Heather Valenzuela,New Angiefurt,Alaska,Electronics,144.96,-274.32
+SALE1068,2025-02-02,James Bean,Stevensonton,New Mexico,Clothing,"1,018.67",311.73
+SALE1069,2024-07-08,Joseph Jones,North Matthew,Illinois,Electronics,"2,468.44","1,173.43"
+SALE1070,2024-10-11,Michael Davies,Lake Stevenfort,Oregon,Sports,"2,278.32","1,517.16"
+SALE1071,2023-10-16,Elizabeth Stanley,Bethanyton,Utah,Beauty,"2,291.64","1,559.48"
+SALE1072,2024-12-27,Andrea Jacobs,Christopherland,Minnesota,Home,64.90,-58.56
+SALE1073,2023-11-11,Carol Lewis,Ryanport,North Carolina,Beauty,"1,266.36",668.14
+SALE1074,2024-05-16,Elizabeth Smith,Murphytown,Ohio,Clothing,991.26,358.70
+SALE1075,2024-10-28,Ryan Kane,West Bruceburgh,Virginia,Home,"1,742.03",188.19
+SALE1076,2024-03-19,Jordan Jackson Dds,North Johnview,Arizona,Home,"1,628.17","1,088.86"
+SALE1077,2025-08-13,Sean Roth,Lake Michael,Virginia,Beauty,"1,518.63",875.67
+SALE1078,2025-08-09,Melissa Valentine,East Patriciafort,Missouri,Clothing,646.30,339.84
+SALE1079,2024-05-08,Victor Mcintosh,Tiffanyshire,Minnesota,Clothing,197.73,-108.73
+SALE1080,2024-03-10,Sarah Rodgers,New Julia,West Virginia,Clothing,433.77,-15.91
+SALE1081,2025-02-14,Luke Parks,West Mario,New Hampshire,Sports,721.82,554.70
+SALE1082,2025-08-02,Ryan Kane,West Bruceburgh,Virginia,Beauty,"1,267.63",411.01
+SALE1083,2024-08-27,Tammy Brennan,Lake Brandontown,South Carolina,Home,603.54,385.06
+SALE1084,2024-02-08,Justin Mason Dds,Peggystad,Connecticut,Beauty,"1,251.51",576.67
+SALE1085,2024-01-20,Zachary Andrade,South Davidport,California,Clothing,895.69,-23.69
+SALE1086,2024-10-02,Donna Guerra,North Robert,Massachusetts,Sports,946.53,854.67
+SALE1087,2023-11-09,Shelley Ponce,South Cassandrachester,Rhode Island,Electronics,"1,787.35",809.17
+SALE1088,2023-12-24,Tyler Garner,Port Coreyfort,Alabama,Home,528.31,-637.07
+SALE1089,2025-01-29,Tonya Reynolds,Darleneton,Michigan,Electronics,305.94,-405.98
+SALE1090,2025-06-16,Andrew Smith,East Matthew,Wisconsin,Beauty,"1,369.67",688.89
+SALE1091,2025-07-29,Damon Perez,Jasonton,Ohio,Sports,"1,228.44","1,167.20"
+SALE1092,2024-10-13,Daisy Johnson Dds,North Stephanie,Nebraska,Electronics,"1,896.72",99.12
+SALE1093,2024-10-10,Cynthia Morris,Hessmouth,Arizona,Home,"1,386.24",735.72
+SALE1094,2025-06-08,Sarah Marsh,Port William,New York,Home,478.03,106.65
+SALE1095,2024-11-24,Tyler Garner,Port Coreyfort,Alabama,Home,671.90,283.44
+SALE1096,2025-02-07,Cynthia Payne,South Gina,Kentucky,Sports,91.40,-40.11
+SALE1097,2024-10-31,Andrea Perez,South Shaun,New Mexico,Electronics,591.58,366.74
+SALE1098,2025-07-31,Bryan Tran,Kelseybury,Georgia,Electronics,566.42,-829.60
+SALE1099,2024-12-05,Gregory Curtis,Bergermouth,Vermont,Clothing,674.64,555.07
+SALE1100,2024-03-28,Beth Allen,South Kathrynmouth,Oklahoma,Sports,155.23,-481.55
+SALE1101,2024-12-15,Ashley Griffin,New Dawnton,Maryland,Electronics,817.21,-500.00
+SALE1102,2025-07-04,Cristian Wright,Port Denise,California,Electronics,956.17,-905.19
+SALE1103,2023-11-27,Joshua Bell,Port Richardshire,Minnesota,Sports,664.35,625.59
+SALE1104,2024-06-25,Andrew Mason,North Michael,Iowa,Home,353.27,106.35
+SALE1105,2023-10-29,Kristine Higgins,Jennifertown,South Carolina,Electronics,"2,691.74",830.38
+SALE1106,2025-01-04,Daniel Contreras,Robertview,Florida,Sports,763.31,192.44
+SALE1107,2025-02-13,Kelly Garrett,Port Taylorberg,Pennsylvania,Sports,222.27,77.74
+SALE1108,2024-06-05,Gregory Allen,West Bruce,Vermont,Sports,"2,135.42","1,825.07"
+SALE1109,2024-04-05,Jasmine Snyder,Hudsonfort,Connecticut,Sports,"2,478.45","1,865.28"
+SALE1110,2024-12-26,Dr. Suzanne Bullock,Lake Blaketon,Alabama,Sports,"1,439.14",940.96
+SALE1111,2024-01-25,Sarah Lane,Edwardborough,Vermont,Clothing,871.42,757.59
+SALE1112,2024-01-25,Michael Davies,Lake Stevenfort,Oregon,Sports,"1,236.48","1,022.36"
+SALE1113,2025-08-19,David Patterson,New Amyport,Nevada,Clothing,"1,794.30",479.55
+SALE1114,2025-05-14,Cynthia Parrish,Espinozaberg,Minnesota,Home,199.29,-543.47
+SALE1115,2024-05-08,Terry Moses,Leahmouth,Nevada,Sports,"1,022.68",541.42
+SALE1116,2023-10-20,Patty Francis,South Brooke,Pennsylvania,Electronics,810.09,83.40
+SALE1117,2024-08-06,Melinda Rivera,East Davidmouth,New Hampshire,Clothing,"2,807.80","1,373.92"
+SALE1118,2025-01-30,Michelle Carpenter,Lake Danielleton,New Jersey,Sports,616.03,138.42
+SALE1119,2023-12-11,Tyler Weber,East Yvette,Illinois,Home,"1,442.76","1,195.84"
+SALE1120,2024-06-03,Bridget Allen,Lake Shaneburgh,Delaware,Clothing,69.27,"-1,344.61"
+SALE1121,2024-10-14,Casey Simpson,West Mathewside,Mississippi,Electronics,"2,263.01","1,925.75"
+SALE1122,2025-03-09,Lisa Chandler,Port Richard,Montana,Electronics,"1,149.56",248.14
+SALE1123,2025-09-10,Cristian Wright,Port Denise,California,Sports,803.23,514.17
+SALE1124,2024-06-04,Natalie Johnson,New Jessechester,Indiana,Electronics,611.21,-567.47
+SALE1125,2024-01-16,Michelle Gonzalez,Clarkport,West Virginia,Sports,676.74,555.44
+SALE1126,2024-12-27,Tanya Lopez,West Jeffreyburgh,Iowa,Electronics,514.69,177.43
+SALE1127,2025-06-09,Sarah Smith,East Rodney,Nevada,Home,92.85,53.81
+SALE1128,2024-08-05,Evelyn Brown,West Victoriaborough,New Mexico,Home,756.77,309.34
+SALE1129,2025-04-06,James Orozco,Simpsonfort,Maine,Electronics,"2,545.44","1,287.60"
+SALE1130,2024-08-08,Nancy Page,West Julia,Utah,Clothing,887.56,114.44
+SALE1131,2025-04-17,Mariah Brown,Palmerbury,Tennessee,Clothing,769.04,-390.64
+SALE1132,2025-03-30,Stacy Collins,Randychester,California,Electronics,780.69,435.01
+SALE1133,2024-12-21,Ryan Hernandez,East Donna,Nevada,Clothing,398.95,45.48
+SALE1134,2024-05-31,Daniel Rivas,Dominiquefort,Georgia,Electronics,124.88,-52.10
+SALE1135,2025-03-06,Bryce Hawkins,Lake Monique,Utah,Beauty,"2,167.92","1,435.76"
+SALE1136,2024-10-10,Melanie Lam,East Michaelton,Kansas,Beauty,526.24,474.31
+SALE1137,2024-05-29,Caroline Collins,Nicholasshire,California,Beauty,435.27,136.16
+SALE1138,2025-10-10,Heather Collins,Rogerschester,Idaho,Electronics,616.51,528.02
+SALE1139,2024-08-14,Paul Fox,Michaelton,Hawaii,Electronics,514.90,-446.90
+SALE1140,2025-07-23,Nicholas Bradshaw,Murphyfurt,Utah,Electronics,"1,156.37",317.81
+SALE1141,2024-05-04,James Orozco,Simpsonfort,Maine,Clothing,258.82,-75.86
+SALE1142,2024-11-12,Jared Moran,South David,West Virginia,Beauty,"1,120.06",263.44
+SALE1143,2024-01-10,Philip Pennington,East Valerieview,Oregon,Sports,131.05,53.53
+SALE1144,2024-05-21,Antonio Jones,Matthewborough,Georgia,Beauty,"2,168.94","2,039.07"
+SALE1145,2025-06-13,Summer Weiss,Phyllisport,New Jersey,Beauty,815.07,-534.61
+SALE1146,2024-08-04,Sarah Rodgers,New Julia,West Virginia,Sports,"1,665.69",904.53
+SALE1147,2025-07-16,Jordan Wells,Phillipschester   ,New Jersey,Clothing,"1,570.42",693.92
+SALE1148,2024-10-04,Morgan Bowen,Parksfort,Washington,Electronics,405.32,"-1,456.04"
+SALE1149,2025-06-16,Joseph Richards,Wigginsville,Alabama,Electronics,"2,269.50","1,302.27"
+SALE1150,2024-03-01,Summer Weiss,Phyllisport,New Jersey,Sports,"3,225.95","2,683.51"
+SALE1151,2024-06-11,Amber Jackson,Deborahborough,South Dakota,Beauty,"2,107.52","1,250.90"
+SALE1152,2025-09-24,Jordan Medina,Robinchester,Florida,Sports,774.18,52.29
+SALE1153,2025-02-06,Jason Mullins,Brianchester,Delaware,Sports,"1,080.21",808.99
+SALE1154,2024-10-22,Paul Fox,Michaelton,Hawaii,Beauty,689.38,118.30
+SALE1155,2024-09-21,Eric Davis,Johntown,Colorado,Sports,36.03,-590.49
+SALE1156,2025-09-23,Jonathan Steele,Molinabury,Oregon,Sports,600.30,-853.56
+SALE1157,2025-06-03,Timothy Sanders,Aaronmouth,Florida,Home,"1,631.33",655.55
+SALE1158,2024-09-24,Gina Knight,Lake Roberthaven,Nevada,Clothing,649.74,-25.10
+SALE1159,2025-08-12,John Jordan,Port Crystalberg,Tennessee,Electronics,231.56,-108.59
+SALE1160,2024-03-16,Brandon Mcbride,Kellyside,Alaska,Home,"1,404.08","1,365.04"
+SALE1161,2025-06-24,Brittany Watson,North Joshualand,Connecticut,Sports,193.26,107.90
+SALE1162,2024-05-26,Kimberly Brooks,Kingfort,New Mexico,Beauty,"1,351.36",922.72
+SALE1163,2025-02-03,William Jackson,New Tina,Connecticut,Sports,570.12,284.58
+SALE1164,2024-08-02,Debra Mccullough,Mcdanielfurt,Montana,Clothing,52.00,-312.67
+SALE1165,2023-11-21,Brian Hammond,North Nicholas,Texas,Home,"1,404.05",639.61
+SALE1166,2025-03-06,Justin Lopez,Port Cheryl,Texas,Sports,81.65,60.31
+SALE1167,2025-02-01,Dr. David Smith,Schmidtchester,Alaska,Clothing,385.30,271.47
+SALE1168,2024-02-24,Timothy Juarez,Grahamstad,South Carolina,Electronics,159.88,-259.40
+SALE1169,2024-09-14,Rodney Huffman,Garzafort,Delaware,Sports,352.59,208.06
+SALE1170,2025-08-31,Ryan Moore,Cartershire,Virginia,Beauty,403.59,287.77
+SALE1171,2024-01-17,Sharon Brown,East Andrea,Michigan,Electronics,449.51,0.11
+SALE1172,2024-02-14,Michael Torres,Gonzalezfort,New Jersey,Home,"1,187.18",784.36
+SALE1173,2023-10-14,Bryan Garcia,Garciaborough,Wyoming,Home,"1,175.42",252.48
+SALE1174,2025-03-26,Cynthia Parrish,Espinozaberg,Minnesota,Electronics,"3,440.03","1,868.47"
+SALE1175,2025-10-02,Michael Torres,Gonzalezfort,New Jersey,Beauty,645.30,-320.20
+SALE1176,2024-06-19,Reginald Willis,Kellybury,New York,Home,190.71,-197.75
+SALE1177,2024-10-03,Daisy Johnson Dds,North Stephanie,Nebraska,Beauty,906.24,819.66
+SALE1178,2024-04-15,Tyler Conrad,North Curtischester,North Dakota,Beauty,"1,482.08",807.24
+SALE1179,2024-10-04,Daniel Contreras,Robertview,Florida,Sports,"2,102.42","1,145.69"
+SALE1180,2024-03-02,Arthur Warren,Ericshire,Nevada,Home,"1,219.26",871.22
+SALE1181,2024-02-21,Christopher Sutton,Deborahberg,Pennsylvania,Sports,"1,655.72","1,029.20"
+SALE1182,2024-01-30,April Phillips,Lake Carolyn,Hawaii,Clothing,422.01,198.58
+SALE1183,2024-12-24,John Perez,Brandontown,South Carolina,Electronics,429.32,170.06
+SALE1184,2025-06-03,Elizabeth Stanley,Bethanyton,Utah,Beauty,"1,639.21","1,105.49"
+SALE1185,2024-08-01,Dr. Tamara White Md,New Benjamin,North Carolina,Electronics,85.17,-380.17
+SALE1186,2025-08-28,Melissa Duffy Md,East Jenna,South Carolina,Sports,"2,397.41",658.05
+SALE1187,2024-11-06,Michael Garner,Port Crystal,New Hampshire,Clothing,296.32,-715.94
+SALE1188,2024-08-26,Joan Johnson,Lake Josephport,Maine,Electronics,285.97,-552.59
+SALE1189,2025-03-13,John Perez,Brandontown,South Carolina,Electronics,304.77,-17.64
+SALE1190,2024-06-25,Adam Castro,New Donnabury,Texas,Electronics,767.48,542.64
+SALE1191,2025-10-06,Tyrone Olson,Emilytown,California,Beauty,"1,147.45","1,112.83"
+SALE1192,2024-11-26,Amber Carlson,East Michellemouth,Missouri,Clothing,"1,776.37",903.49
+SALE1193,2025-02-17,Beth Allen,South Kathrynmouth,Oklahoma,Clothing,545.81,-768.95
+SALE1194,2023-11-20,Melinda Johnson,Kaufmanfurt,Ohio,Electronics,945.13,300.31
+SALE1195,2025-01-27,Kaitlin Brown,Kellyberg,South Dakota,Beauty,"2,232.57","1,157.16"
+SALE1196,2024-04-13,Roberta Green,West Joseph,Washington,Home,"2,971.03","2,644.03"
+SALE1197,2024-03-31,Dr. Lindsay Hanna,New Paulstad,Hawaii,Home,942.02,-847.70
+SALE1198,2025-09-19,David Cobb,Lake Thomas,South Dakota,Clothing,"1,628.02",552.61
+SALE1199,2024-06-10,Manuel Fisher,Kanebury,New Hampshire,Beauty,889.31,523.23
+SALE1200,2024-01-22,Samuel Mullins,Hartmouth,Louisiana,Beauty,661.76,321.37
+SALE1201,2024-03-26,Colleen Maynard,Singletonmouth,Utah,Sports,"1,845.97","1,177.49"
+SALE1202,2024-03-20,Matthew Payne,Grahamfurt,Wyoming,Beauty,"1,828.11","1,147.33"
+SALE1203,2025-05-20,Frank Stewart,Fischerborough,Delaware,Electronics,593.79,-802.23
+SALE1204,2024-10-10,Michelle Cunningham,Amandaborough,Connecticut,Home,"1,900.11",414.59
+SALE1205,2024-10-01,Mark Rogers,Bookertown,Oklahoma,Electronics,"2,950.14","1,645.90"
+SALE1206,2023-11-22,Nathaniel Hill,Lake Mark,Kansas,Home,821.35,619.94
+SALE1207,2025-02-05,Michael Greene,Port Saramouth,Wisconsin,Beauty,"1,756.53","1,704.60"
+SALE1208,2024-06-03,Tiffany Williams,Richardsport,New Hampshire,Electronics,"1,568.94",251.73
+SALE1209,2025-07-24,Katherine Dorsey,Christopherland,Oklahoma,Home,548.06,469.98
+SALE1210,2024-08-26,Krystal Ford,South David,Arizona,Clothing,954.06,60.34
+SALE1211,2024-09-23,Laura Alvarez,Lawsonhaven,Washington,Home,"1,194.90",-333.98
+SALE1212,2024-06-29,Justin Lopez,Port Cheryl,Texas,Sports,"3,220.34","2,642.22"
+SALE1213,2025-06-01,Lauren George,Garciamouth,New York,Sports,40.98,-436.63
+SALE1214,2025-05-06,Jason Wheeler,Carolview,Illinois,Sports,189.62,67.14
+SALE1215,2025-07-11,John Jordan,Port Crystalberg,Tennessee,Clothing,264.92,-69.77
+SALE1216,2023-12-21,Diane Watson,North Codyport,Texas,Electronics,"1,369.12",884.66
+SALE1217,2024-01-31,Cynthia Morris,Hessmouth,Arizona,Clothing,331.17,-729.24
+SALE1218,2024-09-25,Christopher Sutton,Deborahberg,Pennsylvania,Sports,"1,275.80","1,013.32"
+SALE1219,2025-09-05,Jessica Acevedo,Amybury,Pennsylvania,Home,"1,926.15",397.27
+SALE1220,2024-08-27,Elizabeth Jones,Brownburgh,Maryland,Home,"1,370.52",-183.32
+SALE1221,2023-10-17,Dominic Page,Port Michaelburgh,Pennsylvania,Sports,679.19,254.67
+SALE1222,2024-04-02,George Rosario,Leburgh,Florida,Clothing,"1,053.76",531.70
+SALE1223,2024-05-04,John Lawson,New Juliemouth,North Carolina,Home,333.85,34.99
+SALE1224,2025-08-11,Nancy Page,West Julia,Utah,Electronics,819.72,-751.84
+SALE1225,2025-10-03,Julia Jackson,Edwardland,California,Home,"1,187.90",293.04
+SALE1226,2024-02-23,Kristy Dunlap,Whiteport,North Carolina,Sports,"2,093.67","2,029.65"
+SALE1227,2025-01-24,Isabel Foster,Port Joshuaville,New Jersey,Beauty,202.98,168.36
+SALE1228,2025-05-08,Daniel Boyd,West Pamelafurt,West Virginia,Clothing,32.66,-228.34
+SALE1229,2025-06-15,Cody Blake,North Scottport,Virginia,Beauty,"1,031.75",19.49
+SALE1230,2024-10-07,Rhonda Moss,South William,Kansas,Home,"1,746.71","1,459.85"
+SALE1231,2023-11-29,Thomas Moore,Williamsberg,New York,Beauty,"1,754.94","1,111.98"
+SALE1232,2025-03-24,Kristi Lopez,Spencermouth,New Jersey,Home,530.21,116.06
+SALE1233,2025-07-31,Jeffrey Gomez,Lake Nicole,Colorado,Home,"2,035.85","1,379.27"
+SALE1234,2024-08-22,Andrew Mason,North Michael,Iowa,Electronics,361.46,"-1,315.66"
+SALE1235,2024-07-16,Gregory Curtis,Bergermouth,Vermont,Clothing,953.45,-74.23
+SALE1236,2025-09-08,Maria Hill,Zamoraborough,Nevada,Home,685.31,509.24
+SALE1237,2025-09-12,Morgan Bowen,Parksfort,Washington,Electronics,584.05,243.91
+SALE1238,2025-04-24,David Roberts,Port Amanda,Georgia,Beauty,530.15,-40.94
+SALE1239,2024-11-23,Christy Hoffman,Garyberg,Indiana,Home,"3,721.52","3,169.32"
+SALE1240,2024-04-12,Justin Cross,North Anthonychester,Nevada,Home,665.52,317.48
+SALE1241,2025-05-09,Eric Singh,Port Lisa,New Mexico,Beauty,229.36,-445.48
+SALE1242,2025-02-04,Melinda Rivera,East Davidmouth,New Hampshire,Beauty,800.58,515.04
+SALE1243,2025-01-20,Christy Vasquez,Port Travisstad,South Carolina,Electronics,122.97,-55.01
+SALE1244,2025-01-12,Tammy Brennan,Lake Brandontown,South Carolina,Sports,"1,363.45",821.01
+SALE1245,2024-01-08,April Phillips,Lake Carolyn,Hawaii,Clothing,912.00,553.29
+SALE1246,2025-08-24,Christine Vaughn,East Amandamouth,Oregon,Electronics,112.45,26.03
+SALE1247,2024-09-25,Gene Lee,Mcfarlandmouth,Virginia,Clothing,"1,287.61",275.35
+SALE1248,2023-12-07,Michael Garner,Port Crystal,New Hampshire,Sports,"3,602.73","2,618.81"
+SALE1249,2024-06-24,Morgan Bowen,Parksfort,Washington,Beauty,"1,538.40",462.99
+SALE1250,2025-07-09,Thomas Phillips,Luisfurt,Georgia,Beauty,82.55,-230.25
+SALE1251,2024-07-07,Tyler Garner,Port Coreyfort,Alabama,Electronics,"1,417.82","1,061.86"
+SALE1252,2024-02-23,Roberta Green,West Joseph,Washington,Home,213.71,37.64
+SALE1253,2023-11-05,Antonio Jones,Matthewborough,Georgia,Electronics,800.34,396.63
+SALE1254,2024-09-08,Blake Harrison,Lyonsfort,Washington,Clothing,333.05,-337.24
+SALE1255,2024-04-20,Sarah Marsh,Port William,New York,Sports,514.30,-11.74
+SALE1256,2025-01-14,Shane Mills,Lake Meganstad,Nebraska,Beauty,"2,299.60","1,232.16"
+SALE1257,2024-03-16,John Bradford,Anabury,Vermont,Home,"2,013.79","1,461.59"
+SALE1258,2024-07-15,Susan Mcdonald,East Ellen,Arkansas,Electronics,"1,228.49",468.50
+SALE1259,2024-08-05,Kara Dodson,Joelside,Vermont,Sports,77.02,-26.43
+SALE1260,2024-02-01,Elizabeth Smith,Murphytown,Ohio,Home,"2,560.00","1,074.48"
+SALE1261,2025-08-20,Curtis Haynes,Estradaside,Iowa,Beauty,262.52,"-1,185.74"
+SALE1262,2023-11-23,Holly Robinson,East Amy,Washington,Beauty,158.51,-125.32
+SALE1263,2024-08-26,Jose Stewart,South Robert,Maine,Beauty,"2,205.02","1,353.53"
+SALE1264,2024-07-18,Antonio Leon,Morrisville,Hawaii,Home,"1,538.94",762.02
+SALE1265,2024-12-02,Jason Mullins,Brianchester,Delaware,Beauty,909.83,-439.85
+SALE1266,2025-07-23,Melissa Duffy Md,East Jenna,South Carolina,Beauty,194.18,-164.29
+SALE1267,2025-08-09,Patrick Roberts,Jaredville,Missouri,Sports,"2,566.40","1,582.48"
+SALE1268,2024-05-14,Nathan Campbell,Rodrigueztown,Oklahoma,Sports,786.19,654.95
+SALE1269,2023-11-01,Arthur Warren,Ericshire,Nevada,Clothing,"1,125.90",253.02
+SALE1270,2024-11-13,Terry Moses,Leahmouth,Nevada,Clothing,"1,715.06","1,373.57"
+SALE1271,2024-04-10,Carlos Flores,North Johnfurt,Washington,Clothing,887.30,365.24
+SALE1272,2025-08-07,Shane Brown,East Andrea,Michigan,Home,800.73,145.29
+SALE1273,2025-04-25,Aaron Luna,Gilltown,Ohio,Electronics,"2,859.29","1,564.28"
+SALE1274,2023-10-18,Wanda Snyder,Frostmouth,Vermont,Beauty,570.78,-877.47
+SALE1275,2025-03-23,George Davis,    lake lisa,Massachusetts,Sports,"2,481.52","2,238.92"
+SALE1276,2023-12-12,Michael Chang,Kathrynport,North Carolina,Beauty,"2,358.16",427.16
+SALE1277,2024-08-20,Jeremy Harris,Thomastown,Ohio,Electronics,445.10,332.68
+SALE1278,2024-07-08,Jeffrey Mccarthy,North Samuel,Nebraska,Home,"1,371.55","1,275.53"
+SALE1279,2023-12-07,David Pierce,Grayland,Washington,Electronics,673.88,192.98
+SALE1280,2024-02-06,Erin Ward,New Brianchester,New York,Beauty,223.87,-142.21
+SALE1281,2025-05-10,Darrell Miller,Port Carol,Florida,Beauty,574.11,444.24
+SALE1282,2025-08-07,Darren Burton,Lake Alice,Tennessee,Home,529.89,311.41
+SALE1283,2024-09-17,Cheryl Copeland,Snowmouth,Maryland,Beauty,929.16,500.52
+SALE1284,2025-06-15,Frank Stewart,Fischerborough,Delaware,Sports,"1,071.90",202.22
+SALE1285,2024-11-26,Andrew Smith,East Matthew,Wisconsin,Clothing,763.98,241.98
+SALE1286,2025-06-02,Brandon Mcbride,Kellyside,Alaska,Electronics,712.60,375.34
+SALE1287,2024-12-19,Cynthia Payne,South Gina,Kentucky,Beauty,"2,013.52","1,666.06"
+SALE1288,2025-04-02,Eric Singh,Port Lisa,New Mexico,Home,"1,438.84",865.12
+SALE1289,2024-09-02,Curtis Lam,Butlerberg,Kentucky,Clothing,213.56,-233.30
+SALE1290,2024-03-25,Daniel Contreras,Robertview,Florida,Clothing,"1,925.85",611.10
+SALE1291,2025-02-21,Travis Holland,Webstermouth,New Hampshire,Sports,"1,146.63",991.59
+SALE1292,2024-06-03,David Cole,Lake Michael,Michigan,Electronics,64.88,26.36
+SALE1293,2024-02-08,Shannon Miller,North Austinport,Kentucky,Sports,36.23,-99.39
+SALE1294,2024-04-06,Christy Hill,Tammyton,New Jersey,Beauty,"1,537.40",988.28
+SALE1295,2024-01-22,Douglas Rhodes,Mikehaven,New Hampshire,Beauty,"1,548.95",100.70
+SALE1296,2023-10-22,Alex Mann Ii,South Zacharychester,Oklahoma,Home,"1,969.96","1,094.52"
+SALE1297,2024-11-23,Mr. William Horton,Dawsonchester,Virginia,Sports,"1,659.98","1,178.72"
+SALE1298,2023-12-26,Timothy Gardner,New Dawn,New Jersey,Electronics,"1,280.12",635.30
+SALE1299,2024-06-08,Ashley Griffin,New Dawnton,Maryland,Sports,150.79,-2.13
+SALE1300,2024-07-05,Rhonda Young,Lake Nathanfort,Alaska,Clothing,812.76,454.29
+SALE1301,2024-08-24,Steven Stein,West Lauren,Connecticut,Electronics,"1,005.32",-671.80
+SALE1302,2024-05-06,Bryan Garcia,Garciaborough,Wyoming,Sports,590.84,305.30
+SALE1303,2024-07-05,Sarah Vance,Johnsonville,Oregon,Sports,"1,040.24",183.62
+SALE1304,2023-11-02,Erin Hopkins,North Sabrina,Iowa,Electronics,"2,182.45",258.85
+SALE1305,2024-11-20,Jeremy Harris,Thomastown,Ohio,Beauty,105.47,-377.28
+SALE1306,2025-04-27,Brian Holder,Port Travis,Utah,Sports,343.67,72.45
+SALE1307,2024-12-25,Joshua Ryan,New David,New Jersey,Sports,103.93,-206.42
+SALE1308,2025-09-02,Justin Ingram,Lake Lisaland,Louisiana,Electronics,900.59,62.03
+SALE1309,2024-04-19,Robert Jackson,Lake Brandy,Tennessee,Clothing,"1,505.26",872.70
+SALE1310,2025-03-01,Heidi Tyler,Dawnstad,Oregon,Sports,926.40,545.82
+SALE1311,2024-03-25,Summer Weiss,Phyllisport,New Jersey,Electronics,242.04,64.06
+SALE1312,2024-10-11,John Jordan,Port Crystalberg,Tennessee,Sports,"1,627.44","1,014.27"
+SALE1313,2025-09-06,Jeff Martinez,Smithburgh,Oklahoma,Electronics,138.42,-183.99
+SALE1314,2024-08-19,Melissa Howard,Maynardton,New Hampshire,Electronics,"1,774.34","1,549.50"
+SALE1315,2023-11-04,Sarah Smith,Kathleenport,Wyoming,Beauty,"1,477.50","1,048.86"
+SALE1316,2024-04-23,Sara Ingram,East Dillonview,Virginia,Sports,615.74,90.78
+SALE1317,2023-10-24,Colleen Mccarthy,North Katherine,Washington,Beauty,"2,774.61","1,578.17"
+SALE1318,2025-06-30,Kristen Fischer,Lake Christopher,Arkansas,Electronics,450.52,94.56
+SALE1319,2025-08-14,Daniel Contreras,Robertview,Florida,Electronics,"2,549.48","1,245.24"
+SALE1320,2025-05-11,Cheryl Carr,Jessicaland,Wyoming,Sports,"1,359.59",55.07
+SALE1321,2024-04-01,Brandy Thompson,West Patriciaview,Alabama,Electronics,"1,373.77",162.64
+SALE1322,2024-02-13,Miss Alexandria Li Dvm,Port Jenniferton,Kansas,Beauty,502.62,-572.79
+SALE1323,2024-01-13,Tyler Garner,Port Coreyfort,Alabama,Home,"1,861.99","1,783.91"
+SALE1324,2024-09-08,Monica Flynn,Amberburgh,Tennessee,Electronics,"1,904.54",289.70
+SALE1325,2024-02-04,Heather Valenzuela,New Angiefurt,Alaska,Home,273.52,254.00
+SALE1326,2024-07-25,Michael Garner,Port Crystal,New Hampshire,Sports,95.41,34.76
+SALE1327,2024-09-09,Cameron Simpson,Michaelfort,Indiana,Home,700.55,348.41
+SALE1328,2023-12-08,Mr. Christopher Sims,Donaldsontown,Connecticut,Clothing,257.24,-525.76
+SALE1329,2025-06-16,Alejandro Doyle,East Crystalton,New Mexico,Electronics,"2,460.37",888.81
+SALE1330,2023-12-01,William Cortez,Port Hannahport,Ohio,Electronics,142.53,56.11
+SALE1331,2023-11-03,Caroline Collins,Nicholasshire,California,Home,287.39,-607.47
+SALE1332,2025-01-16,Jay Patel,Morrisbury,Rhode Island,Electronics,"2,760.54","1,033.86"
+SALE1333,2024-09-30,Cheryl Carr,Jessicaland,Wyoming,Sports,54.49,-90.04
+SALE1334,2024-12-20,Timothy Weaver,New Amy,Ohio,Sports,"1,448.75",810.93
+SALE1335,2024-09-04,Paul Cox,East Julie,Kansas,Beauty,469.00,-331.58
+SALE1336,2025-10-06,Cynthia Lopez,Joseland,Nebraska,Clothing,"1,741.35","1,266.93"
+SALE1337,2025-07-16,Steven Stein,West Lauren,Connecticut,Clothing,"1,482.18",869.26
+SALE1338,2025-10-06,Donna Gregory,South Amandahaven,Arizona,Electronics,634.18,557.14
+SALE1339,2025-09-21,Andrew Mason,North Michael,Iowa,Home,"3,034.28","2,460.56"
+SALE1340,2025-07-17,John Compton,North Daniel,Michigan,Sports,"1,867.92","1,473.39"
+SALE1341,2025-06-29,Adam Castro,New Donnabury,Texas,Electronics,"2,839.62","1,329.54"
+SALE1342,2025-03-22,Natalie Johnson,New Jessechester,Indiana,Sports,"1,602.71","1,031.84"
+SALE1343,2024-02-01,David Lozano,North Michaelfurt,Wisconsin,Sports,"2,281.14","1,543.20"
+SALE1344,2024-03-11,Tracy Stephens,New Joshuatown,Maine,Sports,"1,451.70",713.76
+SALE1345,2024-09-09,James Gibbs,Mooneyshire,Alaska,Beauty,"1,792.12",991.54
+SALE1346,2023-11-19,Carol Bishop,Lake Saramouth,Oregon,Electronics,954.77,598.81
+SALE1347,2025-01-02,Donna Gregory,South Amandahaven,Arizona,Sports,"1,142.50",504.68
+SALE1348,2025-09-27,Daniel Rivas,Dominiquefort,Georgia,Sports,396.23,-908.29
+SALE1349,2024-03-22,Michael Thomas,Woodmouth,Nevada,Electronics,"3,019.23","1,221.63"
+SALE1350,2024-08-25,Daniel Bell,Deniseberg,Arkansas,Clothing,342.92,-27.46
+SALE1351,2025-08-03,Robert Harris,East jeremy,Iowa,Home,"2,100.77",758.48
+SALE1352,2023-12-07,Cynthia Parrish,Espinozaberg,Minnesota,Clothing,523.78,-349.10
+SALE1353,2025-08-25,Mark Rogers,Bookertown,Oklahoma,Beauty,372.03,13.56
+SALE1354,2024-02-09,Jeremy Harris,Thomastown,Ohio,Sports,"1,311.42",327.50
+SALE1355,2025-09-10,Jennifer Garcia,New Sean,New Mexico,Beauty,"2,487.38","1,938.26"
+SALE1356,2024-09-29,Anthony Garcia,Taraberg,Arizona,Home,373.67,-311.92
+SALE1357,2024-06-18,Joseph Snow,South Michaelfort,Vermont,Electronics,192.89,"-1,203.14"
+SALE1358,2023-11-28,Erin Hopkins,North Sabrina,Iowa,Home,"1,171.30","1,075.28"
+SALE1359,2023-10-29,Kenneth Lambert,North Kathryn,Kansas,Home,255.89,-103.65
+SALE1360,2025-07-20,Kenneth Lambert,North Kathryn,Kansas,Sports,377.11,58.20
+SALE1361,2024-08-28,Kimberly Brooks,Kingfort,New Mexico,Home,"2,585.86","1,866.78"
+SALE1362,2024-06-11,Cassandra Perez,Brandonville,Mississippi,Sports,"2,367.15","1,062.63"
+SALE1363,2023-11-14,Julie Hale,Owensview,Vermont,Beauty,570.52,230.13
+SALE1364,2024-01-31,Nicholas Bradshaw,Murphyfurt,Utah,Home,969.66,273.58
+SALE1365,2025-04-10,Jay Patel,Morrisbury,Rhode Island,Home,848.82,-125.98
+SALE1366,2024-04-15,Jessica Mitchell,Matthewbury,South Dakota,Home,487.19,139.15
+SALE1367,2025-09-14,Stephanie Jacobs,West Robinmouth,Louisiana,Clothing,896.04,525.66
+SALE1368,2024-05-20,Thomas Phillips,Luisfurt,Georgia,Beauty,46.22,11.60
+SALE1369,2025-05-21,Christine Vaughn,East Amandamouth,Oregon,Home,586.72,-942.16
+SALE1370,2024-04-14,Jacob Hopkins,lake tylerfort,Pennsylvania,Clothing,"2,033.94","1,021.68"
+SALE1371,2023-11-05,David Arnold,East Jennifer,California,Home,"2,576.23","1,410.85"
+SALE1372,2024-07-26,Beth Martin,Burkefurt,West Virginia,Clothing,736.67,123.75
+SALE1373,2023-12-12,Linda Kline,Masseyland,Alaska,Clothing,"1,022.21",775.29
+SALE1374,2025-05-08,Blake Harrison,Lyonsfort,Washington,Electronics,547.75,"-1,255.09"
+SALE1375,2024-08-30,Laura Soto,Rodriguezton,Michigan,Home,813.05,-161.75
+SALE1376,2025-05-26,Thomas Rhodes,Port Richard,West Virginia,Electronics,48.10,-401.30
+SALE1377,2025-01-10,Eric Wolfe,Garciaview,Louisiana,Electronics,"2,906.57","1,602.33"
+SALE1378,2024-12-30,Mr. Mason Butler,Port Kathrynhaven,Arizona,Beauty,898.82,261.00
+SALE1379,2025-07-31,Frank Stewart,Fischerborough,Delaware,Electronics,311.43,-44.53
+SALE1380,2024-09-14,Oscar Moon,West Cody,Louisiana,Sports,"1,005.39",524.13
+SALE1381,2024-04-27,Christopher Sutton,Deborahberg,Pennsylvania,Clothing,"1,512.23",162.55
+SALE1382,2024-03-23,Brittany Edwards Dds,Aliciahaven,Kansas,Home,"1,176.45",578.73
+SALE1383,2023-12-22,Daniel Nelson,North Jonathan,Oklahoma,Sports,291.58,-14.26
+SALE1384,2025-03-26,Sarah Vance,Johnsonville,Oregon,Beauty,513.81,194.90
+SALE1385,2024-06-04,Gregory Pham,Pollardton,Kansas,Electronics,359.50,-395.54
+SALE1386,2025-03-17,April Phillips,Lake Carolyn,Hawaii,Sports,"1,392.27","1,129.25"
+SALE1387,2024-03-22,Maria Ramirez,West Brandon,Montana,Electronics,577.82,-770.38
+SALE1388,2024-12-29,Bridget Allen,Lake Shaneburgh,Delaware,Electronics,103.86,"-1,191.15"
+SALE1389,2025-07-30,Miss Alexandria Li Dvm,Port Jenniferton,Kansas,Electronics,457.74,7.03
+SALE1390,2024-02-16,Elizabeth Smith,Murphytown,Ohio,Beauty,758.38,417.99
+SALE1391,2024-02-27,John Perez,Kathrynview,Louisiana,Beauty,127.22,-55.82
+SALE1392,2024-03-17,Tyler Conrad,North Curtischester,North Dakota,Beauty,"2,110.13","1,980.26"
+SALE1393,2023-11-13,Samuel Mullins,Hartmouth,Louisiana,Clothing,449.04,336.62
+SALE1394,2024-10-12,Christy Hill,Tammyton,New Jersey,Electronics,384.11,38.43
+SALE1395,2024-02-21,Stephen Fowler,Port Mariastad,Rhode Island,Electronics,372.29,32.15
+SALE1396,2025-03-28,Barbara Berry,Lake Michael,Vermont,Beauty,241.03,57.99
+SALE1397,2025-08-04,Melanie Lam,East Michaelton,Kansas,Sports,"1,832.38","1,438.66"
+SALE1398,2024-11-05,Hayley Pope,West Stephenville,Florida,Sports,"1,813.07","1,690.59"
+SALE1399,2024-06-15,Ryan Hernandez,East Donna,Nevada,Home,538.56,320.08
+SALE1400,2024-12-23,Beth Martin,Burkefurt,West Virginia,Home,"2,163.71","1,589.99"
+SALE1401,2024-12-27,Brian Hammond,North Nicholas,Texas,Sports,794.46,628.40
+SALE1402,2024-03-27,Andrew Smith,East Matthew,Wisconsin,Clothing,888.04,11.54
+SALE1403,2024-12-12,Paul Zamora,North Larryfurt,North Dakota,Sports,"1,169.62",299.94
+SALE1404,2023-12-17,Michelle Rogers,East Jessicaborough,Hawaii,Sports,269.87,-586.75
+SALE1405,2024-02-29,Luke Parks,West Mario,New Hampshire,Sports,925.19,-985.25
+SALE1406,2023-12-30,Maria Sanchez,East Peterbury,North Dakota,Sports,"1,685.16",380.64
+SALE1407,2024-12-12,George Davis,    lake lisa,Massachusetts,Home,660.11,222.39
+SALE1408,2025-01-22,Matthew Hanna,Gonzalezbury,Michigan,Electronics,726.80,484.57
+SALE1409,2024-01-05,Amber Mcclain,Brendaburgh,Florida,Clothing,"1,272.59",924.55
+SALE1410,2025-04-13,Justin Cross,North Anthonychester,Nevada,Home,542.57,-221.87
+SALE1411,2024-11-07,Charles Miller,Lake Allisonborough,Iowa,Home,411.71,-972.70
+SALE1412,2024-05-01,Joseph Jones,North Matthew,Illinois,Beauty,229.02,-56.52
+SALE1413,2024-08-02,Luke Parks,West Mario,New Hampshire,Clothing,"2,234.72","1,538.64"
+SALE1414,2024-04-12,Michael Garner,Port Crystal,New Hampshire,Sports,"1,138.83",321.27
+SALE1415,2025-04-08,Cameron Simpson,Michaelfort,Indiana,Beauty,"1,677.49","1,608.25"
+SALE1416,2024-06-30,Jason Wheeler,Carolview,Illinois,Beauty,599.58,-467.86
+SALE1417,2024-01-13,Alyssa Vargas,New Kathrynland,Montana,Clothing,101.39,-145.53
+SALE1418,2024-09-22,Nathan Campbell,Rodrigueztown,Oklahoma,Electronics,"3,316.16","2,970.48"
+SALE1419,2024-08-23,Eric Vega,Williamsonland,Kansas,Beauty,125.89,-57.15
+SALE1420,2025-08-06,Patrick Roberts,Jaredville,Missouri,Clothing,"1,023.33",250.21
+SALE1421,2025-10-06,Michael Garner,Port Crystal,New Hampshire,Sports,"1,984.74",709.10
+SALE1422,2025-05-30,Charles Norman Phd,East Jennifer,Kansas,Electronics,713.40,33.12
+SALE1423,2024-06-30,Angela Robinson,New Nicholasstad,Tennessee,Beauty,"1,249.50",678.42
+SALE1424,2025-01-07,Daniel Boyd,West Pamelafurt,West Virginia,Electronics,340.06,97.83
+SALE1425,2024-12-07,Charles Miller,Lake Allisonborough,Iowa,Clothing,"1,171.23",715.91
+SALE1426,2024-09-13,John Perez,Brandontown,South Carolina,Clothing,728.12,206.06
+SALE1427,2023-11-14,Timothy Valenzuela,Stevensshire,Missouri,Electronics,"2,107.40","1,129.22"
+SALE1428,2025-04-06,Anthony Garcia,Taraberg,Arizona,Home,"1,818.49","1,674.46"
+SALE1429,2025-05-27,Laura Soto,Rodriguezton,Michigan,Beauty,"1,283.24",566.30
+SALE1430,2023-12-03,Alejandro Doyle,East Crystalton,New Mexico,Home,323.56,95.03
+SALE1431,2025-09-06,Monica Wright,Paulside,North Carolina,Electronics,339.42,-111.29
+SALE1432,2023-11-13,Kristine Higgins,Jennifertown,South Carolina,Sports,172.77,-148.41
+SALE1433,2025-01-29,Thomas Phillips,Luisfurt,Georgia,Electronics,"1,974.24","1,858.68"
+SALE1434,2024-06-29,Brian Hammond,North Nicholas,Texas,Beauty,971.39,-163.93
+SALE1435,2025-05-02,Adam Castro,New Donnabury,Texas,Home,519.15,345.13
+SALE1436,2025-06-22,Maria Davis,Avilahaven,Vermont,Home,953.55,601.41
+SALE1437,2025-04-09,Paul Cox,East Julie,Kansas,Beauty,165.84,-174.55
+SALE1438,2025-07-09,Ashley Griffin,New Dawnton,Maryland,Home,297.29,-306.94
+SALE1439,2024-01-31,James Powell,West Beverlymouth,Missouri,Electronics,"1,523.12",768.08
+SALE1440,2025-06-21,Ryan Torres,Guerreroport,Connecticut,Home,730.19,454.09
+SALE1441,2024-09-04,Sarah Stewart,East Richard,Texas,Sports,"1,657.55","1,132.59"
+SALE1442,2025-08-24,Maria Sanchez,East Peterbury,North Dakota,Electronics,"3,228.88","1,939.24"
+SALE1443,2025-06-06,Sara Ingram,East Dillonview,Virginia,Sports,"1,426.70",688.76
+SALE1444,2024-10-06,John Scott,South Christopher,Pennsylvania,Home,"1,450.89","1,020.60"
+SALE1445,2024-09-07,Jessica Acevedo,Amybury,Pennsylvania,Electronics,360.86,-617.32
+SALE1446,2025-04-11,Tyler Conrad,North Curtischester,North Dakota,Clothing,"1,972.92","1,523.24"
+SALE1447,2025-02-21,Roy Cole,North Cynthiatown,New Jersey,Sports,86.29,-322.49
+SALE1448,2024-10-22,Michael Jones,North Edwardton,Tennessee,Sports,"2,748.22","2,136.54"
+SALE1449,2024-07-21,Lisa Young,Maybury,Georgia,Home,272.62,-325.10
+SALE1450,2024-01-14,Jeffery Wolf,New Laura,Mississippi,Sports,426.12,-69.60
+SALE1451,2024-04-01,Christine Vaughn,East Amandamouth,Oregon,Home,799.13,-347.53
+SALE1452,2025-05-11,Amy Walker,Smithland,West Virginia,Electronics,"2,026.18",731.17
+SALE1453,2025-07-17,Manuel Fisher,Kanebury,New Hampshire,Home,"1,395.69",11.28
+SALE1454,2024-08-29,Jeffrey Mccarthy,North Samuel,Nebraska,Clothing,"1,583.03",866.09
+SALE1455,2025-04-16,Joshua Wilson,North Larryport,Virginia,Beauty,"2,801.77","1,452.09"
+SALE1456,2025-08-31,Nicholas Bradshaw,Murphyfurt,Utah,Electronics,"1,857.22","1,158.88"
+SALE1457,2025-10-13,Steven Smith,Port Krista,West Virginia,Electronics,"3,745.80","2,732.48"
+SALE1458,2024-06-05,Andrea Harris,West Kelseyberg,Kansas,Electronics,"1,776.53","1,049.84"
+SALE1459,2025-09-29,Eric Lee,Lake April,Vermont,Electronics,"1,905.17",926.99
+SALE1460,2024-07-05,Terry Moses,Leahmouth,Nevada,Home,"1,462.00",974.60
+SALE1461,2025-03-07,Eric Wolfe,Garciaview,Louisiana,Electronics,113.34,-128.89
+SALE1462,2023-11-10,Jennifer Woods,West Brendamouth,North Carolina,Beauty,90.48,-92.56
+SALE1463,2025-08-21,Christopher Garcia Dds,New Joseph,Missouri,Electronics,325.54,-319.28
+SALE1464,2025-05-19,Michael Garner,Port Crystal,New Hampshire,Clothing,535.35,368.01
+SALE1465,2025-08-26,Leslie Johnson,Mollyshire,Utah,Home,678.61,241.65
+SALE1466,2025-01-19,Alexis Castaneda,Morrisbury,Alaska,Beauty,"1,352.08","1,222.21"
+SALE1467,2024-10-03,Sarah Smith,Kathleenport,Wyoming,Sports,347.82,"-1,139.34"
+SALE1468,2023-12-12,Michelle Rogers,East Jessicaborough,Hawaii,Beauty,81.62,-543.98
+SALE1469,2025-03-02,Melanie Lam,East Michaelton,Kansas,Clothing,"1,536.74","1,062.32"
+SALE1470,2024-03-05,Jordan Wells,Phillipschester   ,New Jersey,Sports,"1,846.08","1,234.40"
+SALE1471,2024-09-17,Christopher Ford,North Seanfurt,Ohio,Beauty,541.67,204.25
+SALE1472,2023-12-28,Crystal Davis,Sallymouth,Louisiana,Beauty,"2,467.45","2,004.17"
+SALE1473,2024-11-09,Eric Wolfe,Garciaview,Louisiana,Clothing,419.46,180.32
+SALE1474,2024-08-12,Joshua Howard,East Christopherhaven,South Dakota,Electronics,891.87,-412.37
+SALE1475,2024-03-28,Beth Allen,South Kathrynmouth,Oklahoma,Home,"1,740.63","1,337.81"
+SALE1476,2024-10-02,Hayley Pope,West Stephenville,Florida,Home,714.42,-481.02
+SALE1477,2024-08-06,Nathaniel Hill,Lake Mark,Kansas,Beauty,"3,293.54","2,561.38"
+SALE1478,2025-05-29,Krystal Ford,South David,Arizona,Clothing,529.75,406.29
+SALE1479,2023-11-10,Edward Hall,New William,New Mexico,Home,"2,728.20","2,009.12"
+SALE1480,2024-01-18,Ryan Kane,West Bruceburgh,Virginia,Sports,333.81,-158.15
+SALE1481,2024-03-24,Jonathan Steele,Molinabury,Oregon,Sports,312.08,66.10
+SALE1482,2025-03-17,Ryan Hernandez,East Donna,Nevada,Home,"1,032.08",786.83
+SALE1483,2024-05-23,Denise Williams,Christianstad,Hawaii,Beauty,683.00,665.69
+SALE1484,2025-07-26,Sara Ingram,East Dillonview,Virginia,Sports,"2,974.64","2,732.04"
+SALE1485,2024-10-04,Beth Allen,South Kathrynmouth,Oklahoma,Beauty,818.43,459.96
+SALE1486,2025-01-07,Beth Martin,Burkefurt,West Virginia,Sports,435.34,-49.28
+SALE1487,2024-12-19,Beth Martin,Burkefurt,West Virginia,Home,871.40,789.65
+SALE1488,2024-06-06,Michelle Gonzalez,Clarkport,West Virginia,Beauty,344.54,-906.66
+SALE1489,2024-12-03,Earl Smith Dds,West Sarah,South Dakota,Sports,502.51,386.23
+SALE1490,2025-03-23,Michael Torres,Gonzalezfort,New Jersey,Sports,515.93,81.09
+SALE1491,2025-07-11,Tonya Reynolds,Darleneton,Michigan,Beauty,"2,101.06","1,458.10"
+SALE1492,2023-10-31,George Davis,    lake lisa,Massachusetts,Clothing,359.20,52.74
+SALE1493,2024-01-01,Christopher Lester,South Jenniferville,Georgia,Sports,857.10,568.04
+SALE1494,2023-11-21,Tanner Thompson,Port Lisashire,Maryland,Home,"1,112.95",-82.49
+SALE1495,2024-09-20,Daniel Boyd,West Pamelafurt,West Virginia,Electronics,413.53,-313.16
+SALE1496,2024-04-03,Maria Phillips,North Kathytown,Montana,Clothing,"2,010.64","1,091.26"
+SALE1497,2025-05-10,Kara Dodson,Joelside,Vermont,Electronics,444.61,40.90
+SALE1498,2025-06-14,John Perez,Kathrynview,Louisiana,Beauty,"1,533.82","1,499.20"
+SALE1499,2024-10-25,David Pierce,Grayland,Washington,Sports,"1,081.01",454.49
+SALE1500,2024-11-22,David Cole,Lake Michael,Michigan,Home,618.69,417.28
+SALE1501,2024-10-21,Terry Moses,Leahmouth,Nevada,Sports,377.28,136.65
+SALE1502,2024-09-13,Michelle Garcia Dds,Perezbury,Ohio,Sports,"1,630.34","1,475.30"
+SALE1503,2025-04-25,Beth Allen,South Kathrynmouth,Oklahoma,Home,229.31,105.85
+SALE1504,2024-03-10,Lisa Young,Maybury,Georgia,Sports,189.22,44.69
+SALE1505,2023-11-05,Shannon Turner,West Jorge,Oklahoma,Beauty,692.39,675.08
+SALE1506,2025-07-26,James Foster,East Audrey,Utah,Home,"1,884.54",355.66
+SALE1507,2025-01-24,Gregory Allen,West Bruce,Vermont,Sports,906.50,335.42
+SALE1508,2025-09-05,Daniel Rivas,Dominiquefort,Georgia,Electronics,716.13,538.15
+SALE1509,2025-04-18,Laura Soto,Rodriguezton,Michigan,Electronics,137.70,-882.72
+SALE1510,2025-06-13,John Lawson,New Juliemouth,North Carolina,Clothing,"1,345.64","1,004.15"
+SALE1511,2025-02-03,Veronica Newman,New Daniel,Delaware,Home,148.49,66.74
+SALE1512,2025-07-22,Samantha Walker,Timothyburgh,Louisiana,Home,"2,936.01","2,060.57"
+SALE1513,2025-09-22,Brittney Morgan,Lake Kaylahaven,Alaska,Clothing,328.02,215.60
+SALE1514,2024-07-04,Alexander Byrd,Parkerview,New York,Sports,944.47,841.02
+SALE1515,2024-07-31,Brittany Edwards Dds,Aliciahaven,Kansas,Sports,126.59,-4.92
+SALE1516,2025-07-24,Jessica Acevedo,Amybury,Pennsylvania,Sports,"1,579.78",943.00
+SALE1517,2024-10-14,Victor Mcintosh,Tiffanyshire,Minnesota,Beauty,682.56,-513.88
+SALE1518,2025-01-01,Lisa Chandler,Port Richard,Montana,Sports,"1,877.67","1,351.63"
+SALE1519,2025-01-07,Amy Wilson,Morrisburgh,Indiana,Beauty,"1,289.61",572.67
+SALE1520,2025-10-06,Howard Summers,East Linda,Rhode Island,Sports,"1,631.29",909.40
+SALE1521,2024-02-22,Wayne Mcpherson,Edwardsfort,Minnesota,Home,392.03,268.57
+SALE1522,2024-02-07,John Scott,South Christopher,Pennsylvania,Beauty,576.97,-97.87
+SALE1523,2025-08-26,John Jones,North Michaelborough,Oregon,Electronics,953.49,146.07
+SALE1524,2023-11-09,Christina Garcia,Clarkeside,Kansas,Electronics,"1,136.76",484.64
+SALE1525,2024-01-05,Jared Moran,South David,West Virginia,Clothing,468.78,345.32
+SALE1526,2025-01-15,Mario Jacobs,Port James,New York,Electronics,385.68,347.16
+SALE1527,2024-07-26,Jordan Wells,Phillipschester   ,New Jersey,Clothing,"1,084.79",311.67
+SALE1528,2024-05-22,George Rosario,Leburgh,Florida,Clothing,"1,616.81",522.80
+SALE1529,2025-08-24,Christopher Olson,West Richard,Maryland,Sports,753.50,126.98
+SALE1530,2024-02-24,Laura Soto,Rodriguezton,Michigan,Electronics,184.23,68.67
+SALE1531,2024-11-17,Robert Jackson,Lake Brandy,Tennessee,Clothing,"2,801.19","1,367.31"
+SALE1532,2025-09-28,Curtis Haynes,Estradaside,Iowa,Clothing,"1,587.50","1,228.79"
+SALE1533,2024-11-23,James Orozco,Simpsonfort,Maine,Beauty,"2,465.99","2,396.75"
+SALE1534,2024-08-29,Tyrone Olson,Emilytown,California,Beauty,189.24,154.62
+SALE1535,2025-05-04,Tonya Reynolds,Darleneton,Michigan,Electronics,"1,898.25",550.05
+SALE1536,2024-03-27,John Perez,Kathrynview,Louisiana,Home,860.32,-115.46
+SALE1537,2025-01-31,Kristy Dunlap,Whiteport,North Carolina,Sports,"1,220.02",228.58
+SALE1538,2025-09-27,Daniel Boyd,West Pamelafurt,West Virginia,Sports,"1,261.64",391.96
+SALE1539,2025-04-28,Tonya Burch,Olsonhaven,Iowa,Electronics,"3,332.09","1,470.73"
+SALE1540,2025-07-11,Sara Ingram,East Dillonview,Virginia,Electronics,502.11,109.22
+SALE1541,2024-10-08,Amy Wilson,Morrisburgh,Indiana,Electronics,269.02,230.50
+SALE1542,2024-03-05,Lauren George,Garciamouth,New York,Electronics,"1,823.19","1,289.25"
+SALE1543,2024-02-04,Carlos Flores,North Johnfurt,Washington,Clothing,905.85,-121.83
+SALE1544,2024-03-10,Gregory Curtis,Bergermouth,Vermont,Home,"2,019.69","1,415.46"
+SALE1545,2025-09-26,Jacqueline Pacheco,South Emily,New Jersey,Clothing,980.35,263.41
+SALE1546,2025-07-01,Amy Fowler,West Bobbyshire,New York,Sports,136.10,4.86
+SALE1547,2024-05-22,Kathy Copeland,North Christinemouth,Missouri,Electronics,641.92,388.59
+SALE1548,2025-06-11,Travis Holland,Webstermouth,New Hampshire,Beauty,248.18,-827.23
+SALE1549,2024-09-18,Lisa Young,Maybury,Georgia,Electronics,230.13,-29.13
+SALE1550,2023-11-28,Sharon Simpson,South Michellebury,South Dakota,Electronics,169.73,15.65
+SALE1551,2024-05-23,Scott Harris,North Nataliemouth,Maryland,Home,37.33,-351.13
+SALE1552,2024-06-04,Daniel Boyd,West Pamelafurt,West Virginia,Sports,"2,474.21","2,045.97"
+SALE1553,2025-03-08,Tanya Lopez,West Jeffreyburgh,Iowa,Clothing,"1,065.49",-284.19
+SALE1554,2024-02-16,Sarah Stewart,East Richard,Texas,Clothing,706.78,358.74
+SALE1555,2023-11-22,Casey Simpson,West Mathewside,Mississippi,Home,"3,393.88","3,315.80"
+SALE1556,2024-11-10,Amanda Powell,South William,Alabama,Clothing,878.51,655.08
+SALE1557,2024-08-20,Jason Mullins,Brianchester,Delaware,Clothing,958.95,-454.93
+SALE1558,2025-10-04,Jeff Martinez,Smithburgh,Oklahoma,Clothing,287.40,-47.28
+SALE1559,2024-09-04,Steve Hunt,North Richard,Virginia,Beauty,487.85,372.03
+SALE1560,2024-09-20,Joan Johnson,Lake Josephport,Maine,Electronics,129.72,-48.26
+SALE1561,2023-12-21,Jordan Wells,Phillipschester   ,New Jersey,Home,"1,407.60",23.19
+SALE1562,2024-10-17,Cynthia Lopez,Joseland,Nebraska,Sports,349.22,204.69
+SALE1563,2024-03-21,Gina Knight,Lake Roberthaven,Nevada,Electronics,"1,243.12",457.34
+SALE1564,2024-06-15,Jennifer Myers,Marthaborough,Wisconsin,Home,661.47,481.70
+SALE1565,2025-10-13,Michele Burke,Chambersberg,Connecticut,Home,"1,081.04",985.02
+SALE1566,2024-03-23,John Jones,North Michaelborough,Oregon,Sports,"1,023.26",780.66
+SALE1567,2024-03-23,Stuart Johnson,West Markport,North Dakota,Clothing,77.29,-265.27
+SALE1568,2025-05-12,Jennifer Myers,Marthaborough,Wisconsin,Beauty,"1,302.37",51.17
+SALE1569,2024-06-09,Edward Hall,New William,New Mexico,Sports,"2,677.06","1,714.54"
+SALE1570,2023-12-24,Mike Jennings,Fostermouth,Arizona,Home,"2,434.07","1,737.99"
+SALE1571,2024-02-03,Laura Soto,Rodriguezton,Michigan,Clothing,"2,733.23","1,274.55"
+SALE1572,2024-06-22,Sarah Vance,Johnsonville,Oregon,Electronics,361.16,35.10
+SALE1573,2024-11-16,Thomas Moore,Williamsberg,New York,Clothing,"1,758.29",881.79
+SALE1574,2024-06-29,Samantha Robinson,North Roy,Mississippi,Beauty,605.50,306.39
+SALE1575,2025-08-28,Carol Lewis,Ryanport,North Carolina,Electronics,362.32,13.15
+SALE1576,2023-11-11,Earl Smith Dds,West Sarah,South Dakota,Home,"1,455.13",798.55
+SALE1577,2025-07-13,Colleen Maynard,Singletonmouth,Utah,Sports,"2,320.28","1,794.24"
+SALE1578,2024-10-07,Christopher Lester,South Jenniferville,Georgia,Clothing,324.03,-10.65
+SALE1579,2025-04-27,Jessica Acevedo,Amybury,Pennsylvania,Sports,"1,202.40",793.62
+SALE1580,2025-09-21,Brittney Morgan,Lake Kaylahaven,Alaska,Clothing,863.60,635.94
+SALE1581,2023-12-08,Brandy Thompson,West Patriciaview,Alabama,Clothing,167.76,0.42
+SALE1582,2024-04-20,Robert King,Cindyton,Rhode Island,Home,579.25,131.82
+SALE1583,2025-01-10,Tammy Trevino,Justinberg,North Dakota,Electronics,"1,578.98",793.20
+SALE1584,2025-09-02,Madison Wright,Monicaview,Kansas,Home,758.04,107.52
+SALE1585,2024-10-24,Samuel Arias,North Nicole,Wyoming,Beauty,140.72,-144.82
+SALE1586,2025-01-11,Leslie Johnson,Mollyshire,Utah,Sports,"1,176.95","1,134.27"
+SALE1587,2024-01-09,Alejandro Doyle,East Crystalton,New Mexico,Beauty,229.61,-627.01
+SALE1588,2025-04-10,Rhonda Young,Lake Nathanfort,Alaska,Sports,"2,103.18",164.70
+SALE1589,2023-11-05,Christopher Olson,West Richard,Maryland,Clothing,"1,801.42","1,131.13"
+SALE1590,2025-04-02,Jackie Thompson,South Edwin,New Jersey,Home,221.61,-497.47
+SALE1591,2025-05-30,Diana Taylor,Vasqueztown,California,Sports,727.29,666.64
+SALE1592,2024-07-23,Charles Miller,Lake Allisonborough,Iowa,Beauty,"1,758.48","1,706.55"
+SALE1593,2024-03-04,Carlos Skinner,Dwaynemouth,Alabama,Home,84.53,65.01
+SALE1594,2023-11-26,Wayne Mcpherson,Edwardsfort,Minnesota,Sports,"2,155.27","1,491.03"
+SALE1595,2025-07-11,Debra Mccullough,Mcdanielfurt,Montana,Electronics,104.62,-148.71
+SALE1596,2024-02-22,Amy Fowler,West Bobbyshire,New York,Home,384.47,261.01
+SALE1597,2024-03-16,Eric Lee,Lake April,Vermont,Sports,"1,398.71","1,127.49"
+SALE1598,2025-08-18,Christopher Garcia Dds,New Joseph,Missouri,Sports,"1,250.80",843.97
+SALE1599,2024-10-02,Jon Ortiz,South Angelaport,Delaware,Home,104.23,-182.63
+SALE1600,2023-10-24,Michelle Cunningham,Amandaborough,Connecticut,Sports,"1,340.00",768.92
+SALE1601,2025-01-07,Amber Mcclain,Brendaburgh,Florida,Electronics,299.49,-165.85
+SALE1602,2024-01-22,Erin Ward,New Brianchester,New York,Electronics,226.23,-122.94
+SALE1603,2023-10-25,Joel Robinson,Lake Danielport,Hawaii,Home,902.25,304.53
+SALE1604,2024-07-18,Anthony Phillips,North Davidport,Rhode Island,Home,390.96,-503.90
+SALE1605,2024-06-29,Jessica Castro,West Markton,Massachusetts,Electronics,"2,280.37","1,101.70"
+SALE1606,2025-05-18,Joan Johnson,Lake Josephport,Maine,Electronics,"2,291.73",939.60
+SALE1607,2024-06-27,James Foster,East Audrey,Utah,Sports,"1,155.24",948.34
+SALE1608,2024-04-08,Kristine Higgins,Jennifertown,South Carolina,Sports,511.35,450.70
+SALE1609,2025-05-26,John Scott,South Christopher,Pennsylvania,Sports,125.16,-858.76
+SALE1610,2024-01-29,Andrea Jacobs,Christopherland,Minnesota,Clothing,"1,523.06","1,086.62"
+SALE1611,2024-11-23,Roberta Green,West Joseph,Washington,Clothing,"1,423.72",-122.52
+SALE1612,2025-04-30,Dr. Tamara White Md,New Benjamin,North Carolina,Electronics,642.91,223.63
+SALE1613,2024-08-19,Tiffany Herrera,New Dianebury,Virginia,Beauty,174.40,-837.86
+SALE1614,2024-12-02,Matthew Hunter Jr.,Gregoryview,Illinois,Home,"1,939.20","1,525.05"
+SALE1615,2025-03-26,Jordan Wells,Phillipschester   ,New Jersey,Electronics,"2,249.49","1,236.17"
+SALE1616,2024-06-13,Amber Mcclain,Brendaburgh,Florida,Beauty,456.14,241.82
+SALE1617,2024-08-30,Christopher Stewart,Amandaside,New York,Sports,57.39,-109.73
+SALE1618,2024-03-24,Ryan Torres,Guerreroport,Connecticut,Electronics,781.62,316.28
+SALE1619,2024-09-11,John Mayer,Longport,Colorado,Beauty,"1,348.22",777.14
+SALE1620,2025-04-22,Jeffrey Mccarthy,North Samuel,Nebraska,Sports,607.87,546.63
+SALE1621,2024-08-20,Matthew Hunter Jr.,Gregoryview,Illinois,Electronics,314.82,-104.46
+SALE1622,2024-08-27,Gregory Curtis,Bergermouth,Vermont,Home,"1,688.32","1,361.32"
+SALE1623,2024-07-06,Alejandro Evans,Cannonberg,Connecticut,Electronics,398.24,-440.32
+SALE1624,2025-07-30,Jeffrey Mccarthy,North Samuel,Nebraska,Home,587.15,-117.13
+SALE1625,2024-10-04,Lauren George,Garciamouth,New York,Electronics,705.59,-690.43
+SALE1626,2024-03-31,Melissa Hamilton,Hutchinsonville,Oklahoma,Clothing,768.46,83.34
+SALE1627,2025-08-16,Rhonda Young,Lake Nathanfort,Alaska,Electronics,173.55,-163.71
+SALE1628,2025-06-21,Andrea Perez,South Shaun,New Mexico,Electronics,308.79,-949.05
+SALE1629,2025-03-05,Martha Brown,Novakstad,California,Home,435.01,296.96
+SALE1630,2024-08-07,Joseph Jones,North Matthew,Illinois,Electronics,647.00,-216.34
+SALE1631,2025-03-23,Sarah Marsh,Port William,New York,Home,"1,207.76",770.04
+SALE1632,2024-08-29,Tyler Weber,East Yvette,Illinois,Electronics,"1,469.87",491.69
+SALE1633,2024-09-18,Jacob Hopkins,lake tylerfort,Pennsylvania,Clothing,654.36,436.14
+SALE1634,2024-02-19,Christopher Lester,South Jenniferville,Georgia,Electronics,583.17,229.21
+SALE1635,2024-05-18,Pamela Mcguire,South Jasontown,Illinois,Home,305.73,125.96
+SALE1636,2025-09-12,April Mullins,Dawsonbury,North Carolina,Home,"1,352.43",377.63
+SALE1637,2025-02-21,Erica Carney,North Justin,North Dakota,Clothing,"1,501.34",979.34
+SALE1638,2024-08-16,Eric Singh,Port Lisa,New Mexico,Clothing,"2,645.67","1,601.67"
+SALE1639,2024-07-05,William Hull,Heathfort,Michigan,Electronics,"1,142.25",175.02
+SALE1640,2024-07-23,Teresa Stokes,New William,Iowa,Home,86.62,-9.40
+SALE1641,2025-03-26,Veronica Newman,New Daniel,Delaware,Home,"3,110.99","1,265.11"
+SALE1642,2024-01-10,Jennifer Zamora,Sarahland,Iowa,Home,637.06,541.04
+SALE1643,2024-09-12,Adam Cruz,Brandonville,Georgia,Home,853.55,149.27
+SALE1644,2025-05-29,Darrell Miller,Port Carol,Florida,Clothing,844.01,731.59
+SALE1645,2024-01-03,Ryan Moore,Cartershire,Virginia,Electronics,582.88,256.82
+SALE1646,2025-08-06,James Gibbs,Mooneyshire,Alaska,Home,561.33,522.29
+SALE1647,2025-01-12,Miguel Reynolds,Taylorberg,Ohio,Beauty,313.99,-961.65
+SALE1648,2024-11-10,Jordan Wells,Phillipschester   ,New Jersey,Electronics,"2,280.07",975.83
+SALE1649,2025-05-10,Sharon Brown,East Andrea,Michigan,Sports,196.67,61.06
+SALE1650,2025-09-29,Carlos Flores,North Johnfurt,Washington,Clothing,719.27,332.71
+SALE1651,2024-03-28,Andrew Mason,North Michael,Iowa,Electronics,649.89,"-1,106.39"
+SALE1652,2024-08-28,Jeanette Nichols,Aguilarland,North Carolina,Electronics,454.02,-678.54
+SALE1653,2024-06-23,John Lawson,New Juliemouth,North Carolina,Sports,"1,367.14",397.90
+SALE1654,2024-04-13,Jessica Castro,West Markton,Massachusetts,Clothing,581.58,423.44
+SALE1655,2025-02-20,Mike Jennings,Fostermouth,Arizona,Beauty,"1,253.00",287.50
+SALE1656,2025-03-19,Justin Johnson,Hughesview,Iowa,Electronics,"1,017.77",-378.25
+SALE1657,2023-11-07,Michael Jones,North Edwardton,Tennessee,Electronics,"1,666.95",-89.33
+SALE1658,2023-12-22,Rachel Myers,Robertberg,North Dakota,Sports,188.79,67.49
+SALE1659,2024-02-15,Matthew Hunter Jr.,Gregoryview,Illinois,Electronics,"2,797.82","1,502.81"
+SALE1660,2024-01-19,Reginald Willis,Kellybury,New York,Home,"1,544.94",947.22
+SALE1661,2023-10-31,Joshua Bell,Port Richardshire,Minnesota,Clothing,"1,746.96",671.55
+SALE1662,2024-02-19,Amy Wilson,Morrisburgh,Indiana,Beauty,"1,321.53","1,234.95"
+SALE1663,2024-05-28,Jeff Martinez,Smithburgh,Oklahoma,Sports,60.39,-374.45
+SALE1664,2025-05-21,Patrick Roberts,Jaredville,Missouri,Electronics,990.63,12.45
+SALE1665,2024-01-02,John Sloan,East Johntown,Delaware,Sports,813.47,315.29
+SALE1666,2024-01-05,Brandon Mcbride,Kellyside,Alaska,Home,825.03,128.95
+SALE1667,2025-07-22,Jason Mullins,Brianchester,Delaware,Home,103.56,-72.51
+SALE1668,2025-07-05,Darren Burton,Lake Alice,Tennessee,Sports,"2,976.60","2,308.12"
+SALE1669,2025-07-24,Debra Liu,South Timtown,Minnesota,Home,638.88,542.86
+SALE1670,2024-04-03,Earl Smith Dds,West Sarah,South Dakota,Sports,"1,383.57","1,112.35"
+SALE1671,2025-01-11,Blake Harrison,Lyonsfort,Washington,Sports,"3,094.22","2,333.06"
+SALE1672,2024-09-26,Stuart Johnson,West Markport,North Dakota,Clothing,614.51,249.84
+SALE1673,2024-12-11,Laura Green,Westbury,Oregon,Electronics,617.67,268.50
+SALE1674,2025-07-01,Ryan Moore,Cartershire,Virginia,Electronics,705.93,-101.49
+SALE1675,2025-07-13,John Scott,South Christopher,Pennsylvania,Beauty,540.42,241.31
+SALE1676,2024-12-30,Tyler Garner,Port Coreyfort,Alabama,Sports,"1,654.73","1,016.91"
+SALE1677,2025-04-12,Ryan Moore,Cartershire,Virginia,Sports,19.87,-115.74
+SALE1678,2025-01-22,Howard Summers,East Linda,Rhode Island,Electronics,288.15,-143.52
+SALE1679,2023-11-07,Douglas Rhodes,Mikehaven,New Hampshire,Sports,238.97,-155.56
+SALE1680,2025-05-13,Rhonda Moss,South William,Kansas,Clothing,217.26,-437.40
+SALE1681,2023-12-08,Patrick Coleman,New Jeffrey,Nebraska,Clothing,837.42,-222.99
+SALE1682,2025-01-07,Joshua Wilson,North Larryport,Virginia,Beauty,"2,439.30","1,582.02"
+SALE1683,2024-07-02,Sarah Schneider,Port Joshuachester,Pennsylvania,Clothing,111.14,-595.80
+SALE1684,2025-07-07,Kenneth Lambert,North Kathryn,Kansas,Electronics,"2,083.87","1,738.19"
+SALE1685,2024-06-03,Eric Lee,Lake April,Vermont,Sports,"1,802.11","1,393.33"
+SALE1686,2025-04-14,Carlos Flores,North Johnfurt,Washington,Electronics,"1,701.75","1,217.29"
+SALE1687,2024-03-12,Jay Patel,Morrisbury,Rhode Island,Home,"1,554.58","1,032.52"
+SALE1688,2024-05-08,Ronald Jones,Brownshire,Tennessee,Home,53.82,-407.65
+SALE1689,2024-09-01,Christopher Olson,West Richard,Maryland,Sports,"2,671.74","2,093.62"
+SALE1690,2024-06-02,Tonya Burch,Olsonhaven,Iowa,Home,497.16,477.64
+SALE1691,2023-10-31,Heidi Tyler,Dawnstad,Oregon,Beauty,605.76,292.96
+SALE1692,2025-09-16,Michael Mcneil,Stewartchester,Utah,Home,"3,502.97","2,929.25"
+SALE1693,2024-03-02,Katherine Dorsey,Christopherland,Oklahoma,Home,271.18,-55.82
+SALE1694,2024-07-17,Thomas Moore,Williamsberg,New York,Electronics,263.05,"-1,085.15"
+SALE1695,2025-07-12,Thomas Robinson,Nicholastown,Georgia,Home,52.15,-246.71
+SALE1696,2024-08-11,Karen King,Kimburgh,North Carolina,Electronics,843.02,493.85
+SALE1697,2024-01-31,Christopher Carter,Brendastad,South Dakota,Clothing,223.52,-113.90
+SALE1698,2024-09-07,Jennifer Myers,Marthaborough,Wisconsin,Electronics,"1,124.40",787.14
+SALE1699,2025-01-18,Mr. Mark Beasley,West Johnchester,Indiana,Home,"1,618.60",922.52
+SALE1700,2024-02-11,Rhonda Young,Lake Nathanfort,Alaska,Electronics,"1,759.43",626.87
+SALE1701,2025-06-11,Beth Martin,Burkefurt,West Virginia,Clothing,"2,190.13",875.38
+SALE1702,2023-12-08,Kathy Copeland,North Christinemouth,Missouri,Clothing,"1,892.72","1,185.78"
+SALE1703,2024-08-17,Dr. Suzanne Bullock,Lake Blaketon,Alabama,Home,178.51,-1.26
+SALE1704,2025-02-05,Amy Fowler,West Bobbyshire,New York,Sports,152.03,130.69
+SALE1705,2025-03-18,Dr. Ashley Yates Md,New Maria,Wisconsin,Electronics,"2,282.26","1,522.27"
+SALE1706,2024-03-26,Jay Patel,Morrisbury,Rhode Island,Sports,"1,990.04","1,488.68"
+SALE1707,2025-05-01,Melinda Rivera,East Davidmouth,New Hampshire,Electronics,"1,366.90",-29.78
+SALE1708,2025-02-27,Sarah Rodgers,New Julia,West Virginia,Sports,"1,885.52","1,314.65"
+SALE1709,2024-07-19,Robert Harris,East jeremy,Iowa,Home,571.33,109.86
+SALE1710,2024-01-01,Jeffrey Gomez,Lake Nicole,Colorado,Sports,240.45,176.43
+SALE1711,2024-01-25,Julia Jackson,Edwardland,California,Home,502.53,274.00
+SALE1712,2024-09-13,Nathan Campbell,Rodrigueztown,Oklahoma,Clothing,905.17,220.05
+SALE1713,2024-10-07,Gregory Curtis,Bergermouth,Vermont,Electronics,364.08,-39.63
+SALE1714,2024-02-25,Sara Ingram,East Dillonview,Virginia,Clothing,"2,925.73","1,511.85"
+SALE1715,2025-06-15,Thomas Moore,Williamsberg,New York,Beauty,111.16,-4.66
+SALE1716,2024-04-12,John Donaldson,New Edward,Maine,Electronics,97.00,-864.80
+SALE1717,2023-12-05,James Bean,Stevensonton,New Mexico,Sports,"1,492.95",523.71
+SALE1718,2023-12-01,Cody Diaz,South Aaronside,New Hampshire,Home,"1,136.09",-164.95
+SALE1719,2025-02-14,Daniel Boyd,West Pamelafurt,West Virginia,Home,727.82,646.07
+SALE1720,2024-11-28,Summer Weiss,Phyllisport,New Jersey,Electronics,413.07,300.65
+SALE1721,2025-03-20,Jennifer Figueroa,North Brookestad,Ohio,Electronics,922.97,416.31
+SALE1722,2025-02-21,Dr. Tamara White Md,New Benjamin,North Carolina,Clothing,336.46,-5.03
+SALE1723,2025-03-22,Christopher Ford,North Seanfurt,Ohio,Beauty,"2,798.41","2,066.25"
+SALE1724,2025-01-28,Jacqueline Payne,Gutierrezstad,Missouri,Home,"1,303.39",781.33
+SALE1725,2025-02-13,Ms. Maria Leach,Melissashire,Pennsylvania,Clothing,"1,113.88",-200.87
+SALE1726,2025-03-29,Donald Lee,Wongberg,Illinois,Beauty,"2,700.33","1,632.89"
+SALE1727,2023-10-15,Jonathan Steele,Molinabury,Oregon,Beauty,130.93,15.11
+SALE1728,2024-09-12,Debra Liu,South Timtown,Minnesota,Sports,"2,483.28","1,665.72"
+SALE1729,2024-01-05,Ricardo Jones,Danielland,Minnesota,Clothing,514.34,-855.90
+SALE1730,2024-09-14,Earl Smith Dds,West Sarah,South Dakota,Sports,973.03,564.25
+SALE1731,2023-11-01,Jordan Wells,Phillipschester   ,New Jersey,Beauty,"1,347.74",630.80
+SALE1732,2024-12-02,Katherine Dorsey,Christopherland,Oklahoma,Beauty,"1,624.49",943.71
+SALE1733,2025-07-24,Jeremy Harris,Thomastown,Ohio,Beauty,428.90,313.08
+SALE1734,2025-07-05,Christina Garcia,Clarkeside,Kansas,Clothing,303.81,-143.05
+SALE1735,2024-07-09,Katherine Dorsey,Christopherland,Oklahoma,Electronics,"3,237.06","1,726.98"
+SALE1736,2024-01-22,Anthony Phillips,North Davidport,Rhode Island,Clothing,"2,243.39","1,721.33"
+SALE1737,2024-01-23,Evelyn Brown,West Victoriaborough,New Mexico,Beauty,72.80,-409.95
+SALE1738,2024-08-22,Todd Poole,Johnsonshire,Ohio,Home,"1,744.84",443.80
+SALE1739,2025-08-18,Robert House,Lake James,Maryland,Clothing,883.72,-191.69
+SALE1740,2024-09-27,Sarah Rodgers,New Julia,West Virginia,Clothing,"1,629.76",215.88
+SALE1741,2025-08-11,Ms. Maria Leach,Melissashire,Pennsylvania,Clothing,"1,616.22",899.28
+SALE1742,2024-09-21,Gloria Taylor,North Daniel,Louisiana,Sports,24.13,-82.93
+SALE1743,2024-03-04,Chloe Aguilar,Lake Johnside,Arizona,Sports,510.22,-429.56
+SALE1744,2023-11-14,Sheri Joyce,West Tylerfort,Kentucky,Clothing,529.68,362.34
+SALE1745,2025-07-25,Misty Ferguson,North Joseside,Connecticut,Beauty,102.17,-380.58
+SALE1746,2024-10-08,Colleen Maynard,Singletonmouth,Utah,Home,"2,409.82","1,857.62"
+SALE1747,2025-05-15,William Martin,Ryanburgh,Connecticut,Beauty,"1,810.83",913.50
+SALE1748,2025-03-28,Samantha Lee,Port Anthony,Connecticut,Sports,50.05,-358.73
+SALE1749,2025-07-04,James Orozco,Simpsonfort,Maine,Sports,"1,276.64",664.96
+SALE1750,2024-07-29,Laura Alvarez,Lawsonhaven,Washington,Beauty,"1,418.38",521.05
+SALE1751,2024-01-05,Christopher David,Karenmouth,Massachusetts,Sports,"2,031.79","1,047.87"
+SALE1752,2025-08-17,Sarah Rodgers,New Julia,West Virginia,Beauty,"2,407.06","1,943.78"
+SALE1753,2024-05-13,Jamie Yoder,New Gabrielleville,Wisconsin,Electronics,"1,058.16",-246.08
+SALE1754,2025-05-20,Teresa Stokes,New William,Iowa,Electronics,380.85,-68.55
+SALE1755,2025-08-29,Timothy Sanders,Aaronmouth,Florida,Beauty,865.04,524.65
+SALE1756,2024-04-08,Sherry Cabrera,Shannonview,Pennsylvania,Beauty,649.61,283.53
+SALE1757,2024-03-04,Kenneth Lambert,North Kathryn,Kansas,Beauty,"1,748.52",727.35
+SALE1758,2025-09-16,Nathan Campbell,Rodrigueztown,Oklahoma,Clothing,609.46,162.60
+SALE1759,2024-06-05,Nathan Hernandez,New Becky,Montana,Home,"2,922.30","2,730.26"
+SALE1760,2024-04-20,Maria Sanchez,East Peterbury,North Dakota,Electronics,545.68,286.42
+SALE1761,2024-10-16,Damon Perez,Jasonton,Ohio,Home,99.27,-357.79
+SALE1762,2024-11-14,Katherine Dorsey,Christopherland,Oklahoma,Home,"1,025.85",-527.99
+SALE1763,2024-05-26,Bryan Garcia,Garciaborough,Wyoming,Sports,"1,140.46",-798.02
+SALE1764,2025-02-17,Tyler Conrad,North Curtischester,North Dakota,Sports,508.89,431.37
+SALE1765,2025-02-07,Jordan Jackson Dds,North Johnview,Arizona,Clothing,"1,181.74",833.70
+SALE1766,2024-10-06,Sharon Simpson,South Michellebury,South Dakota,Sports,"1,566.57","1,481.21"
+SALE1767,2024-09-09,John Mccoy,Robinborough,South Dakota,Electronics,568.61,84.15
+SALE1768,2024-12-28,Amanda Powell,South William,Alabama,Sports,"1,208.20",238.96
+SALE1769,2024-10-24,Justin Ingram,Lake Lisaland,Louisiana,Beauty,493.64,-306.94
+SALE1770,2024-07-14,Ryan Moore,Cartershire,Virginia,Home,"2,065.59","1,190.15"
+SALE1771,2024-05-06,David Ross,South Angela,Arkansas,Home,199.80,-28.73
+SALE1772,2024-02-16,Steve Hunt,North Richard,Virginia,Home,880.66,798.91
+SALE1773,2024-08-03,Amber Mcclain,Brendaburgh,Florida,Sports,93.82,-532.70
+SALE1774,2023-12-15,Scott Harris,North Nataliemouth,Maryland,Electronics,"3,539.87","2,143.19"
+SALE1775,2024-01-28,Mario Harvey Jr.,Jessicaport,Minnesota,Home,"1,595.10","1,066.89"
+SALE1776,2024-11-24,Mario Harvey Jr.,Jessicaport,Minnesota,Clothing,"1,815.75",771.75
+SALE1777,2025-06-23,Daniel Contreras,Robertview,Florida,Electronics,"1,308.59",-43.54
+SALE1778,2024-03-22,Amber Mcclain,Brendaburgh,Florida,Electronics,782.16,275.50
+SALE1779,2025-07-25,James Orozco,Simpsonfort,Maine,Home,"1,876.32",680.88
+SALE1780,2025-04-11,Joseph Faulkner,New Leahfurt,North Dakota,Clothing,982.23,-243.61
+SALE1781,2023-12-25,Christina Robertson,Hubbardborough,Kentucky,Electronics,517.90,191.84
+SALE1782,2024-12-30,Colleen Maynard,Singletonmouth,Utah,Clothing,198.78,86.36
+SALE1783,2025-03-02,Joseph Faulkner,New Leahfurt,North Dakota,Home,"1,814.98","1,487.98"
+SALE1784,2024-01-02,Manuel Castillo,Nealview,Tennessee,Beauty,"1,278.49","1,243.87"
+SALE1785,2025-09-15,Robert King,Cindyton,Rhode Island,Electronics,339.25,-708.26
+SALE1786,2024-03-08,Nicholas Bradshaw,Murphyfurt,Utah,Sports,"1,343.03","1,010.91"
+SALE1787,2024-12-26,Bryce Hawkins,Lake Monique,Utah,Home,361.50,142.64
+SALE1788,2025-03-19,Antonio Jones,Matthewborough,Georgia,Electronics,318.31,-559.83
+SALE1789,2024-10-14,Thomas Rhodes,Port Richard,West Virginia,Sports,751.27,488.79
+SALE1790,2025-03-05,Nathan Campbell,Rodrigueztown,Oklahoma,Sports,615.08,470.55
+SALE1791,2024-06-03,Erika Padilla,Andrewsland,Alabama,Home,153.11,-26.66
+SALE1792,2024-04-05,Eric Todd,Danielstad,Montana,Sports,"1,123.43",909.31
+SALE1793,2023-10-23,Justin Mason Dds,Peggystad,Connecticut,Electronics,354.56,32.15
+SALE1794,2024-04-20,Timothy Sanders,Aaronmouth,Florida,Sports,553.69,493.04
+SALE1795,2024-06-12,Caroline Collins,Nicholasshire,California,Clothing,"1,078.82",361.88
+SALE1796,2025-08-08,Tiffany Herrera,New Dianebury,Virginia,Clothing,790.77,404.21
+SALE1797,2025-08-06,Christy Hoffman,Garyberg,Indiana,Home,"2,462.34","1,656.70"
+SALE1798,2024-10-27,Michelle Cunningham,Amandaborough,Connecticut,Sports,940.69,398.25
+SALE1799,2024-03-18,Gregory Pham,Pollardton,Kansas,Home,"1,347.46",743.23
+SALE1800,2023-11-19,Brittany Watson,North Joshualand,Connecticut,Sports,763.16,"-1,147.28"
+SALE1801,2025-03-25,Karen King,Kimburgh,North Carolina,Sports,285.84,-147.75
+SALE1802,2024-05-15,Nathan Hernandez,New Becky,Montana,Electronics,"2,324.56",927.88
+SALE1803,2025-03-20,Robert Jones Dds,Tristanton,Oklahoma,Home,"1,232.95",862.57
+SALE1804,2025-10-11,Mr. William Horton,Dawsonchester,Virginia,Clothing,341.00,166.98
+SALE1805,2024-07-13,Mallory Allen,North Theresa,Alabama,Clothing,"1,737.99","1,396.50"
+SALE1806,2024-07-01,Mary Boyd,New Logan,Michigan,Beauty,"1,765.18","1,592.02"
+SALE1807,2025-04-10,Cameron Simpson,Michaelfort,Indiana,Beauty,127.79,"-1,306.09"
+SALE1808,2024-07-02,Rachel Myers,Robertberg,North Dakota,Beauty,491.47,-520.79
+SALE1809,2024-09-11,Amy Fowler,West Bobbyshire,New York,Beauty,133.34,-349.41
+SALE1810,2024-08-16,Angela Robinson,New Nicholasstad,Tennessee,Home,487.75,105.53
+SALE1811,2024-08-30,Rhonda Young,Lake Nathanfort,Alaska,Clothing,"2,145.75",986.07
+SALE1812,2024-02-12,Alyssa Vargas,New Kathrynland,Montana,Home,"1,575.07","1,328.15"
+SALE1813,2023-12-29,Ashley Roberts,Josephmouth,New Mexico,Clothing,"1,635.26","1,160.84"
+SALE1814,2025-06-24,Tyler Conrad,North Curtischester,North Dakota,Beauty,236.74,120.92
+SALE1815,2024-04-18,Tiffany Herrera,New Dianebury,Virginia,Beauty,488.72,471.41
+SALE1816,2025-09-30,Mark Rogers,Bookertown,Oklahoma,Clothing,"2,315.85",881.97
+SALE1817,2025-10-05,Antonio Jones,Matthewborough,Georgia,Home,"1,267.97",831.01
+SALE1818,2025-06-06,Rick Dominguez,North Johnbury,Ohio,Electronics,981.99,-307.65
+SALE1819,2024-02-01,Thomas Rhodes,Port Richard,West Virginia,Home,442.61,319.15
+SALE1820,2024-01-21,Denise Williams,Christianstad,Hawaii,Clothing,989.94,315.10
+SALE1821,2024-09-19,Rhonda Young,Lake Nathanfort,Alaska,Clothing,551.26,-509.15
+SALE1822,2024-01-19,Rick Dominguez,North Johnbury,Ohio,Electronics,43.14,-395.93
+SALE1823,2024-10-29,Dr. Lindsay Hanna,New Paulstad,Hawaii,Beauty,"1,210.87",254.14
+SALE1824,2025-07-02,Joan Johnson,Lake Josephport,Maine,Electronics,"2,943.53","1,187.25"
+SALE1825,2024-09-14,Michelle Myers,West Daniel,South Carolina,Electronics,"1,058.45",360.11
+SALE1826,2025-09-03,Earl Allen,New Jenniferburgh,Nebraska,Home,"1,695.31",310.90
+SALE1827,2025-01-16,Maria Sanchez,East Peterbury,North Dakota,Beauty,"2,141.85","1,244.52"
+SALE1828,2024-04-13,Sheila Wilson,South Dustin,Tennessee,Electronics,"1,287.36",-60.84
+SALE1829,2024-03-28,Mr. Christopher Sims,Donaldsontown,Connecticut,Sports,328.75,-662.69
+SALE1830,2025-07-22,Matthew Avery,Lake Melissashire,Oregon,Sports,"1,958.14",995.62
+SALE1831,2025-02-16,Jeremy Harris,Thomastown,Ohio,Electronics,39.97,-767.45
+SALE1832,2024-02-05,Thomas Moore,Williamsberg,New York,Sports,654.37,226.13
+SALE1833,2025-03-05,Antonio Leon,Morrisville,Hawaii,Beauty,"3,032.66","1,101.66"
+SALE1834,2025-07-04,Denise Tate,Andersonside,Arkansas,Electronics,166.82,-593.17
+SALE1835,2025-07-24,Cynthia Payne,South Gina,Kentucky,Electronics,465.83,0.49
+SALE1836,2025-01-24,Carol Bishop,Lake Saramouth,Oregon,Beauty,188.04,-668.58
+SALE1837,2024-04-10,Michael Thomas,Woodmouth,Nevada,Sports,614.07,118.35
+SALE1838,2024-10-21,James Holloway Jr.,Millston,Indiana,Electronics,"1,664.81",826.25
+SALE1839,2024-02-18,Melanie Lam,East Michaelton,Kansas,Sports,"1,657.01","1,335.83"
+SALE1840,2025-07-15,Samuel Mullins,Hartmouth,Louisiana,Beauty,127.30,-158.24
+SALE1841,2024-07-16,James Wolfe,Benjaminton,Arizona,Sports,"1,720.74","1,149.66"
+SALE1842,2025-04-14,Sherry Cabrera,Shannonview,Pennsylvania,Home,"1,503.18",738.74
+SALE1843,2024-03-28,Denise Griffin,West Markhaven,Florida,Electronics,102.38,-10.04
+SALE1844,2025-02-28,Mary Boyd,New Logan,Michigan,Electronics,791.88,285.22
+SALE1845,2024-03-13,Julie Farmer,Rodriguezmouth,Arizona,Sports,"2,319.45","1,741.33"
+SALE1846,2025-04-05,Michael Garner,Port Crystal,New Hampshire,Clothing,"1,296.26",959.00
+SALE1847,2025-08-14,Joshua Bell,Port Richardshire,Minnesota,Sports,910.26,-58.98
+SALE1848,2024-07-04,Alexis Castaneda,Morrisbury,Alaska,Clothing,794.51,358.07
+SALE1849,2024-09-21,Stephanie Jacobs,West Robinmouth,Louisiana,Sports,"2,458.46","1,846.78"
+SALE1850,2024-06-22,David Cole,Lake Michael,Michigan,Clothing,749.03,581.69
+SALE1851,2024-09-17,Erica Carney,North Justin,North Dakota,Home,"2,224.28","1,672.08"
+SALE1852,2024-12-09,Michael Garner,Port Crystal,New Hampshire,Clothing,774.58,-253.10
+SALE1853,2025-03-24,Roberta Green,West Joseph,Washington,Clothing,34.18,-226.82
+SALE1854,2025-05-19,Christopher David,Karenmouth,Massachusetts,Home,"2,396.08","1,856.77"
+SALE1855,2025-02-22,Kara Dodson,Joelside,Vermont,Sports,"1,624.44","1,560.42"
+SALE1856,2024-10-31,Reginald Willis,Kellybury,New York,Electronics,910.36,-300.77
+SALE1857,2024-03-03,Mr. Mason Butler,Port Kathrynhaven,Arizona,Home,537.39,-847.02
+SALE1858,2024-05-16,Sheri Joyce,West Tylerfort,Kentucky,Electronics,758.24,-531.40
+SALE1859,2024-08-07,John Perez,Kathrynview,Louisiana,Clothing,773.03,614.89
+SALE1860,2024-09-14,Kimberly Brooks,Kingfort,New Mexico,Sports,"1,558.93",254.41
+SALE1861,2024-10-08,Antonio Jones,Matthewborough,Georgia,Home,948.69,-435.72
+SALE1862,2025-09-04,Michael Jones,North Edwardton,Tennessee,Beauty,96.46,-243.93
+SALE1863,2024-07-16,Caroline Collins,Nicholasshire,California,Sports,"2,871.37","2,443.13"
+SALE1864,2025-09-09,Angela Williams,Lake Alyssaburgh,Illinois,Electronics,483.95,-417.47
+SALE1865,2025-03-04,Jordan Medina,Robinchester,Florida,Electronics,"2,916.42","1,118.82"
+SALE1866,2025-06-23,Christy Vasquez,Port Travisstad,South Carolina,Electronics,"1,146.82",386.83
+SALE1867,2024-11-06,Theresa Campbell,New Brian,Wisconsin,Beauty,"2,819.01","1,622.57"
+SALE1868,2025-03-06,Matthew Hanna,Gonzalezbury,Michigan,Electronics,"2,650.29",852.69
+SALE1869,2025-05-17,Dr. Tamara White Md,New Benjamin,North Carolina,Electronics,"2,235.48","1,024.35"
+SALE1870,2025-01-02,Stephanie Jacobs,West Robinmouth,Louisiana,Electronics,459.29,234.45
+SALE1871,2024-07-28,John Jordan,Port Crystalberg,Tennessee,Sports,464.43,-492.30
+SALE1872,2024-04-26,John Mccoy,Robinborough,South Dakota,Clothing,562.36,448.53
+SALE1873,2025-08-17,Thomas Phillips,Luisfurt,Georgia,Sports,725.34,414.99
+SALE1874,2024-05-14,Donald Lee,Wongberg,Illinois,Clothing,"1,894.08","1,444.40"
+SALE1875,2025-03-14,Sarah Vance,Johnsonville,Oregon,Beauty,650.92,-314.58
+SALE1876,2025-03-15,April Phillips,Lake Carolyn,Hawaii,Electronics,143.24,-288.43
+SALE1877,2023-12-12,Linda Kline,Masseyland,Alaska,Electronics,"1,093.29",448.47
+SALE1878,2024-10-19,Travis Holland,Webstermouth,New Hampshire,Clothing,"1,487.46",393.45
+SALE1879,2024-08-30,Traci Gonzalez,Snyderfurt,New Mexico,Clothing,64.13,-273.13
+SALE1880,2024-07-09,Joel Robinson,Lake Danielport,Hawaii,Beauty,383.00,116.14
+SALE1881,2024-07-02,Casey Simpson,West Mathewside,Mississippi,Electronics,"3,339.83","2,985.87"
+SALE1882,2023-11-04,Andrea Jacobs,Christopherland,Minnesota,Electronics,122.13,"-1,230.00"
+SALE1883,2024-04-15,Robert Jones Dds,Tristanton,Oklahoma,Electronics,571.64,106.30
+SALE1884,2024-07-29,Sharon Brown,East Andrea,Michigan,Beauty,625.47,91.75
+SALE1885,2024-12-18,Sheila Wilson,South Dustin,Tennessee,Electronics,838.12,749.63
+SALE1886,2024-11-21,Erika Padilla,Andrewsland,Alabama,Beauty,"1,061.91",463.69
+SALE1887,2025-05-20,Michael Greene,Port Saramouth,Wisconsin,Clothing,146.58,-538.54
+SALE1888,2025-03-24,James Powell,West Beverlymouth,Missouri,Clothing,"2,350.49",891.81
+SALE1889,2025-06-16,Thomas Phillips,Luisfurt,Georgia,Electronics,128.96,-25.12
+SALE1890,2024-04-22,Darrell Miller,Port Carol,Florida,Beauty,"2,282.97",849.09
+SALE1891,2025-09-16,Christina Robertson,Hubbardborough,Kentucky,Sports,"1,956.03","1,099.41"
+SALE1892,2023-12-09,Alyssa Vargas,New Kathrynland,Montana,Home,93.65,-182.45
+SALE1893,2024-07-20,Amy Wilson,Morrisburgh,Indiana,Sports,319.08,-158.53
+SALE1894,2024-09-23,Kelly Garrett,Port Taylorberg,Pennsylvania,Sports,"1,549.92","1,091.16"
+SALE1895,2024-05-11,Heather Collins,Rogerschester,Idaho,Home,"1,307.33","1,211.31"
+SALE1896,2025-05-03,Monique Castro,New Sarah,Indiana,Electronics,"2,829.72","1,860.80"
+SALE1897,2024-02-23,Holly Robinson,East Amy,Washington,Home,232.42,-510.34
+SALE1898,2024-02-22,Paul Cox,East Julie,Kansas,Electronics,"2,084.33",469.49
+SALE1899,2024-08-21,James Bean,Stevensonton,New Mexico,Home,984.37,659.11
+SALE1900,2024-02-07,Ricardo Jones,Danielland,Minnesota,Clothing,418.16,-266.96
+SALE1901,2023-11-20,John Smith,South Andrewport,California,Clothing,38.00,-136.02
+SALE1902,2025-02-03,Tyler Weber,East Yvette,Illinois,Clothing,"1,046.55",317.21
+SALE1903,2024-12-18,Antonio Wade,New Jasonmouth,Tennessee,Clothing,"1,356.89",262.88
+SALE1904,2024-08-10,Kristin Stein,Jennifermouth,Missouri,Sports,502.75,399.30
+SALE1905,2025-04-13,John Bradford,Anabury,Vermont,Clothing,793.39,635.25
+SALE1906,2023-12-29,David Roberts,Port Amanda,Georgia,Sports,"2,075.91","1,642.32"
+SALE1907,2025-02-16,Damon Perez,Jasonton,Ohio,Electronics,"2,513.90",942.34
+SALE1908,2024-01-27,Ryan Moore,Cartershire,Virginia,Sports,895.53,774.23
+SALE1909,2024-07-22,Gene Lee,Mcfarlandmouth,Virginia,Sports,"1,443.24",573.56
+SALE1910,2024-09-25,Sarah Vance,Johnsonville,Oregon,Sports,762.00,658.55
+SALE1911,2024-03-16,Adam Cruz,Brandonville,Georgia,Sports,223.59,-440.65
+SALE1912,2025-07-23,Stephen Fowler,Port Mariastad,Rhode Island,Home,846.75,399.32
+SALE1913,2024-10-24,Melissa Howard,Maynardton,New Hampshire,Sports,757.17,272.55
+SALE1914,2024-09-25,Melissa Howard,Maynardton,New Hampshire,Home,709.13,507.72
+SALE1915,2024-04-26,Kristy Dunlap,Whiteport,North Carolina,Sports,810.10,-181.34
+SALE1916,2025-02-26,Christy Hoffman,Garyberg,Indiana,Home,942.23,136.59
+SALE1917,2025-01-04,Cynthia Parrish,Espinozaberg,Minnesota,Beauty,"1,099.76",868.12
+SALE1918,2025-09-21,Jacqueline Pacheco,South Emily,New Jersey,Home,47.62,-729.30
+SALE1919,2024-12-25,Sheila Wilson,South Dustin,Tennessee,Electronics,"1,505.12",247.28
+SALE1920,2025-08-14,Brittany Watson,North Joshualand,Connecticut,Electronics,855.98,-586.72
+SALE1921,2024-11-28,Christopher Ford,North Seanfurt,Ohio,Home,"1,734.18",820.06
+SALE1922,2023-12-16,Douglas Rhodes,Mikehaven,New Hampshire,Clothing,"1,662.53",993.17
+SALE1923,2024-02-22,Elizabeth Foster,Anthonymouth,Oklahoma,Home,"1,184.89",836.85
+SALE1924,2025-07-11,Monique Castro,New Sarah,Indiana,Home,559.80,540.28
+SALE1925,2025-08-11,Denise Tate,Andersonside,Arkansas,Home,630.19,-134.25
+SALE1926,2025-09-07,Amber Carlson,East Michellemouth,Missouri,Home,355.24,163.20
+SALE1927,2024-09-10,Andrea Harris,West Kelseyberg,Kansas,Sports,"2,373.46","2,309.44"
+SALE1928,2023-11-27,Cynthia Morris,Hessmouth,Arizona,Sports,579.59,-58.23
+SALE1929,2024-06-23,Kara Dodson,Joelside,Vermont,Clothing,626.37,104.37
+SALE1930,2025-07-09,Matthew Avery,Lake Melissashire,Oregon,Electronics,715.30,537.32
+SALE1931,2025-06-17,Edwin Barnes,Lake Alexandra,North Carolina,Beauty,134.96,-721.66
+SALE1932,2025-07-01,Christopher Ford,North Seanfurt,Ohio,Home,994.48,343.96
+SALE1933,2025-03-04,Joshua Wilson,North Larryport,Virginia,Sports,"1,301.88",803.70
+SALE1934,2023-11-20,Shane Mills,Lake Meganstad,Nebraska,Sports,574.88,467.82
+SALE1935,2023-11-28,Sharon Simpson,South Michellebury,South Dakota,Electronics,"2,139.33","1,785.37"
+SALE1936,2025-05-16,Samantha Walker,Timothyburgh,Louisiana,Beauty,274.45,-65.94
+SALE1937,2023-12-05,Donna Guerra,North Robert,Massachusetts,Beauty,"1,706.43","1,533.27"
+SALE1938,2024-11-11,Joshua Bell,Port Richardshire,Minnesota,Sports,599.47,392.57
+SALE1939,2024-03-31,Maria Sanchez,East Peterbury,North Dakota,Clothing,"1,070.76",353.82
+SALE1940,2025-05-16,Amanda Powell,South William,Alabama,Electronics,591.70,-703.31
+SALE1941,2024-10-25,Cynthia Morris,Hessmouth,Arizona,Sports,"2,504.07","2,412.21"
+SALE1942,2025-01-22,Carol Bishop,Lake Saramouth,Oregon,Home,270.52,-303.20
+SALE1943,2025-06-06,Shannon Miller,North Austinport,Kentucky,Home,"1,128.73",-255.68
+SALE1944,2025-05-18,Christy Vasquez,Port Travisstad,South Carolina,Sports,"1,119.41",712.58
+SALE1945,2025-05-20,Hayley Pope,West Stephenville,Florida,Beauty,259.38,-99.09
+SALE1946,2024-11-11,Michele Burke,Chambersberg,Connecticut,Sports,729.39,"-1,253.49"
+SALE1947,2024-11-18,Tanner Thompson,Port Lisashire,Maryland,Beauty,591.31,556.69
+SALE1948,2024-01-02,Bryce Hawkins,Lake Monique,Utah,Beauty,340.20,"-1,093.68"
+SALE1949,2024-01-10,Alexis Castaneda,Morrisbury,Alaska,Home,"2,779.59","1,904.15"
+SALE1950,2024-01-20,David Patterson,New Amyport,Nevada,Sports,548.52,441.46
+SALE1951,2025-02-14,Katherine Dorsey,Christopherland,Oklahoma,Electronics,"1,034.70",861.86
+SALE1952,2024-08-21,Casey Simpson,West Mathewside,Mississippi,Sports,"1,532.39","1,107.87"
+SALE1953,2025-05-03,Krystal Ford,South David,Arizona,Home,"1,648.67",725.73
+SALE1954,2025-06-11,Robert Harris,East jeremy,Iowa,Beauty,786.03,768.72
+SALE1955,2025-07-25,Brian Lopez,East Krista,New York,Beauty,887.86,-473.70
+SALE1956,2025-01-30,Cynthia Morris,Hessmouth,Arizona,Electronics,"2,935.83","1,493.13"
+SALE1957,2025-05-29,Julie Powell,South Barbara,Arkansas,Clothing,"1,882.20",821.79
+SALE1958,2023-10-17,Tonya Burch,Olsonhaven,Iowa,Beauty,"1,120.48",223.15
+SALE1959,2024-12-13,John Mccoy,Robinborough,South Dakota,Electronics,493.06,-13.60
+SALE1960,2024-06-11,Rick Dominguez,North Johnbury,Ohio,Sports,637.37,545.51
+SALE1961,2025-10-04,Howard Summers,East Linda,Rhode Island,Sports,163.57,-168.55
+SALE1962,2024-04-19,Natalie Johnson,New Jessechester,Indiana,Beauty,"1,051.74",-297.94
+SALE1963,2025-04-23,Kelli Smith,North Maryfort,Oregon,Beauty,"3,242.17","3,172.93"
+SALE1964,2024-04-23,Martha Brown,Novakstad,California,Home,322.99,-408.11
+SALE1965,2024-05-12,Jessica Acevedo,Amybury,Pennsylvania,Electronics,51.14,-25.90
+SALE1966,2025-08-12,Robert Jones Dds,Tristanton,Oklahoma,Electronics,817.79,336.89
+SALE1967,2025-05-17,Sarah Vance,Johnsonville,Oregon,Electronics,"1,313.12",614.78
+SALE1968,2025-01-08,Jeff Martinez,Smithburgh,Oklahoma,Beauty,509.76,162.30
+SALE1969,2025-05-16,Maria Ramirez,West Brandon,Montana,Sports,78.59,-57.02
+SALE1970,2024-09-28,Sarah Smith,East Rodney,Nevada,Home,889.83,537.69
+SALE1971,2024-10-12,Damon Perez,Jasonton,Ohio,Sports,366.86,200.80
+SALE1972,2024-06-23,Alejandro Evans,Cannonberg,Connecticut,Home,565.91,337.38
+SALE1973,2023-11-26,Curtis Haynes,Estradaside,Iowa,Home,64.80,16.79
+SALE1974,2025-08-17,Matthew Hanna,Gonzalezbury,Michigan,Clothing,"1,264.34",491.22
+SALE1975,2024-04-08,Matthew Avery,Lake Melissashire,Oregon,Clothing,346.48,-175.52
+SALE1976,2024-04-06,Jacob Wood,Lake Samanthafort,Idaho,Beauty,"1,564.01",542.84
+SALE1977,2025-05-16,Brandon Mcbride,Kellyside,Alaska,Home,592.51,374.03
+SALE1978,2024-11-19,Patty Francis,South Brooke,Pennsylvania,Home,"1,510.72",364.06
+SALE1979,2025-01-09,Stacy Collins,Randychester,California,Clothing,"1,106.31",771.63
+SALE1980,2024-12-18,Jeffrey Gomez,Lake Nicole,Colorado,Home,700.41,604.39
+SALE1981,2024-12-22,Matthew Payne,Grahamfurt,Wyoming,Clothing,320.89,97.46
+SALE1982,2024-07-27,Michelle Carpenter,Lake Danielleton,New Jersey,Home,"2,704.47","1,973.37"
+SALE1983,2025-05-29,Anna Perez,South Jerry,Maine,Home,506.71,487.19
+SALE1984,2024-03-14,Debra Liu,South Timtown,Minnesota,Home,595.41,43.21
+SALE1985,2023-10-30,John Berg,Johnsonville,Oklahoma,Beauty,953.39,-494.86
+SALE1986,2024-02-27,Jennifer Zamora,Sarahland,Iowa,Sports,"2,317.64","1,705.96"
+SALE1987,2025-08-17,William Cortez,Port Hannahport,Ohio,Sports,88.81,58.19
+SALE1988,2024-03-08,Kristy Dunlap,Whiteport,North Carolina,Sports,316.89,-622.89
+SALE1989,2025-03-14,George Rosario,Leburgh,Florida,Beauty,545.48,-52.74
+SALE1990,2024-06-13,Mr. William Horton,Dawsonchester,Virginia,Sports,757.39,-91.65
+SALE1991,2024-06-07,Reginald Willis,Kellybury,New York,Sports,152.28,-166.63
+SALE1992,2024-07-20,Mr. Mark Beasley,West Johnchester,Indiana,Beauty,"1,755.54","1,023.38"
+SALE1993,2023-12-14,Philip Mendoza,Tylermouth,Massachusetts,Home,"2,155.22","1,784.84"
+SALE1994,2025-07-06,Laura Mathews,Chambersfurt,Wisconsin,Home,905.23,516.77
+SALE1995,2023-12-04,Jennifer Pruitt,East Justin,Missouri,Home,274.03,-330.20
+SALE1996,2025-04-26,Cynthia Morris,Hessmouth,Arizona,Home,"2,391.45","1,244.79"
+SALE1997,2024-06-17,Susan Mcdonald,East Ellen,Arkansas,Beauty,"1,014.26",648.18
+SALE1998,2024-11-11,Debra Liu,South Timtown,Minnesota,Sports,"2,694.30","2,383.95"
+SALE1999,2023-12-07,Jonathan Steele,Molinabury,Oregon,Electronics,170.44,"-1,008.23"
